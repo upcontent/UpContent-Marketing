@@ -1,0 +1,6 @@
+baseurl = ""
+theme="upcontent"
+languageCode = "en-us"
+title = "UpContent"
+MetaDataFormat = "toml"
+

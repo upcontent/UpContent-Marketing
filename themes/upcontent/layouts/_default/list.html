@@ -1,0 +1,17 @@
+{{ partial "header_inner.html" . }}
+
+<div class="blog_listing">
+  <h1>Blog</h1>
+  {{ range first 10 .Data.Pages.ByDate }}
+    {{ if eq .Type "post"}}
+    <div class="blog_post">
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      <a class="readmore" href="{{ .Permalink }}">Read More</a>
+    </div>
+    {{ end }}
+  {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
+
