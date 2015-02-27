@@ -213,7 +213,7 @@ header div.headerContent p{
 
 .valueStatement div img{
 	text-align: center;
-	min-width: 75%;
+	max-width: 200px;
 	margin: 1% auto;
 }
 
