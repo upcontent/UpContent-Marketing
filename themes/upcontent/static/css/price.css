@@ -20,6 +20,7 @@ html * {
 
 body {
   font-family: "Josefin Sans", sans-serif;
+  overflow-x: hidden;
 
 }
 
@@ -159,7 +160,7 @@ Main Components
     clear: both;
   }
   .cd-pricing-list > li {
-    width: 33.3333333333%;
+    width: 20%;
     float: left;
   }
   .cd-has-margins .cd-pricing-list > li {

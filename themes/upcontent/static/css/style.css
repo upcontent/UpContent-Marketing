@@ -346,6 +346,14 @@ header div.headerContent p{
 	padding-bottom: 5%;
 }
 
+.how div h2, .how div p{
+	text-align: left;
+}
+
+.how div img{
+	margin-top: 70px;
+}
+
 .curation p, .why p{
 	width: 75%;
 	font-size: 18px;
