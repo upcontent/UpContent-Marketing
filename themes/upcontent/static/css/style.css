@@ -25,6 +25,10 @@ header {
 	margin-bottom: 5%;
 }
 
+.main-headline, .sub-headline{
+	flex-grow: 1;
+}
+
 #header {
 	display: flex;
 	flex-flow: column wrap ;
@@ -42,7 +46,7 @@ header div.topHeader{
 	justify-content: space-around;
 	align-content: center;
 	align-items: center;
-	padding-bottom: 80px;
+	padding-bottom: 70px;
 	width: 100%;
 }
 
@@ -114,8 +118,9 @@ header div.topHeader nav ul li:last-child, #header div.topHeaderr nav ul li:last
 
 header div.headerContent{
 	display: flex;
-	flex-flow: column;
+	flex-flow: row;
 	flex: 1;
+	margin-bottom: 10%;
 }
 
 header div.headerContent h1{
@@ -123,7 +128,7 @@ header div.headerContent h1{
 	font-weight: 300;
 	font-size: 40px;
 	text-align: center;
-	margin-bottom: 50px;
+	line-height: 50px;
 }
 
 header div.headerContent h3{
@@ -131,7 +136,8 @@ header div.headerContent h3{
 	font-weight: 300;
 	font-size: 25px;
 	text-align: center;
-	margin-bottom: 10px;
+	margin-top: 25px;
+	line-height:35px;
 }
 
 header div.headerContent p{
