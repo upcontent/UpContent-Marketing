@@ -241,6 +241,17 @@ header div.headerContent p{
 	min-width: 300px;
 }
 
+.valueStatement em{
+	display: block;
+	font-weight: bold;
+	margin-top: 25px;
+	text-align: left;
+}
+
+.valueStatement em span{
+	font-weight: normal;
+}
+
 .rightContent{
 	display: flex;
 	align-self: auto;
