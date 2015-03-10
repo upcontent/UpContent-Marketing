@@ -456,9 +456,14 @@ header div.headerContent p{
 	color: #775486;
 }
 
+.how{
+	margin-top: 80px;
+	padding-left: 20px;
+}
 
 .how div h2, .how div p{
 	text-align: left;
+	margin-bottom: 15px;
 }
 
 .how div img{
@@ -480,9 +485,7 @@ header div.headerContent p{
 	color: #49b78d;
 }
 
-.where, .curation, .why{
-	margin-bottom: 5%;
-}
+
 
 .where p{
 	text-align: center;
