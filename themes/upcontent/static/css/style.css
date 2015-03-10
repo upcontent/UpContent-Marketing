@@ -332,6 +332,10 @@ header div.headerContent p{
 	padding-bottom: 5%;
 }
 
+.purposes{
+	align-items: inherit !important;
+}
+
 .features div p.icon{
 	width: 50px;
 	height: 50px;
@@ -485,7 +489,18 @@ header div.headerContent p{
 	color: #49b78d;
 }
 
+.purpose{
+	flex-grow: 1;
+	padding-left: 20px;
+}
 
+.purpose h2{
+	text-align: left !important;
+}
+
+.purpose p, .purposes p{
+text-align: left !important; 
+line-height: 36px !important;
 
 .where p{
 	text-align: center;
