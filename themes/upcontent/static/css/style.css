@@ -371,6 +371,12 @@ header div.headerContent p{
 	font-size: 18px;
 	line-height: 20px;
 	margin-bottom: 15px;
+	list-style: none;
+	list-style-type: none;
+}
+
+.howtouse ul li, .howtouse ul li ul li{
+	list-style: inherit;
 }
 
 .why ul li ul{
@@ -379,6 +385,10 @@ header div.headerContent p{
 
 .why ul li strong{
 	color: #49b78d;
+}
+
+.why ul li ul li strong{
+	color: #775486;
 }
 
 .why img{
