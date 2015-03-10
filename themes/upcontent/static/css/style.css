@@ -20,7 +20,8 @@ header {
 	align-content: center;
 	align-items: center;
 	padding: 2%;
-	background: url('/images/header_bg.jpg');
+	background: url('/images/homebg.png');
+	background-size: cover;
 	min-height: 40%;
 	margin-bottom: 5%;
 }
