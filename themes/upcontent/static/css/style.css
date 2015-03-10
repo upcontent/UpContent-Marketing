@@ -118,9 +118,10 @@ header div.topHeader nav ul li:last-child, #header div.topHeaderr nav ul li:last
 
 header div.headerContent{
 	display: flex;
-	flex-flow: row;
+	flex-flow: column;
 	flex: 1;
 	margin-bottom: 10%;
+	align-items: center;
 }
 
 header div.headerContent h1{
@@ -138,6 +139,7 @@ header div.headerContent h3{
 	text-align: center;
 	margin-top: 25px;
 	line-height:35px;
+	width: 75%;
 }
 
 header div.headerContent p{
@@ -153,8 +155,6 @@ header div.headerContent p{
 	justify-content: center ;
 	align-content: center;
 	align-items: center;
-	padding: 10px 0;
-	margin-bottom: 5%;
 }
 
 .price {
@@ -266,6 +266,17 @@ header div.headerContent p{
 	min-width: 0;
 	min-height: 250px;
 	min-width: 300px;
+}
+
+.hootsuite-cta{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  width: 100%;
+  background: url('/images/galaxy.png');
+  min-height: 200px;
+  align-content: center;
+  align-items: center;
 }
 
 .value p.link, .features p.link, .why p.link{
