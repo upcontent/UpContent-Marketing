@@ -1,7 +1,6 @@
 {{ partial "header_inner.html" . }}
 
 <div class="blog_listing">
-  <h1>Blog</h1>
   {{ range first 10 .Data.Pages.ByDate }}
     {{ if eq .Type "post"}}
     <div class="blog_post">

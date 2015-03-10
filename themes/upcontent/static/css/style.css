@@ -501,6 +501,7 @@ header div.headerContent p{
 .purpose p, .purposes p{
 text-align: left !important; 
 line-height: 36px !important;
+}
 
 .where p{
 	text-align: center;
@@ -554,7 +555,6 @@ input.buynow{
 }
 
 .blog_post a{
-	text-transform: uppercase;
 	font-size: 18px;
 	line-height: 30px;
 }

@@ -3,7 +3,7 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-02-26T10:15:03-05:00"
-title = "UpContent Vs. Content Gems"
+title = "UpContent vs. Content Gems"
 
 +++
 
