@@ -67,14 +67,16 @@ header div.topHeader div.logo, #header div.topHeaderr div.logo {
 	min-height: auto;
 }
 
-header div.topHeader div.logo h1, #header div.topHeader div.logo h1{
+header div.topHeader div.logo h1, #header div.topHeaderr div.logo h1{
 	margin: 22px 0 0 10px;
   	color: #fff;
+  	font-size: 32px;
 }
 
-header div.topHeader div.logo h1 a, #header div.topHeader div.logo h1 a{
+header div.topHeader div.logo h1 a, #header div.topHeaderr div.logo h1 a{
   	color: #fff;
   	text-decoration: none;
+  	font-size: 32px;
 }
 
 header div.topHeader nav, #header div.topHeaderr nav {
