@@ -180,6 +180,10 @@ header div.headerContent p{
 	text-align: center;
 }
 
+.price h1{
+	margin-bottom: 10px;
+}
+
 .value h1 span, .price h1 span{
 	font-weight: 700;
 	color: #775486;
@@ -208,19 +212,19 @@ header div.headerContent p{
 .valueStatement div h4{
 	text-align: center;
 	font-weight: 300;
-	font-size: 25px;
+	font-size: 20px;
 	color: #2f2f2f;
-	margin: 5% 0;
+	margin: 5px 0;
 }
 
 .valueStatement div strong{
 	font-weight: 700;
-	font-size: 20px;
+	font-size: 25px;
 	color: #49b78d;
 	line-height: 30px;
 	text-align: center;
 	margin: 0 auto;
-	margin-top: 5%;
+	margin: 15px 0 0 0;
 }
 
 .valueStatement div p{
@@ -232,7 +236,7 @@ header div.headerContent p{
 
 .valueStatement div img{
 	text-align: center;
-	max-width: 200px;
+	max-width: 360px;
 	margin: 1% auto;
 }
 
@@ -509,8 +513,17 @@ line-height: 36px !important;
 }
 
 .price p{
-	font-size: 25px;
+	font-size: 20px;
 	line-height: 35px;
+}
+
+.pricing h2{
+  font-weight: 300;
+  font-size: 30px;
+  color: #3a3939;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 .feat h2{
@@ -615,7 +628,15 @@ a.readmore{
 }
 
 
+.finder, .rc, .spark{
+	cursor: pointer;
+	-webkit-transition: 0.5s;
+  	-moz-transition: 0.5s;
+  	transition: 0.5s;
+}
 
+.finder:hover, .rc:hover, .spark:hover{
+}
 
 
 

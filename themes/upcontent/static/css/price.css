@@ -68,7 +68,7 @@ Main Components
 .cd-pricing-container {
   width: 90%;
   max-width: 1170px;
-  margin: 4em auto;
+  margin: 0 auto;
   margin-bottom: 0.5em;
 }
 
@@ -79,7 +79,7 @@ Main Components
 
 @media only screen and (min-width: 768px) {
   .cd-pricing-container {
-    margin: 6em auto;
+    margin: 0 auto;
     margin-bottom: 0.5em;
   }
   .cd-pricing-container.cd-full-width {
@@ -297,7 +297,6 @@ Main Components
     transform: translateY(-50%);
     height: 50%;
     width: 1px;
-    background-color: #b1d6e8;
   }
   .cd-pricing-wrapper > li::after {
     /* hide gradient layer */
