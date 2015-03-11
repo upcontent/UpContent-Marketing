@@ -15,10 +15,20 @@ p{
 }
 header {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: column wrap ;
+	-webkit-flex-flow: column wrap ;
+	-ms-flex-flow: column wrap ;
 	justify-content: center ;
+	-webkit-justify-content: center ;
+	-ms-justify-content: center ;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	padding: 2%;
 	background: url('/images/homebg.png');
 	background-size: cover;
@@ -28,14 +38,26 @@ header {
 
 .main-headline, .sub-headline{
 	flex-grow: 1;
+	-webkit-flex-grow: 1;
+	flex-grow: 1;
 }
 
 #header {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: column wrap ;
+	-webkit-flex-flow: column wrap ;
+	-ms-flex-flow: column wrap ;
 	justify-content: center ;
+	-webkit-justify-content: center ;
+	-ms-justify-content: center ;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	padding: 2%;
 	background: url('/images/header_bg.jpg');
 	margin-bottom: 5%;
@@ -43,27 +65,53 @@ header {
 
 header div.topHeader{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
 	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	padding-bottom: 70px;
 	width: 100%;
 }
 
 #header div.topHeaderr{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
 	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	width: 100%;
 }
 
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex:  0 1 auto;
+	-webkit-flex:  0 1 auto;
+	-ms-flex:  0 1 auto;
 	align-self: auto;
+	-webkit-align-self: auto;
+	-ms-align-self: auto;
 	min-width: 0;
 	min-height: auto;
 }
@@ -82,8 +130,14 @@ header div.topHeader div.logo h1 a, #header div.topHeaderr div.logo h1 a{
 
 header div.topHeader nav, #header div.topHeaderr nav {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex:  0 2 auto;
+	-webkit-flex:  0 2 auto;
+	-ms-flex:  0 2 auto;
 	align-self: auto;
+	-webkit-align-self: auto;
+	-ms-align-self: auto;
 	min-width: 0;
 	min-height: auto;
 	text-align: center;
@@ -121,10 +175,18 @@ header div.topHeader nav ul li:last-child, #header div.topHeaderr nav ul li:last
 
 header div.headerContent{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: column;
+	-webkit-flex-flow: column;
+	-ms-flex-flow: column;
 	flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
 	margin-bottom: 10%;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 }
 
 header div.headerContent h1{
@@ -154,18 +216,38 @@ header div.headerContent p{
 
 .value {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: column;
+	-webkit-flex-flow: column;
+	-ms-flex-flow: column;
 	justify-content: center ;
+	-webkit-justify-content: center ;
+	-ms-justify-content: center ;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 }
 
 .price, .contact {
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: column;
+	-webkit-flex-flow: column;
+	-ms-flex-flow: column;
 	justify-content: center ;
+	-webkit-justify-content: center ;
+	-ms-justify-content: center ;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	padding: 10px 0;
 	margin-bottom: 5%;
 }
@@ -202,23 +284,33 @@ header div.headerContent p{
 
 .valueStatement{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
 	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	padding: 2% 0;
 	width: 100%;
 	margin-bottom: 5%;
 }
 
-.valueStatement div {
-	max-width: 30%;
+.valueStatement > div {
+	max-width: 350px;
 	text-align: center;
 	flex-flow: column;
+	-webkit-flex-flow: column;
+	-ms-flex-flow: column;
 	margin-bottom: 5%;
 	padding: 0 15px;
 }
 
-.valueStatement div h4{
+.valueStatement > div > h4{
 	text-align: center;
 	font-weight: 300;
 	font-size: 20px;
@@ -245,13 +337,17 @@ header div.headerContent p{
 
 .valueStatement div img{
 	text-align: center;
-	max-width: 360px;
+	width: 100%;
 	margin: 1% auto;
 }
 
 .find{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	align-self: auto;
+	-webkit-align-self: auto;
+	-ms-align-self: auto;
 	min-width: 0;
 	min-height: 250px;
 	min-width: 300px;
@@ -270,7 +366,11 @@ header div.headerContent p{
 
 .rightContent{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	align-self: auto;
+	-webkit-align-self: auto;
+	-ms-align-self: auto;
 	min-width: 0;
 	min-height: 250px;
 	min-width: 300px
@@ -278,7 +378,11 @@ header div.headerContent p{
 
 .engagement{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	align-self: auto;
+	-webkit-align-self: auto;
+	-ms-align-self: auto;
 	min-width: 0;
 	min-height: 250px;
 	min-width: 300px;
@@ -286,13 +390,23 @@ header div.headerContent p{
 
 .hootsuite-cta{
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flex;
   flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
   justify-content: space-around;
+  -webkit-justify-content: space-around;
+  -ms-justify-content: space-around;
   width: 100%;
   background: url('/images/galaxy.png');
   min-height: 200px;
   align-content: center;
+  -webkit-align-content: center;
+  -ms-align-content: center;
   align-items: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
 }
 
 .value p.link, .features p.link, .why p.link{
@@ -337,10 +451,20 @@ header div.headerContent p{
 
 .features, .pricing{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
 	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	width: 100%;
 	background: #f6f6f6;
 	padding-bottom: 5%;
@@ -348,6 +472,8 @@ header div.headerContent p{
 
 .purposes{
 	align-items: inherit !important;
+	-webkit-align-items: inherit !important;
+	-ms-align-items: inherit !important;
 }
 
 .features div p.icon{
@@ -376,7 +502,11 @@ header div.headerContent p{
 .features div{
 	min-height: 200px;
 	flex-basis: 30%;
+	-webkit-flex-basis: 30%;
+	-ms-flex-basis: 30%;
 	flex-shrink: 0;
+	-webkit-flex-shrink: 0;
+	-ms-flex-shrink: 0;
 	min-width: 266px;
 }
 
@@ -396,20 +526,30 @@ header div.headerContent p{
 
 .why{
 	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
 	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
 	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
 	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
 	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
 	width: 100%;
 	padding-bottom: 5%;
 }
 
 .why h3{
 	width: 75%;
-  	margin: 40px 0 10px 0;
-  	font-size: 30px;
-  	font-weight: 700;
-  	color: #49b78d;
+	margin: 40px 0 10px 0;
+	font-size: 30px;
+	font-weight: 700;
+	color: #49b78d;
 }
 
 .why h4{
@@ -505,6 +645,8 @@ header div.headerContent p{
 
 .purpose{
 	flex-grow: 1;
+	-webkit-flex-grow: 1;
+	-ms-flex-grow: 1;
 	padding-left: 20px;
 }
 
