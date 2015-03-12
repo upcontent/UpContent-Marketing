@@ -543,6 +543,7 @@ Main Components
   width: 20px;
   background: url(../img/cd-icon-small-arrow.svg);
 }
+
 @media only screen and (min-width: 768px) {
   .cd-pricing-footer {
     position: relative;
@@ -571,6 +572,7 @@ Main Components
   color: transparent;
 
 }
+
 @media only screen and (min-width: 768px) {
   .cd-select {
     position: static;
