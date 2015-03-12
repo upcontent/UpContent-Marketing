@@ -474,6 +474,27 @@ header div.headerContent p{
 	padding-bottom: 5%;
 }
 
+.price a{
+	padding: 1.3em 3em;
+  	color: #FFFFFF;
+	border-radius: 2px;
+	background-color: #775486;
+	font-size: 1.4rem;
+	text-indent: 0;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 30px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+
+.price a:hover{
+	color: #775486;;
+	background: transparent;
+	border: 1px solid #775486;
+}
+
 .purposes{
 	align-items: inherit !important;
 	-webkit-align-items: inherit !important;
