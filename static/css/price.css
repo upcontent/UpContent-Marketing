@@ -481,9 +481,7 @@ Main Components
   padding: 1.6em 1em;
   font-size: 1.4rem;
   text-align: center;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  min-height: 75px;
 }
 .cd-pricing-features em {
   display: block;
