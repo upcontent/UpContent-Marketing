@@ -540,6 +540,10 @@ header div.headerContent p{
 	line-height: 14px;
 }
 
+.notify a{
+	color: #B5B5B5 !important;
+}
+
 .features div p{
 	text-align: center;
 	color: #2f2f2f;
