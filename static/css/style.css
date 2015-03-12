@@ -535,6 +535,11 @@ header div.headerContent p{
 	min-width: 266px;
 }
 
+.notify{
+	font-size: 14px !important;
+	line-height: 14px;
+}
+
 .features div p{
 	text-align: center;
 	color: #2f2f2f;

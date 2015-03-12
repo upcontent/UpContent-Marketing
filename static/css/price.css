@@ -498,7 +498,7 @@ Main Components
     padding: 1em;
   }
   .cd-popular .cd-pricing-features li {
-    margin: 0 3px;
+    
   }
   .cd-pricing-features li:nth-of-type(2n+1) {
     background-color: rgba(23, 61, 80, 0.06);
