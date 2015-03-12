@@ -376,6 +376,10 @@ header div.headerContent p{
 	min-width: 300px
 }
 
+.rightContent em span strong{
+	font-size: 18px;
+}
+
 .engagement{
 	display: flex;
 	display: -webkit-flex;
@@ -780,7 +784,6 @@ a.readmore{
 
 
 .finder, .rc, .spark{
-	cursor: pointer;
 	-webkit-transition: 0.5s;
   	-moz-transition: 0.5s;
   	transition: 0.5s;
