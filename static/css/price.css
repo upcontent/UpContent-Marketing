@@ -72,10 +72,7 @@ Main Components
   margin-bottom: 0.5em;
 }
 
-.grey{
-  background-color: #EFEFEF !important;
-  color: #B5B5B5 !important;
-}
+
 
 @media only screen and (min-width: 768px) {
   .cd-pricing-container {

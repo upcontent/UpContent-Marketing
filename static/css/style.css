@@ -102,6 +102,26 @@ header div.topHeader{
 	width: 100%;
 }
 
+.headerContent a{
+	color: #fff;
+	font-size: 25px;
+	padding: 10px 40px;
+	border: 1px solid #fff;
+	-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 300;
+	margin-top: 70px;
+}
+
+.headerContent a:hover{
+	background: #fff;
+	color: #775486;
+}
+
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
 	display: flex;
 	display: -webkit-flex;
@@ -192,7 +212,7 @@ header div.headerContent{
 header div.headerContent h1{
 	color: #fff;
 	font-weight: 300;
-	font-size: 40px;
+	font-size: 50px;
 	text-align: center;
 	line-height: 50px;
 }
@@ -200,9 +220,9 @@ header div.headerContent h1{
 header div.headerContent h3{
 	color: #fff;
 	font-weight: 300;
-	font-size: 25px;
+	font-size: 35px;
 	text-align: center;
-	margin-top: 25px;
+	margin-top: 35px;
 	line-height:35px;
 	width: 75%;
 }
@@ -257,7 +277,7 @@ header div.headerContent p{
 	font-weight: 300;
 	font-size: 35px;
 	color: #3a3939;
-	margin-bottom: 5%;
+	margin-bottom: 10px;
 	line-height: 50px;
 	text-align: center;
 }
@@ -339,6 +359,7 @@ header div.headerContent p{
 	text-align: center;
 	width: 100%;
 	margin: 1% auto;
+	max-width: 300px;
 }
 
 .find{
@@ -563,7 +584,7 @@ header div.headerContent p{
 	text-align: center;
 	color: #2f2f2f;
 	line-height: 20px;
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 400;
 	line-height: 22px;
 }
@@ -571,6 +592,7 @@ header div.headerContent p{
 .features div p strong{
 	font-weight: 700;
 	color: #775486;
+	font-size: 22px;
 }
 
 .why{
@@ -673,6 +695,10 @@ header div.headerContent p{
 	margin-bottom: 15px;
 }
 
+.how div p{
+line-height: 28px;
+}
+
 .how div img{
 	margin-top: 70px;
 }
@@ -747,7 +773,7 @@ input.buynow{
 }
 
 .cd-select .grey{
-	background-color: #f7f7f7 !important;
+	
 }
 
 .blog_listing{
