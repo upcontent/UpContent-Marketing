@@ -272,6 +272,11 @@ header div.headerContent p{
 	margin-bottom: 5%;
 }
 
+.pricing p{
+	width: 100%; 
+	text-align: center;
+}
+
 .value h1, .price h1, .featuring h1, .blog_post h1, .contact h1
 {
 	font-weight: 300;
