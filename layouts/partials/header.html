@@ -17,7 +17,21 @@
     </script>
 
     <script type="text/javascript" src="https://xz236.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=17096523c2a2635e7c1b1d94bc261df1"></script>
-  </head>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      var valuelinks = document.getElementsByClassName('valuelink');
+      for (var i = 0; i < valuelinks.length; i++) {
+        var item = valuelinks[i];
+        item.addEventListener('mouseover', function() {
+          document.getElementById(this.dataset.partner).style.transform = 'scale(1.1)';
+        });
+        item.addEventListener('mouseout', function() {
+          document.getElementById(this.dataset.partner).style.transform = 'scale(1)';
+        });
+      }
+    });
+    </script>
 
   <body>
     <header>

@@ -234,6 +234,14 @@ header div.headerContent p{
 	text-align: center;
 }
 
+.zoom{
+	transition: all .2s ease-in-out;
+}
+
+.valuelink{
+	cursor: pointer;
+}
+
 .value {
 	display: flex;
 	display: -webkit-flex;
