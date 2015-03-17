@@ -33,7 +33,7 @@ header {
 	background: url('/images/homebg.png');
 	background-size: cover;
 	min-height: 40%;
-	margin-bottom: 5%;
+	margin-bottom: 70px;
 }
 
 .main-headline, .sub-headline{
@@ -58,9 +58,9 @@ header {
 	align-items: center;
 	-webkit-align-items: center;
 	-ms-align-items: center;
-	padding: 2%;
+	padding: 30px;
 	background: url('/images/header_bg.jpg');
-	margin-bottom: 5%;
+	margin-bottom: 70px;
 }
 
 header div.topHeader{
@@ -203,7 +203,7 @@ header div.headerContent{
 	flex: 1;
 	-webkit-flex: 1;
 	-ms-flex: 1;
-	margin-bottom: 10%;
+	margin-bottom: 70px;
 	align-items: center;
 	-webkit-align-items: center;
 	-ms-align-items: center;
@@ -269,7 +269,7 @@ header div.headerContent p{
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	padding: 10px 0;
-	margin-bottom: 5%;
+	margin-bottom: 35px;
 }
 
 .pricing p{
@@ -304,7 +304,7 @@ header div.headerContent p{
 	font-weight: 700;
 	color: #775486;
 	border-bottom: 1px dotted #775486;
-	padding-bottom: .5%;
+	padding-bottom: 5px;
 }
 
 .valueStatement{
@@ -320,9 +320,9 @@ header div.headerContent p{
 	align-content: center;
 	-webkit-align-content: center;
 	-ms-align-content: center;
-	padding: 2% 0;
+	padding: 25px 0;
 	width: 100%;
-	margin-bottom: 5%;
+	margin-bottom: 35px;
 }
 
 .valueStatement > div {
@@ -331,7 +331,7 @@ header div.headerContent p{
 	flex-flow: column;
 	-webkit-flex-flow: column;
 	-ms-flex-flow: column;
-	margin-bottom: 5%;
+	margin-bottom: 35px;
 	padding: 0 15px;
 }
 
@@ -363,7 +363,7 @@ header div.headerContent p{
 .valueStatement div img{
 	text-align: center;
 	width: 100%;
-	margin: 1% auto;
+	margin: 10px auto;
 	max-width: 300px;
 }
 
@@ -456,7 +456,7 @@ header div.headerContent p{
 	color: #fff;
 	font-weight: 700;
 	font-size: 17px;
-	padding: 1.3% 3%;
+	padding: 15px 30px;
 	margin: 0 auto;
 	text-decoration: none;
 	border-radius: 3px;
@@ -497,7 +497,7 @@ header div.headerContent p{
 	-ms-align-items: center;
 	width: 100%;
 	background: #f6f6f6;
-	padding-bottom: 5%;
+	padding-bottom: 35px;
 }
 
 .price a{
@@ -549,7 +549,7 @@ header div.headerContent p{
 	max-height: 50px;
 	text-align: center;
 	overflow: hidden;
-	margin: 0 auto 5% auto;
+	margin: 0 auto 25px auto;
 }
 
 .features a{
@@ -562,7 +562,7 @@ header div.headerContent p{
 	font-weight: 300;
 	font-size: 40px;
 	color: #2f2f2f;
-	margin: 5% 0;
+	margin: 80px 0 50px 0;
 }
 
 .features div{
@@ -617,7 +617,7 @@ header div.headerContent p{
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	width: 100%;
-	padding-bottom: 5%;
+	padding-bottom: 35px;
 }
 
 .why h3{
@@ -702,6 +702,7 @@ header div.headerContent p{
 
 .how div p{
 line-height: 28px;
+width: 98%;
 }
 
 .how div img{
@@ -789,7 +790,7 @@ input.buynow{
 .blog_listing h1{
 	font-weight: 700;
 	font-size: 60px;
-	margin-bottom: 5%;
+	margin-bottom: 25px;
 	line-height: 50px;
 	text-align: center;
 }
@@ -807,7 +808,7 @@ input.buynow{
 .blog_post h2 a{
 	font-weight: 300;
 	font-size: 35px;
-	margin-bottom: 5%;
+	margin-bottom: 25px;
 	line-height: 50px;
 }
 
@@ -925,7 +926,7 @@ form button[type="submit"]{
 	color: #fff;
 	background: #49B785;
 	font-weight: normal;
-	border-radus: 3px;
+	border-radius: 3px;
 	-moz-border-radius: 3px;
 	-o-border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -936,6 +937,37 @@ form button[type="submit"]{
 	float: right;
 
 }
+
+.relevance{
+	background: url('/images/relevance.png') no-repeat;
+	background-position: center left;
+	padding-left: 70px;
+	margin-bottom: 30px !important;
+	margin-top: 20px;
+}
+
+.shareability{
+	background: url('/images/shareability.png') no-repeat;
+	background-position: center left;
+	padding-left: 70px;
+	margin-bottom: 30px !important;}
+
+.influence{
+	background: url('/images/influence.png') no-repeat;
+	background-position: center left;
+	padding-left: 70px;
+	margin-bottom: 30px !important;
+}
+
+.recency{
+	background: url('/images/recency.png') no-repeat;
+	background-position: center left;
+	padding-left: 70px;
+	margin-bottom: 30px !important;
+}
+
+
+
 
 
 @media only screen and (max-width: 657px) {
