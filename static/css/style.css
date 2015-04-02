@@ -161,6 +161,10 @@ header div.topHeader nav, #header div.topHeaderr nav {
 	min-width: 0;
 	min-height: auto;
 	text-align: center;
+	flex-direction: column;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
 }
 
 header div.topHeader nav ul, #header div.topHeaderr nav ul{
@@ -169,6 +173,11 @@ header div.topHeader nav ul, #header div.topHeaderr nav ul{
 	text-transform: uppercase;
 	font-size: 14px;
 	
+}
+
+header div.topHeader nav ul.subnav, #header div.topHeaderr nav ul.subnav{
+	font-size: 1.2em;
+	margin-top: 5px;
 }
 
 header div.topHeader nav ul li, #header div.topHeaderr nav ul li{
@@ -182,6 +191,10 @@ header div.topHeader nav ul li a, #header div.topHeaderr nav ul li a{
 	color: #fff;
 	text-decoration: none;
 	text-align: center;
+}
+
+header div.topHeader nav ul.subnav li a, #header div.topHeaderr nav ul.subnav li a{
+	color: rgb(56, 156, 120);
 }
 
 header div.topHeader nav ul li a:hover, #header div.topHeaderr nav ul li a:hover{

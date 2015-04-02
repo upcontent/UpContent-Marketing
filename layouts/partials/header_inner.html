@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>{{ .Title }}</title>
+    <title>UpContent | {{ .Title }}</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/price.css">
     <link href='//fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
@@ -37,6 +37,13 @@
             <li><a href="/post/">Blog</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
+
+          <ul class="subnav">
+            {{ range where .Site.Pages "Section" .Section }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+
         </nav>
       </div>
     </div>
