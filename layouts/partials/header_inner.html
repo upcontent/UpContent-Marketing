@@ -37,13 +37,15 @@
             <li><a href="/post/">Blog</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
-
+          {{ if ne .Section "" }}
           <ul class="subnav">
             {{ range where .Site.Pages "Section" .Section }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                {{ if ne .Type (lower (replace .Title " "  "")) }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
             {{ end }}
           </ul>
-
+          {{ end }}
         </nav>
       </div>
     </div>
