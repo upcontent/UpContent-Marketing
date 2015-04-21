@@ -22,30 +22,9 @@
 
   <body>
     <div id="header">
-      <div class="topHeaderr">
-        <div class="logo">
+      <div class="topHeaderr landing">
+        <div class="logo landing">
           <a href="/"><img src="/images/logo.png" alt="UpContent Logo"></a><h1><a href="/">UpContent</a></h1>
         </div>
-
-        <nav>
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/pricing/">Pricing</a></li>
-            <li><a href="/howitworks/">How it Works</a></li>
-            <li><a href="/#features">Features</a></li>
-            <li><a href="/purpose">Purpose</a></li>
-            <li><a href="/post/">Blog</a></li>
-            <li><a href="/contact">Contact</a></li>
-          </ul>
-          {{ if ne .Section "" }}
-          <ul class="subnav">
-            {{ range where .Site.Pages "Section" .Section }}
-                {{ if ne .Type (lower (replace .Title " "  "")) }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                {{ end }}
-            {{ end }}
-          </ul>
-          {{ end }}
-        </nav>
       </div>
-    </div>
+      

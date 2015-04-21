@@ -102,6 +102,188 @@ header div.topHeader{
 	width: 100%;
 }
 
+#header div.topHeaderr.landing{
+	justify-content: flex-start;
+	-webkit-justify-content: flex-start;
+}
+
+#header div.landingopen{
+	width: 95%;
+	text-align:center;
+}
+
+.landingopen h2{
+	font-size: 30px;
+	text-align: center;
+	font-weight: 300;
+	color: #343434;
+	margin-bottom: 15px;
+}
+
+.landingopen.intro p{
+	font-size: 18px;
+	line-height: 28px;
+	text-align: center;
+}
+
+.landingcontent{
+	margin-top: 40px;
+	display: flex;
+  	display: -webkit-flex;
+  	display: -ms-flex;
+ 	flex-flow: column wrap;
+  	-webkit-flex-flow: row wrap;
+ 	-ms-flex-flow: row wrap;
+  	justify-content: space-around;
+  	-webkit-justify-content: space-around;
+  	-ms-justify-content: space-around;
+ 	align-content: center;
+ 	-webkit-align-content: center;
+ 	-ms-align-content: center;
+ 	padding: 25px 0;
+ 	width: 100%;
+ 	background: #f6f6f6;
+}
+
+.landingcontent h3{
+	color: #389c78;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+.landingcontent p, .landingcontent ul li{
+	font-size: 18px;
+}
+
+.landingcontent ul{
+	padding-left: 40px;
+	list-style: none;
+	list-style-image: none;
+	margin-top: 10px;
+}
+
+.landingcontent ul li{
+	padding-bottom: 25px;
+	line-height: 20px;
+}
+
+.landingcontent p strong{
+	font-weight: 700;
+}
+
+.landingleft{
+	min-width: 300px;
+	flex-basis: 30%;
+	flex-shrink: 1;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 30px;
+}
+
+.landingright{
+	flex-basis: 70%;
+	flex-shrink: 2;
+	background: #fff;
+}
+
+.landingright ul{
+	clear:both;
+	border-bottom: 1px solid #dadada;
+	margin-top: 0;
+	padding-left: 0;
+	display:flex;
+	flex-flow: row wrap;
+}
+
+
+.landingright ul:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+    margin:0;
+}
+
+.landingright ul li{
+	display: block;
+	padding: 15px 30px;
+	max-width: 20%;
+	min-width: 175px;
+	text-align: center;
+	min-height: 100px;
+	display: flex;
+	justify-content: center;
+	flex-flow: column;
+	flex-grow: 1;
+}
+
+.landingright ul li a{
+	word-wrap: break-word;
+}
+
+.landingright ul li:nth-child(2n){
+	background-color: rgba(23, 61, 80, 0.06);
+}
+
+.landingright ul li:last-child a{
+	padding: 10px 15px;
+	background: #775486;
+	color: #fff;
+}
+
+.landingright ul li:last-child{
+	float: none;
+}
+
+
+
+
+#header div.landingopen h1{
+	color: #fff;
+	font-size: 60px;
+	font-weight: 300;
+	margin-top: 50px;
+}
+
+#header div.landingopen p{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 300;
+	margin-top: 25px;
+	margin-bottom: 60px;
+}
+
+#header div.landingopen a.gradientbtn{
+	display: inline-block;
+	background: transparent;
+	padding: 15px 45px;
+	border: 2px solid #49b78d;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-o-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	color: #49b78d;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 15px;
+	margin: 0 5px;
+	margin-bottom: 40px;
+}
+
+#header div.landingopen a.gradientbtn:hover{
+	background: #49b78d;
+	color: #fff;
+}
+
+
+#header div.landingopen a.gradientbtn:after{
+	background-color: #372C3A;
+	padding: 13px 0;
+
+}
+
 .headerContent a{
 	color: #fff;
 	font-size: 25px;
@@ -183,7 +365,7 @@ header div.topHeader nav ul.subnav, #header div.topHeaderr nav ul.subnav{
 header div.topHeader nav ul li, #header div.topHeaderr nav ul li{
 	display: inline;
 	list-style: none;
-	margin-right: 20px;
+	margin-right: 30px;
 	line-height: 24px;
 }
 
@@ -376,8 +558,8 @@ header div.headerContent p{
 
 .valueStatement div p{
 	font-weight: normal;
-	font-size: 16px;
-	line-height: 22px;
+	font-size: 20px;
+	line-height: 26px;
 	text-align: justify;
 }
 
@@ -385,7 +567,7 @@ header div.headerContent p{
 	text-align: center;
 	width: 100%;
 	margin: 10px auto;
-	max-width: 300px;
+	max-width: 270px;
 }
 
 .find{
@@ -405,6 +587,7 @@ header div.headerContent p{
 	font-weight: bold;
 	margin-top: 25px;
 	text-align: left;
+	font-size:20px;
 }
 
 .valueStatement em span{
@@ -424,7 +607,7 @@ header div.headerContent p{
 }
 
 .rightContent em span strong{
-	font-size: 18px;
+	font-size: 20px;
 }
 
 .engagement{
@@ -985,6 +1168,41 @@ form button[type="submit"]{
 	margin-bottom: 30px !important;
 }
 
+.pricingcolumns{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  flex-flow: column;
+  -webkit-flex-flow: row;
+  -ms-flex-flow: column;
+  justify-content: center;
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  -ms-align-content: center;
+  -ms-align-items: center;
+  padding: 10px 0;
+  margin-bottom: 35px;
+}
+
+.pricingcolumns div{
+  font-size: 20px;
+  max-width: 400px;
+  margin: 0 70px;
+}
+
+.pricingcolumns div strong{
+	font-size: 25px;
+	color: rgb(56, 156, 120);
+}
+
+.pricingcolumns div ul li span{font-weight: 700;}
+
+.pricingcolumns div ul{padding: 10px 0 20px 40px;}
+
+.pricingcolumns div ul li{padding-bottom: 20px;
+}
+
+.pricingcolumns div ul li ul{padding-left: 40px;}
 
 
 
