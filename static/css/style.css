@@ -180,6 +180,16 @@ header div.topHeader{
 	margin-bottom: 30px;
 }
 
+.landingleft ul li img{
+	float: left;
+    margin-right: 10px;
+    padding-top: 5px;
+}
+
+.landingleft ul li:nth-child(3) img, .landingleft ul li:last-child img{
+	padding-top: 0;
+}
+
 .landingright{
 	flex-basis: 70%;
 	flex-shrink: 2;
