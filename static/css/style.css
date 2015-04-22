@@ -110,6 +110,7 @@ header div.topHeader{
 #header div.landingopen{
 	width: 95%;
 	text-align:center;
+	clear:both;
 }
 
 .landingopen h2{
@@ -118,6 +119,7 @@ header div.topHeader{
 	font-weight: 300;
 	color: #343434;
 	margin-bottom: 15px;
+	clear:both;
 }
 
 .landingopen.intro p{
@@ -173,7 +175,7 @@ header div.topHeader{
 
 .landingleft{
 	min-width: 300px;
-	flex-basis: 30%;
+	flex-basis: 35%;
 	flex-shrink: 1;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -190,15 +192,28 @@ header div.topHeader{
 	padding-top: 0;
 }
 
+.landingleft ul li:nth-child(3){
+	padding-top: 10px;
+}
+
+.landingleft ul li:nth-child(4){
+	padding-top: 5px;
+}
+
+.landingleft ul li:nth-child(3) img{
+	margin-top: -10px;
+}
+
 .landingright{
-	flex-basis: 70%;
+	flex-basis: 65%;
 	flex-shrink: 2;
 	background: #fff;
+	margin-bottom: 30px;
+	border: 1px solid #dadada;
 }
 
 .landingright ul{
 	clear:both;
-	border-bottom: 1px solid #dadada;
 	margin-top: 0;
 	padding-left: 0;
 	display:flex;
@@ -219,7 +234,6 @@ header div.topHeader{
 .landingright ul li{
 	display: block;
 	padding: 15px 30px;
-	max-width: 20%;
 	min-width: 175px;
 	text-align: center;
 	min-height: 100px;
@@ -227,6 +241,21 @@ header div.topHeader{
 	justify-content: center;
 	flex-flow: column;
 	flex-grow: 1;
+	flex-basis: 20%;
+}
+
+.landingright ul li:first-child{
+	font-weight: 700;
+}
+
+.landingright ul li:first-child .freeplan{
+	color: #d8d8d8;
+	font-size: 14px;
+	line-height: 15px;
+}
+
+.landingright ul li:first-child span{
+	color: #775486;
 }
 
 .landingright ul li a{
@@ -234,19 +263,23 @@ header div.topHeader{
 }
 
 .landingright ul li:nth-child(2n){
-	background-color: rgba(23, 61, 80, 0.06);
+	/*background-color: rgba(23, 61, 80, 0.06);*/
 }
 
 .landingright ul li:last-child a{
 	padding: 10px 15px;
 	background: #775486;
 	color: #fff;
+	max-width: 200px;
+	min-width: 200px;
+	margin: 0 auto;
 }
 
 .landingright ul li:last-child{
 	float: none;
-}
+	text-align: center;
 
+}
 
 
 
@@ -279,7 +312,6 @@ header div.topHeader{
 	font-weight: 700;
 	font-size: 15px;
 	margin: 0 5px;
-	margin-bottom: 40px;
 }
 
 #header div.landingopen a.gradientbtn:hover{
