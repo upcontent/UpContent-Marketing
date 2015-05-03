@@ -1,0 +1,7 @@
+{
+  "name": "upcontent.com",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-aws": "0.0.4"
+  }
+}
