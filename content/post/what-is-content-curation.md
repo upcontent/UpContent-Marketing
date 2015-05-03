@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2015-04-1T10:42:55-05:00"
+date = "2015-04-01T10:42:55-05:00"
 title = "What is Content Curation?"
 
 +++
