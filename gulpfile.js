@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var aws = require('gulp-aws');
 
 gulp.task('stage', function() {
-    return gulp.src('dist/**/*', {buffer: false})
+    return gulp.src('public/**/*', {buffer: false})
         .pipe(
             aws.s3('staging.upcontent.com', {
                 aws_profile: 'upcontent',
@@ -13,7 +13,7 @@ gulp.task('stage', function() {
 });
 
 gulp.task('publish', function() {
-    return gulp.src('dist/**/*', {buffer: false})
+    return gulp.src('public/**/*', {buffer: false})
         .pipe(
             aws.s3('production.upcontent.com', {
                 aws_profile: 'upcontent',
