@@ -113,9 +113,9 @@ header div.topHeader{
 	clear:both;
 }
 
-.landingopen h2{
+.landingopen h2, .landingright h2{
 	font-size: 30px;
-	text-align: center;
+	text-align: left;
 	font-weight: 300;
 	color: #343434;
 	margin-bottom: 15px;
@@ -124,7 +124,7 @@ header div.topHeader{
 
 .landingopen.intro {
 		background: #f6f6f6;
-		margin: 70px 0;
+		margin: 70px 0 0 0;
 		padding: 50px 10px;
 }
 
@@ -168,7 +168,7 @@ header div.topHeader{
 	list-style-image: none;
 	margin-top: 10px;
 	display: flex;
-    flex-flow: row wrap;
+	flex-flow: row wrap;
 }
 
 .landingcontent ul li{
@@ -176,8 +176,11 @@ header div.topHeader{
 	line-height: 20px;
 	max-width: 250px;
 	text-align: center;
-	margin: 20px 15px;
-	flex-basis: 250px;
+	margin: 20px;
+}
+
+.landingcontent ul li span{
+	font-weight: 700;
 }
 
 .landingcontent p strong{
@@ -186,18 +189,13 @@ header div.topHeader{
 
 .landingleft{
 	min-width: 300px;
-	flex-basis: 35%;
+	flex-basis: 45%;
 	flex-shrink: 1;
 	padding-left: 15px;
 	padding-right: 15px;
 	margin-bottom: 30px;
 }
 
-.landingleft ul li img{
-	float: left;
-    margin-right: 10px;
-    padding-top: 5px;
-}
 
 .landingleft ul li:nth-child(3) img, .landingleft ul li:last-child img{
 	padding-top: 0;
@@ -216,7 +214,7 @@ header div.topHeader{
 }
 
 .landingright{
-	flex-basis: 65%;
+	flex-basis: 45%;
 	flex-shrink: 2;
 	background: #fff;
 	margin-bottom: 30px;
