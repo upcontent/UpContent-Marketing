@@ -196,6 +196,9 @@ header div.topHeader{
 	margin-bottom: 30px;
 }
 
+.geobg {
+	background: url('/images/galaxy.png') !important;
+}
 
 .landingleft ul li:nth-child(3) img, .landingleft ul li:last-child img{
 	padding-top: 0;
