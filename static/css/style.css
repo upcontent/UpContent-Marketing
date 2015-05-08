@@ -122,6 +122,13 @@ header div.topHeader{
 	clear:both;
 }
 
+.landingopen.intro {
+		background: #f6f6f6;
+		margin: 70px 0;
+		padding: 50px 10px;
+}
+
+
 .landingopen.intro p{
 	font-size: 18px;
 	line-height: 28px;
@@ -129,7 +136,6 @@ header div.topHeader{
 }
 
 .landingcontent{
-	margin-top: 40px;
 	display: flex;
   	display: -webkit-flex;
   	display: -ms-flex;
@@ -142,9 +148,8 @@ header div.topHeader{
  	align-content: center;
  	-webkit-align-content: center;
  	-ms-align-content: center;
- 	padding: 25px 0;
  	width: 100%;
- 	background: #f6f6f6;
+ 	padding: 0 10px;
 }
 
 .landingcontent h3{
@@ -162,11 +167,17 @@ header div.topHeader{
 	list-style: none;
 	list-style-image: none;
 	margin-top: 10px;
+	display: flex;
+    flex-flow: row wrap;
 }
 
 .landingcontent ul li{
 	padding-bottom: 25px;
 	line-height: 20px;
+	max-width: 250px;
+	text-align: center;
+	margin: 20px 15px;
+	flex-basis: 250px;
 }
 
 .landingcontent p strong{
@@ -298,32 +309,40 @@ header div.topHeader{
 	margin-bottom: 60px;
 }
 
-#header div.landingopen a.gradientbtn{
+#header div.landingopen a.gradientbtn, a.gradientbtn{
+	background: #49b78d;
+	color: #fff;
 	display: inline-block;
-	background: transparent;
 	padding: 15px 45px;
 	border: 2px solid #49b78d;
 	border-radius: 25px;
 	-moz-border-radius: 25px;
 	-o-border-radius: 25px;
 	-webkit-border-radius: 25px;
-	color: #49b78d;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 15px;
-	margin: 0 5px;
+	margin: 0 auto;
 }
 
-#header div.landingopen a.gradientbtn:hover{
-	background: #49b78d;
-	color: #fff;
+#header div.landingopen a.gradientbtn:hover, a.gradientbtn:hover{
+	background: transparent;
+	color: #49b78d;
 }
 
 
 #header div.landingopen a.gradientbtn:after{
 	background-color: #372C3A;
 	padding: 13px 0;
+}
 
+.landingopen {
+	display:flex;
+	flex-flow: column;
+}
+
+.landingopen a.gradientbtn {
+	margin-top: 30px;
 }
 
 .headerContent a{
