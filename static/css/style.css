@@ -350,7 +350,7 @@ header div.topHeader{
 	color: #fff;
 	font-size: 25px;
 	padding: 10px 40px;
-	border: 1px solid #fff;
+	border:1px solid #49b78d;
 	-border-radius: 3px;
 	-o-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -359,11 +359,13 @@ header div.topHeader{
 	text-decoration: none;
 	font-weight: 300;
 	margin-top: 70px;
+	background: #49b78d;
 }
 
 .headerContent a:hover{
-	background: #fff;
-	color: #775486;
+	background: transparent;
+	color: #49b78d;
+	border: 1px solid #49b78d;
 }
 
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
@@ -460,7 +462,7 @@ header div.headerContent{
 	flex: 1;
 	-webkit-flex: 1;
 	-ms-flex: 1;
-	margin-bottom: 70px;
+	margin-bottom: 40px;
 	align-items: center;
 	-webkit-align-items: center;
 	-ms-align-items: center;
@@ -480,8 +482,7 @@ header div.headerContent h3{
 	font-size: 35px;
 	text-align: center;
 	margin-top: 35px;
-	line-height:35px;
-	width: 75%;
+	line-height:45px;
 }
 
 header div.headerContent p{
@@ -568,7 +569,6 @@ header div.headerContent p{
 .value h1 span, .price h1 span{
 	font-weight: 700;
 	color: #775486;
-	border-bottom: 1px dotted #775486;
 	padding-bottom: 5px;
 }
 
@@ -721,9 +721,9 @@ header div.headerContent p{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#49b78d', endColorstr='#31a070',GradientType=0 ); /* IE6-9 */
 	color: #fff;
 	font-weight: 700;
-	font-size: 17px;
+	font-size: 18px;
 	padding: 15px 30px;
-	margin: 0 auto;
+	margin: 30px auto;
 	text-decoration: none;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
