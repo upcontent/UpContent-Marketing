@@ -452,6 +452,32 @@ header div.topHeader nav ul li:last-child, #header div.topHeaderr nav ul li:last
 	margin-right: 0;
 }
 
+
+header div.topHeader nav ul li a.btnfull, #header div.topHeaderr nav ul li a.btnfull{
+	color: white;
+	padding: 10px;
+	border: 2px solid #49b78d;
+	background: #49b78d;
+	border-radius: 3px;
+}
+
+header div.topHeader nav ul li a.btnfull:hover, #header div.topHeaderr nav ul li a.btnfull:hover{
+	text-decoration: underline;
+}
+
+header div.topHeader nav ul li a.btn, #header div.topHeaderr nav ul li a.btn{
+	color: #49b78d;
+	padding: 10px;
+	border: 2px solid #49b78d;
+	background: transparent;
+	border-radius: 3px;
+}
+
+header div.topHeader nav ul li a.btn:hover, #header div.topHeaderr nav ul li a.btn:hover{
+	text-decoration: underline;
+}
+
+
 header div.headerContent{
 	display: flex;
 	display: -webkit-flex;
