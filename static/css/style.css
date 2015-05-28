@@ -641,7 +641,7 @@ header div.headerContent p{
 	line-height: 30px;
 	text-align: center;
 	margin: 0 auto;
-	margin: 15px 0 0 0;
+	margin: 15px 0 10px 0;
 }
 
 .valueStatement div p{
@@ -655,7 +655,7 @@ header div.headerContent p{
 	text-align: center;
 	width: 100%;
 	margin: 10px auto;
-	max-width: 270px;
+	max-width: 200px;
 }
 
 .find{
