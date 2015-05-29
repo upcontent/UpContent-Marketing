@@ -310,7 +310,7 @@ header div.topHeader{
 	margin-bottom: 60px;
 }
 
-#header div.landingopen a.gradientbtn, a.gradientbtn{
+#header div.landingopen a.gradientbtn, a.gradientbtn, #features a.gradientbtn{
 	background: #49b78d;
 	color: #fff;
 	display: inline-block;
@@ -326,7 +326,11 @@ header div.topHeader{
 	margin: 0 auto;
 }
 
-#header div.landingopen a.gradientbtn:hover, a.gradientbtn:hover{
+#features a.gradientbtn {
+	margin-top: 50px;
+}
+
+#header div.landingopen a.gradientbtn:hover, a.gradientbtn:hover, #features a.gradientbtn:hover{
 	background: transparent;
 	color: #49b78d;
 }
