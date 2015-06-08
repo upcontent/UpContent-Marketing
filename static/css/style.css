@@ -428,6 +428,7 @@ header div.topHeader nav ul, #header div.topHeaderr nav ul{
 header div.topHeader nav ul.subnav, #header div.topHeaderr nav ul.subnav{
 	font-size: 1.2em;
 	margin-top: 5px;
+	text-align: left;
 }
 
 header div.topHeader nav ul li, #header div.topHeaderr nav ul li{
