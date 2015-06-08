@@ -574,7 +574,7 @@ p.testi em {
 	align-items: center;
 	-webkit-align-items: center;
 	-ms-align-items: center;
-	padding: 10px 0;
+	padding: 10px 20px;
 	margin-bottom: 35px;
 }
 
@@ -806,6 +806,42 @@ p.testi em {
 	padding-bottom: 35px;
 }
 
+.featured-screen{
+	display: flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	flex-flow: row wrap ;
+	-webkit-flex-flow: row wrap ;
+	-ms-flex-flow: row wrap ;
+	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
+	align-content: center;
+	-webkit-align-content: center;
+	-ms-align-content: center;
+	align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
+	width: 100%;
+	background: #f6f6f6;
+	padding: 50px 15px;
+}
+
+.featured-screen div.feature-screens{
+	display: flex;
+	flex-flow: column;
+	padding: 40px 0;
+}
+
+.feature-screens div {
+	text-align: center;
+}
+
+
+
+
+
+
 .price a{
 	padding: 1.3em 3em;
   	color: #FFFFFF;
@@ -891,7 +927,9 @@ p.testi em {
 	color: #B5B5B5 !important;
 }
 
-.features div p{
+.features div p, 
+.featured-screen div p, 
+.featured-screen p{
 	text-align: center;
 	color: #2f2f2f;
 	line-height: 20px;
