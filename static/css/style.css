@@ -548,6 +548,16 @@ header div.headerContent p{
 	-ms-align-items: center;
 }
 
+p.testi {
+	border: 1px solid lightgrey;
+	padding: 15px;
+	border-radius: 1px;
+}
+
+p.testi em {
+	padding-left: 20px;
+}
+
 .price, .contact {
 	display: flex;
 	display: -webkit-flex;
