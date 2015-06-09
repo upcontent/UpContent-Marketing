@@ -577,7 +577,8 @@ p.testi em {
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	padding: 10px 20px;
-	margin-bottom: 35px;
+	margin: 0 auto 65px;
+	max-width: 1200px;
 }
 
 .pricing p{
