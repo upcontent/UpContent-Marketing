@@ -554,6 +554,8 @@ p.testi {
 	border: 1px solid lightgrey;
 	padding: 15px;
 	border-radius: 1px;
+	margin-bottom: 20px;
+	width: 80%;
 }
 
 p.testi em {
