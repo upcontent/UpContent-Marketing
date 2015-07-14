@@ -3,7 +3,7 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-02-26T10:42:55-05:00"
-title = "UpContent vs. Filtr8"
+title = "Filtr8 vs. UpContent"
 
 +++
 
