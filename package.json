@@ -2,6 +2,6 @@
   "name": "upcontent.com",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-aws": "0.0.4"
+    "gulp-aws": "git+https://github.com/nicksloan/gulp-aws.git#profiles"
   }
 }
