@@ -12,7 +12,7 @@ Search engines make everyone’s lives easier. For instance, they can help you s
 But search engines, like Google, do have a few major flaws. The results you are given are not customizable and are not directly optimized to your needs. Of course you can always change your search query, but I’m talking about a deeper level of customization. 
 
 
-## What are Google’s major limitations?
+#### What are Google’s major limitations?
 <ol class="color-list">
 <li>Google delivers every piece of content it finds. That’s part of the charm - Google is powerful and comprehensive. If it exists, you will eventually find what you are looking for, it just might take a while.</li>
 <li>Google has only 2 filters available. Results are automatically filtered by relevancy – but you can change this to date, or a combination of the two. </li>
@@ -20,7 +20,7 @@ But search engines, like Google, do have a few major flaws. The results you are 
 <li>You can only do one search within a topic at a time.</li>
 </ol>
 
-## Why are these limitations?
+#### Why are these limitations?
 <ol class="color-list">
 <li>Google is a great search engine, and in most cases, it’s exactly what you need. But if you are a content marketer, social media manager, or a knowledge seeker, Google can fall short: If you are looking for content to curate, source, or read for industry knowledge, you don’t want every relevant webpage returned in your results. With company websites, wiki pages and the like making it into the mix, the content you are interested in gets pushed to the bottom or onto another page.</li>
 <li>If you’re fulfilling one of these three roles, you want shareable content. Google will get you relevant content, but that doesn’t mean it will be especially shareable or from influential sources in your industry.</li>
@@ -50,7 +50,7 @@ UpContent is designed to be a content discovery tool. It is specially created to
 
 In the end, UpContent can shave hours off of the time it takes you to find the perfect pieces of content.
 
-## Did you know…
+#### Did you know…
 In 2012, it was discovered that 813,894 pieces of content are generated online each minute. Each minute! And that was 3 years ago. Trying to find the right piece of content just from what was posted one minute ago is harder than finding a needle in a haystack. UpContent was developed to make this reality a little more manageable.
 
 

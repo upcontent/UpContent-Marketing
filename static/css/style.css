@@ -1206,6 +1206,14 @@ a.readmore{
 	margin-top: 20px;
 }
 
+.blogpostings h4{
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: 700;
+	margin: 40px 0 15px;
+	color: ##3a3939;
+}
+
 .blogpostings ol li {
   font-size: 18px;
   line-height: 22px;
@@ -1213,11 +1221,16 @@ a.readmore{
   font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   padding-bottom: 10px;
+  list-style: none;
 }
 
 .blogpostings ol li ol li {
 	margin-left: 2rem;
 	list-style-type: lower-alpha;
+	color: #3a3939 !important;
+	background: none !important;
+	padding-left: 0 !important;
+	min-height: 0 !important;
 }
 
 .blogpostings ol {
@@ -1230,28 +1243,28 @@ a.readmore{
 }
 
 .blogpostings ol.color-list li:first-child {
-	color: #5dc1b9;
+	color: #1b556d;
 	background: url('/images/delivery-icon.png') no-repeat;
 	padding-left: 65px;
 	min-height: 60px;
 } 
 
 .blogpostings ol.color-list li:nth-child(2) {
-	color: #1b556d;
+	color: #755987  ;
 	padding-left: 65px;
 	background: url('/images/filter-funnel-icon.png') no-repeat;
 	min-height: 60px;
 }
 
 .blogpostings ol.color-list li:nth-child(3) {
-	color: #755987;
+	color: #5dc1b9 ;
 	padding-left: 65px;
 	background: url('/images/save-icon.png') no-repeat;
 	min-height: 60px;
 }
 
 .blogpostings ol.color-list li:last-child {
-	color: #e86a6d;
+	color: coral;
 	padding-left: 65px;
 	background: url('/images/one-search-icon.png') no-repeat;
 	min-height: 60px;
