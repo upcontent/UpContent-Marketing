@@ -3,13 +3,13 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-07-14T12:15:54-04:00"
-title = "Google vs Upcontent"
+title = "Google vs. UpContent"
 
 +++
 
-Search engines make everyone’s lives easier. For instance, they can help you self-diagnose that the rash on your arm means you have cancer. They can help you find the best place to buy an antique chair you’ll never sit in, and of course, they will readily tell you the last person Taylor Swift wrote a song about. In fact, there is very little Google cannot help you find. 
+Search engines make everyone’s lives easier. For instance, they can help you self-diagnose that the rash on your arm means you have cancer. They can help you find the best place to buy an antique chair you’ll never sit in, and of course, they will readily tell you the last person Taylor Swift wrote a song about. In fact, there is very little Google cannot help you find.
 
-But search engines, like Google, do have a few major flaws. The results you are given are not customizable and are not directly optimized to your needs. Of course you can always change your search query, but I’m talking about a deeper level of customization. 
+But search engines, like Google, do have a few major flaws. The results you are given are not customizable and are not directly optimized to your needs. Of course you can always change your search query, but I’m talking about a deeper level of customization.
 
 
 #### What are Google’s major limitations?
@@ -29,7 +29,7 @@ But search engines, like Google, do have a few major flaws. The results you are 
 </ol>
 
 
- 
+
 ## UpContent is your Content Search Engine – Filling in the Gaps
 
 UpContent is designed to be a content discovery tool. It is specially created to save you – content marketers, social media managers and knowledge seekers – a lot of time and frustration. It fills in where everyday search engines fall short:
@@ -52,5 +52,3 @@ In the end, UpContent can shave hours off of the time it takes you to find the p
 
 #### Did you know…
 In 2012, it was discovered that 813,894 pieces of content are generated online each minute. Each minute! And that was 3 years ago. Trying to find the right piece of content just from what was posted one minute ago is harder than finding a needle in a haystack. UpContent was developed to make this reality a little more manageable.
-
-
