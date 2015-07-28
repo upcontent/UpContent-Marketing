@@ -1,5 +1,18 @@
 {{ partial "header_inner.html" . }}
 
+<div class="price" style="border-bottom: 1px solid #f7f7f7; padding-bottom: 20px;">
+	<h1>Subscribe to our blog!</h1>
+    <form class="clearfix" accept-charset="UTF-8" action="https://xz236.infusionsoft.com/app/form/process/ff35c6247b139c6bf8649f94210b0f90" class="infusion-form" method="POST">
+    <input name="inf_form_xid" type="hidden" value="ff35c6247b139c6bf8649f94210b0f90" />
+    <input name="inf_form_name" type="hidden" value="Sign up for newsletter" />
+    <input name="infusionsoft_version" type="hidden" value="1.43.0.45" />
+    <input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" placeholder="Name" />
+    <input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" placeholder="Email" />
+    <input type="submit" value="Submit" />
+  </form>
+  <script type="text/javascript" src="https://xz236.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=17096523c2a2635e7c1b1d94bc261df1"></script>
+</div>
+
 <div class="blog_listing">
   {{ range first 10 .Data.Pages.ByDate }}
     {{ if eq .Type "post"}}

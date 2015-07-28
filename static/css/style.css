@@ -1293,6 +1293,17 @@ a.readmore{
 .finder:hover, .rc:hover, .spark:hover{
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.clearfix {display: inline-block;}
+
 .price form {
 	margin-top: 30px;
 }
