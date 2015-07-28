@@ -1214,7 +1214,19 @@ a.readmore{
 	color: ##3a3939;
 }
 
-.blogpostings ol li {
+.blogpostings ul {
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+
+.blogpostings ul li {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 15px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.blogpostings ol li{
   font-size: 18px;
   line-height: 22px;
   margin-bottom: 15px;
