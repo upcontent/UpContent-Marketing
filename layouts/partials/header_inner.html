@@ -50,5 +50,7 @@
           </ul>
           {{ end }}
         </nav>
+
+        {{ if eq .Section "post" }} <style>.subnav {display: none;} </style> {{ end }}
       </div>
     </div>
