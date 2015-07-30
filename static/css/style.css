@@ -1172,6 +1172,10 @@ a.readmore{
 	font-size: 14px;
 }
 
+.blogpostings figure {
+	text-align: center;
+}
+
 .blogpostings{
 	width: 60%;
 	margin: 10px auto;

@@ -24,15 +24,21 @@ Whether you want to accept it or not, content marketing is, in fact, necessary. 
 
 Back in 2009, McKinsey & Company started talking about the Consumer Decision Journey (CDJ) - a model that replaces the traditionally accepted linear purchase funnel (Figure 1).
 
+<br> 
 
-![Linear Purchase Funnel](static/images/Blog posts/linear purchase funnel.png)
+Figure 1: Linear Purchase Funnel
+{{< figure src="/images/LinearPurchaseFunnel.png" alt="Linear Purchase Funnel" >}}
 
+<br>
 
 The CDJ (Figure 2) defines purchase decisions as a circular journey, where consumers start with an initial consideration set of brands, go on to actively evaluate brands (and perhaps add new ones that they come across as they research), make the purchase, and then go through post purchase consideration (based on this evaluation they become loyal customers and make repeat purchases, or decide to try a new brand).
 
+<br>
 
-![Consumer Decision Journey](static/images/Blog posts/CDJ.png)
+Figure 2: Consumer Decision Journey
+{{< figure src="/images/ConsumerDecisionJourney.png" alt="Consumer Decision Journey" >}}
 
+<br>
 
 When the traditional, linear model held true, marketers were in full control of how and when people received information about products. But now that consumers have easy access to the Internet (and are addicted to it), they are in control of how and when they receive information - fundamentally shifting the balance of power. Now, when consumers are aware of a want or need, they can do online research to find information to aid their decision. What they find heavily influences what they end up buying. ***So, it is safe to assume, if you do not have content that is able to be found during this consideration period, you’re not going to be part of a customer’s purchasing decision.***
 
@@ -44,8 +50,10 @@ In the 90’s and prior, it was accepted that people went through three stages: 
 
 In 2011, Google conducted a study analyzing this model, and discovered a step that occurs between the stimulus and the First Moment of Truth: the Zero Moment of Truth (ZMOT). The Zero Moment of Truth is the period after a consumer identifies a need or sees a stimulus and before they physically buy a product. It’s the research/exploratory phase (Figure 3). For example, if a consumer wants new gym shoes, they may do an online search for “comfortable running shoes under $100”. They will see several brands pop up, narrow it down to a few, and then run queries looking for consumer reviews about different features of the shoe. By the time the individual is finished researching and gets to the store, their decision is already made.
 
+<br>
 
-![Zero Moment of Truth](static/images/Blog posts/ZMOT.png)
+Figure 3: Zero Moment of Truth
+{{< figure src="/images/zmot.png" alt="Zero Moment of Truth" >}}
 
 
 You can extend this model into 2015 and add mobile research to the equation, where the Zero Moment of Truth happens at the shelf, as well. For example, imagine you are in a store and go to purchase a product, but you stop because there are several brands to choose from - none of which you are overly familiar with. You then take out your phone and look for reviews and brand information. You decide to buy brand B based on the information you find.
