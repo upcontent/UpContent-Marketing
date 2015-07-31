@@ -3,16 +3,14 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-04-01T10:42:55-05:00"
-title = "What is Content Curation?"
+title = "What is Content Curation & How Can it Benefit You?"
 
 +++
-
-# & How Can it Benefit You?
 
 ### Why is content marketing important?
 Knowledge is power. And what is one thing that most consumers want besides money? Power.
 
-Over 73% of US consumers research items online before making a purchase. (<a href="http://www.godigitalmarketing.com/shopper-research-state-consumer-buying-habits-national-blog/">http://www.godigitalmarketing.com/shopper-research-state-consumer-buying-habits-national-blog/</a>). Many start the self-education cycle before even knowing they are going to make a purchase. 
+Over 73% of US consumers research items online before making a purchase. (<a href="http://www.godigitalmarketing.com/shopper-research-state-consumer-buying-habits-national-blog/">http://www.godigitalmarketing.com/shopper-research-state-consumer-buying-habits-national-blog/</a>). Many start the self-education cycle before even knowing they are going to make a purchase.
 
 For this very reason, it is imperative for brands to provide a constant source of informational, educational and enlightening content for their audience. Why? If consumers are searching for information online, you are not going to be considered unless they find you through their self-education cycle. Your best bet is to consistently put out fresh information on a variety of relevant topics, increasing your chances of being found and relaying the information your audience is interested in.
 
@@ -34,7 +32,4 @@ If you have to write everything yourself, there would certainly be no time for o
 
 Get a jump start by using <a href="https://upcontent.com/pricing/">UpContent</a> - it’s designed to help you find the right content at the right time to get your customers engaged and to spark conversation!
 
-Need some help getting started with curation or have any questions? <a href="https://upcontent.com/contact/">Let us know</a>! 
-
-
-
+Need some help getting started with curation or have any questions? <a href="https://upcontent.com/contact/">Let us know</a>!
