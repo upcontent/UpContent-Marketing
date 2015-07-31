@@ -14,7 +14,7 @@
 </div>
 
 <div class="blog_listing">
-  {{ range first 10 .Data.Pages.ByDate }}
+  {{ range first 10 .Data.Pages.ByPublishDate }}
     {{ if eq .Type "post"}}
     <div class="blog_post">
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
