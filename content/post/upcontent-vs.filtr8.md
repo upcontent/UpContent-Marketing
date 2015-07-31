@@ -20,8 +20,7 @@ UpContent’s focus is on the identification and discovery of the ideal content 
 
 What will work best for your company depends on your goals. If you are interested in a tool that will help you find the best content to power, guide and lead conversations among your audience, please give UpContent a try.  We feel strongly that we have created a newer, better way to find content.  We look forward to your feedback.  
 
-[Sign up for free plan]
-[Sign up for 30-day trial of advanced plans – no cc required]
+
 
 ## Here are a few key points to compare:
 

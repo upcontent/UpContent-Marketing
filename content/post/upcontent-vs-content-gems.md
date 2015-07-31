@@ -19,8 +19,6 @@ The content we find and serve will save you time, money and resources, and will 
 
 What will work best for your company depends on your goals. If you are interested in a tool that will help you find the best content to power, guide, and lead conversations among your audience, please give UpContent a try.  We feel strongly that we have created a newer, better way to find content.  We look forward to your feedback.  
 
-[UpContent Free Account]
-[UpContent Free Trial]
 
 ## Here are a few key points to compare:
 
