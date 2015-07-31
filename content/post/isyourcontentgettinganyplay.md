@@ -12,15 +12,14 @@ Your ambitions are noble. Your content is out-of-this-world fantastic. Everythin
 
 #### Your Content Strategy
 Answer this question. Your purpose for putting out a bunch of content is so you can… what?
-<p style="margin-left: 20px;">
-A) Make it look like you’re working hard (you are, right?)
 
-B) Make your site more visible
+<ol class="cap-letter">
+<li>Make it look like you’re working hard (you are, right?)</li>
+<li>Make your site more visible</li>
+<li>Be useful to your audience</li>
+<li>Establish your brand as a thought leader</li>
+</ol>
 
-C) Be useful to your audience
-
-D) Establish your brand as a thought leader
-</p>
 
 
 I’m willing to bet that you answered at least B, C or D, if not all of them. If you answered just A, well, have fun.

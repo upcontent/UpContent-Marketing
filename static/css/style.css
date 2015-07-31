@@ -1172,6 +1172,14 @@ a.readmore{
 	font-size: 14px;
 }
 
+.blogpostings ol.cap-letter {
+	padding-left: 50px;
+}
+
+.blogpostings ol.cap-letter li{
+	list-style: upper-alpha;
+}
+
 .blogpostings figure {
 	text-align: center;
 }
