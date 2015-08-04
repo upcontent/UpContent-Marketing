@@ -15,7 +15,7 @@ Now, fast-forward back to reality and stop day dreaming :). Hide-and-seek is fun
 ## Make Your Content Stand Out
 Over 90% of B2C and B2B companies use content marketing.<sup>1,2</sup> That means there are a lot of brands putting out content, which means you need to take purposeful steps to help your content stand out from the crowd and stay out of the shadows.
 
-### SEO the Hell out of your Content
+### SEO the Hell Out of Your Content
 Search engine optimization (SEO) techniques are necessary to implement to make sure your content is findable when consumers search for information related to your industry.
 
 Before diving into the techniques, let’s briefly look at how Google’s ranking algorithm works. There are over 200 factors that Google’s algorithm parses through when ranking content. I’m not sure anyone can tell you what those 200 things are, but there are specific factors that you can directly affect that will help your content emerge to the forefront of searches.
