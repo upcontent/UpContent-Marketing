@@ -1245,7 +1245,8 @@ a.readmore{
   font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   padding-bottom: 10px;
-  list-style: none;
+
+  
 }
 
 .blogpostings ol li ol li {
@@ -1259,6 +1260,7 @@ a.readmore{
 
 .blogpostings ol {
 	margin-bottom: 40px;
+	margin-left: 40px;
 }
 
 .blogpostings ol li ol {
@@ -1294,6 +1296,12 @@ a.readmore{
 	min-height: 60px;
 }
 
+.blogpostings a {
+	color: #49b78d;
+	font-weight: 700;
+	font-size: 20px;
+
+}
 
 
 .finder, .rc, .spark{
