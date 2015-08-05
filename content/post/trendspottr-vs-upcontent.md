@@ -11,12 +11,12 @@ UpContent and trendspottr both offer a similar service, but vary in the executio
 
 Both tools allow you to create a topic, as you would in a search engine, and both provide relevant results. The difference lies in how the results are delivered and filtered:
 <ul>
-<li><p>UpContent is a content discovery tool, it pulls in every possible piece of content associated with a topic, and then allows you to filter the content based on your needs. You can sort it by time period, content type (news, videos, blogs or social media), and content preference (relevance, recency, shareability or influence).</p></li>
+<li><p>UpContent is a content discovery tool. It pulls in every possible piece of content associated with a topic, and then allows you to filter the content based on your needs. You can sort it by time period, content type (news, videos, blogs or social media), and content preference (relevance, recency, shareability or influence).</p></li>
 
-<li><p>trendspottr is a predictive trend intelligence platform, it pulls in content that it determines will be trending or viral in the next few hours or days, as well as content that is currently trending. Each piece of content is given a trending score.</p></li>
+<li><p>trendspottr is a predictive trend intelligence platform. It pulls in content that it determines will be trending or viral in the next few hours or days, as well as content that is currently trending. Each piece of content is given a trending score.</p></li>
 </ul>
 
-With trendspottr, the only results you are given is content that currently is trending or may begin to trend. With UpContent, you get every piece of content that is related to a topic; you also have the option to filter the content based on its shareability or influence. Both are great tools and effective at what they do – it just depends on what your goal is.
+With trendspottr, the only results you are given is content that currently is trending or may begin to trend. With UpContent, you get every piece of content that is related to a topic. You also have the option to filter the content based on its shareability or influence. Both are great tools and effective at what they do – it just depends on what your goal is.
 
 ### Audiences
 UpContent caters to content marketers, knowledge leaders and writers:
@@ -42,7 +42,7 @@ It appears that trendspottr pulls content from news sources, blogs and Twitter. 
 ### Date Range
 UpContent allows you to search content from the last 24 hours, last 7 days, or last 30 days.
 
-As far as trendspottr goes, there does not appear to be a date range. Content is brought in solely based on whether it is trending or may begin to trend, regardless of when the content was created.
+On trendspottr, there does not appear to be a date range. Content is brought in solely based on whether it is trending or may begin to trend, regardless of when the content was created.
 
 ### Filtering
 UpContent layers two unique filters for searching content, Shareability and Influence, on top of determining the relevance and recency of the content. Shareability predicts and finds the content that has the best chances of being shared by your audience, which is very valuable when driving customer engagement. Influence serves you content that was produced by thought leaders and by the individuals/brands that people within an industry listen to. This is always great content to share and to consult when curating; plus, it can be a great way to discover new influencers within your industry.
