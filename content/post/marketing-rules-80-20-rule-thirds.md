@@ -2,8 +2,8 @@
 Categories = []
 Description = ""
 Tags = ["rule of thirds" , "80/20" , "content marketing" , "content curation"]
-date = "2015-08-06T13:30:50-04:00"
-title = "Do You Know the Marketing Principles? The 80/20 Rule vs. Rule of Thirds"
+date = "2015-08-07T09:40:50-04:00"
+title = "Do You Know These Marketing Principles? The 80/20 Rule vs. Rule of Thirds"
 
 +++
 
@@ -73,7 +73,11 @@ Whichever rule you follow, adding a personal element makes sense. Sam Milbrath p
 </br>
 Resources:
 <sup>1</sup> http://blog.hootsuite.com/social-media-rule-of-thirds/
+
 <sup>2</sup> http://www.business2community.com/content-marketing/80-20-rule-content-origins-apply-0855447
+
 <sup>3</sup> http://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/
+
 <sup>4</sup> https://www.linkedin.com/pulse/rule-thirds-content-strategy-neil-wilkins
+
 <sup>5</sup> http://digital-photography-school.com/rule-of-thirds/
