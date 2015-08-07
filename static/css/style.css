@@ -13,7 +13,7 @@ p{
 	line-height: 28px;
 
 }
-header {
+header {  /* Background Pattern Credit: SubtlePattern.com -- Thanks! */
 	display: flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -1172,6 +1172,18 @@ a.readmore{
 	font-size: 14px;
 }
 
+.blogpostings ol.cap-letter {
+	padding-left: 50px;
+}
+
+.blogpostings ol.cap-letter li{
+	list-style: upper-alpha;
+}
+
+.blogpostings figure {
+	text-align: center;
+}
+
 .blogpostings{
 	width: 60%;
 	margin: 10px auto;
@@ -1187,7 +1199,7 @@ a.readmore{
 
 .blogpostings h2{
 	font-size: 30px;
-	font-weight: 300;
+	font-weight: 700;
 	color: #49b78d;
 	line-height: 50px;
 	text-align: center;
@@ -1214,14 +1226,27 @@ a.readmore{
 	color: ##3a3939;
 }
 
-.blogpostings ol li {
+.blogpostings ul {
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+
+.blogpostings ul li {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 15px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.blogpostings ol li{
   font-size: 18px;
   line-height: 22px;
   margin-bottom: 15px;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   padding-bottom: 10px;
-  list-style: none;
+
+  
 }
 
 .blogpostings ol li ol li {
@@ -1235,6 +1260,7 @@ a.readmore{
 
 .blogpostings ol {
 	margin-bottom: 40px;
+	margin-left: 40px;
 }
 
 .blogpostings ol li ol {
@@ -1270,6 +1296,12 @@ a.readmore{
 	min-height: 60px;
 }
 
+.blogpostings a {
+	color: #49b78d;
+	font-weight: 700;
+	font-size: 20px;
+
+}
 
 
 .finder, .rc, .spark{
@@ -1281,6 +1313,42 @@ a.readmore{
 .finder:hover, .rc:hover, .spark:hover{
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.clearfix {display: inline-block;}
+
+.price form {
+	margin-top: 30px;
+}
+
+.price form input {
+	float: left;
+    width: 200px;
+    border-bottom: 1px solid;
+    border-radius: 0;
+    margin-right: 20px;
+    padding: 0;
+    height: 25px;
+    margin-top: 14px;
+}
+
+.price form input[type="submit"] {
+	width: auto;
+	padding: 10px 20px;
+	border-radius: 20px;
+	color: #fff;
+	background: #49b78d;
+	height: auto;
+	margin-top: 0;
+}
+
 .contact form{
 	background: #f7f7f7;
   	padding: 10px;
@@ -1290,6 +1358,7 @@ a.readmore{
 	-moz-border-radius: 3px;
 	-o-border-radius: 3px;
 	-webkit-border-radius: 3px;
+
 }
 
 form input{

@@ -25,17 +25,17 @@ Google constantly makes updates to their search ranking. More and more they are 
 The main factors Google looks for when ranking content, include the authority of the website, the quality of the content, and the relevance of the content to a search phrase. Here are 3 SEO tactics you should implement with each piece of content you put out:
 
 <ol>
-<li>**Keyword Integration** - Google wants the quality of content returned to users to be the best - but how can Google know what’s best? Keywords. When someone enters a search, one of the first thing Google does is look in its index to find sites that include the keywords entered in the query.
+<li><strong>Keyword Integration</strong> - Google wants the quality of content returned to users to be the best - but how can Google know what’s best? Keywords. When someone enters a search, one of the first thing Google does is look in its index to find sites that include the keywords entered in the query.
 
 This means that if your content includes key terms that consumers will search for in regard to your industry, you have a better chance of being pulled up in the search results. Typically, each brand should identify 15-20 keywords to use consistently within all of their content. Also note that it is not good to “keyword stuff” - only use keywords as they naturally fit. If you use the same words over and over, Google can identify that and flag it, and your content will likely sound kind of funny, too.
 
 There are many companies that can help you determine what your keywords should be. It’d be easy to arbitrarily pick what you think will work, but not effective. There are many companies out there trying to rank for certain keywords, so you have to choose keywords that are not overly used, and ones that have a decent number of users searching for them.</li>
 
-<li>**Meta Titles and Descriptions** - Another thing that Google looks at is a webpage’s meta title, which is what appears as the title of an item on the search results page. It’s a good idea to have these titles include one or two of your keywords. Typically these titles are recommended to be between 50 and 60 characters long.
+<li><strong>Meta Titles and Descriptions</strong> - Another thing that Google looks at is a webpage’s meta title, which is what appears as the title of an item on the search results page. It’s a good idea to have these titles include one or two of your keywords. Typically these titles are recommended to be between 50 and 60 characters long.
 
 A meta description is the content that falls under the titles on the search results page. These are not heavily factored into search ranking, but they do contribute to click-through-rates. The more informative a description is, the more likely a user is to click on it (if it matches what they are looking for). The more clicks your site gets, the more authority Google assigns it as having.</li>
 
-<li>**Link Building** - Google also determines a website’s authority based on how many other quality websites link back to it. So the more you get your content out there, and encourage others to share and link to it, the better off you’ll be. It also helps to link to other pages on your website within a blog post, as relevant.</li>
+<li><Strong>Link Building</strong> - Google also determines a website’s authority based on how many other quality websites link back to it. So the more you get your content out there, and encourage others to share and link to it, the better off you’ll be. It also helps to link to other pages on your website within a blog post, as relevant.</li>
 
 </ol>
 
