@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Tags = ["rule of thirds" , "80/20" , "content marketing" , "content curation"]
-date = "2015-08-07T09:40:50-04:00"
+date = "2015-08-07T09:41:50-04:00"
 title = "Do You Know These Marketing Principles? The 80/20 Rule vs. Rule of Thirds"
 
 +++
