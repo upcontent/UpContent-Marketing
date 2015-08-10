@@ -23,9 +23,9 @@ The rule states that 80% of the content you put out should be educational and in
 #### The 80%
 80% of the content you put out on social media should not talk about your brand or product at all. This content needs to be relevant to your industry, as well as provide interesting, educational information: i.e. instructions on how to do something, insights on how to view something, introductions to new perspectives, news on industry innovations, etc.
 
-This 80% should consist of content that you vet and believe will be valuable to your audience. It should come from reputable sites, influencers or competitors. (Competitors you say?! Sam Milbrath ([@sam_milbrath](https://twitter.com/sam_milbrath)) of Hootsuite put it well:
+This 80% should consist of content that you vet and believe will be valuable to your audience. It should come from reputable sites, influencers, or competitors. (Competitors you say?! Sam Milbrath ([@sam_milbrath](https://twitter.com/sam_milbrath)) of Hootsuite put it well:
 
-    > “Why is sharing outsider content by other businesses or thought leaders so important? It shows your audience that you know the industry like the back of your hand, you’re collegial and aware of competition. It shows that you’re collaborative and confident enough in your own brand to share another’s content. It also doubles your exposure by connecting your content to their audience or online community. By sharing content from another business, even a competitor, you position your business as the industry’s finest, most well rounded content source.”<sup>1</sup>)
+    > “Why is sharing outsider content by other businesses or thought leaders so important? It shows your audience that you know the industry like the back of your hand, you’re collegial and aware of competition. It shows that you’re collaborative and confident enough in your own brand to share another’s content. It also doubles your exposure by connecting your content to their audience or online community. By sharing content from another business, even a competitor, you position your business as the industry’s finest, most well rounded content source.”<sup>1</sup>
 
 
 #### The 20%
@@ -69,7 +69,7 @@ There will be proponents who argue that one rule is better than the other - but 
 
 Whichever rule you follow, adding a personal element makes sense. Sam Milbrath put it well:
 
-> “Businesses... can learn a lot from personal social accounts. Engaging with your audience over personal interactions opens your business up and shows a vulnerable, more human side. This could mean sharing your customers’ stories, liking their comments or encouraging employees to be brand ambassadors online. In doing so, you’re not only acknowledging your audience, but building an engaged community.”<sup>1</sup>
+    > “Businesses... can learn a lot from personal social accounts. Engaging with your audience over personal interactions opens your business up and shows a vulnerable, more human side. This could mean sharing your customers’ stories, liking their comments or encouraging employees to be brand ambassadors online. In doing so, you’re not only acknowledging your audience, but building an engaged community.”<sup>1</sup>
 
 </br>
 Resources:
