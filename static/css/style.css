@@ -1160,7 +1160,7 @@ input.buynow{
 }
 
 .blog_post p{
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: normal;
 	line-height: 24px;
 	margin-bottom: 15px;
@@ -1173,18 +1173,21 @@ a.readmore{
 }
 
 .blogpostings blockquote {
-	margin: 40px 30px;
+	margin-left: 30px;
 }
 
 .blogpostings blockquote p{
-	font-size: 24px;
-	font-style: italic;
-	line-height: 44px;
-	color: #775486;
+
+}
+
+.blogpostings figcaption h4 {
+	font-size: 14px;
+	font-weight: 700;
+	margin-bottom: 5px;
 }
 
 .blogpostings p sup {
-	line-height: 35px;
+	line-height: 20px;
 }
 
 .blogpostings p sub {
@@ -1225,8 +1228,8 @@ a.readmore{
 }
 
 .blogpostings p{
-	font-size: 18px;
-	line-height: 28px;
+	font-size: 20px;
+	line-height: 30px;
 	margin-bottom: 15px;
 }
 
