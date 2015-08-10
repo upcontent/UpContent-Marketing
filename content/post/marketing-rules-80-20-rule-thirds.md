@@ -25,7 +25,7 @@ The rule states that 80% of the content you put out should be educational and in
 
 This 80% should consist of content that you vet and believe will be valuable to your audience. It should come from reputable sites, influencers, or competitors. (Competitors you say?! Sam Milbrath ([@sam_milbrath](https://twitter.com/sam_milbrath)) of Hootsuite put it well:
 
-    > “Why is sharing outsider content by other businesses or thought leaders so important? It shows your audience that you know the industry like the back of your hand, you’re collegial and aware of competition. It shows that you’re collaborative and confident enough in your own brand to share another’s content. It also doubles your exposure by connecting your content to their audience or online community. By sharing content from another business, even a competitor, you position your business as the industry’s finest, most well rounded content source.”<sup>1</sup>
+> “Why is sharing outsider content by other businesses or thought leaders so important? It shows your audience that you know the industry like the back of your hand, you’re collegial and aware of competition. It shows that you’re collaborative and confident enough in your own brand to share another’s content. It also doubles your exposure by connecting your content to their audience or online community. By sharing content from another business, even a competitor, you position your business as the industry’s finest, most well rounded content source.”<sup>1</sup>
 
 
 #### The 20%
@@ -57,11 +57,11 @@ The Rule of Thirds states that your content should be broken up into three diffe
 The Rule of Thirds is best known in photography. It posits that images look more natural and balanced if the ‘point of interest’ of a photo is off center and lies along lines or intersections created by dividing an image into thirds, both horizontally and vertically (Figure 1):
 
 Figure 1: Rule of Thirds in Photography
-{{<figure src="/images/ruleofthirds.png" title="" alt="Rule of Thirds" >}}
+{{<figure src="/images/ruleofthirds.png" title="" alt="Rule of Thirds" width="400px" >}}
 
 As we’ve seen with the 80/20 rule, when principles are observed in several areas, people like to apply them to other areas. Neil Wilkins ([@vipermarketing](https://twitter.com/vipermarketing)) puts it best:<sup>4</sup>
 
-    > “The answer appears to lie in the content Rule of Thirds. This simple rule builds upon the theory that three is a fundamental prime number in nature, art and photography and is a rule of natural balance. As marketers seek to find the balance that convinces their customers that they are talking their language, the content Rule of Thirds provides a daily checkpoint in the delivery of a highly effective content strategy.”
+> “The answer appears to lie in the content Rule of Thirds. This simple rule builds upon the theory that three is a fundamental prime number in nature, art and photography and is a rule of natural balance. As marketers seek to find the balance that convinces their customers that they are talking their language, the content Rule of Thirds provides a daily checkpoint in the delivery of a highly effective content strategy.”
 
 </br>
 ## Which Rule Should You Use?
@@ -69,7 +69,7 @@ There will be proponents who argue that one rule is better than the other - but 
 
 Whichever rule you follow, adding a personal element makes sense. Sam Milbrath put it well:
 
-    > “Businesses... can learn a lot from personal social accounts. Engaging with your audience over personal interactions opens your business up and shows a vulnerable, more human side. This could mean sharing your customers’ stories, liking their comments or encouraging employees to be brand ambassadors online. In doing so, you’re not only acknowledging your audience, but building an engaged community.”<sup>1</sup>
+> “Businesses... can learn a lot from personal social accounts. Engaging with your audience over personal interactions opens your business up and shows a vulnerable, more human side. This could mean sharing your customers’ stories, liking their comments or encouraging employees to be brand ambassadors online. In doing so, you’re not only acknowledging your audience, but building an engaged community.”<sup>1</sup>
 
 </br>
 Resources:

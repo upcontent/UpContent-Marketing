@@ -1172,6 +1172,25 @@ a.readmore{
 	font-size: 14px;
 }
 
+.blogpostings blockquote {
+	margin: 40px 30px;
+}
+
+.blogpostings blockquote p{
+	font-size: 24px;
+	font-style: italic;
+	line-height: 44px;
+	color: #775486;
+}
+
+.blogpostings p sup {
+	line-height: 35px;
+}
+
+.blogpostings p sub {
+	line-height: 20px;
+}
+
 .blogpostings ol.cap-letter {
 	padding-left: 50px;
 }
