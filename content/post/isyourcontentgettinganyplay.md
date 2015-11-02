@@ -4,6 +4,9 @@ Description = ""
 Tags = ["content marketing, social media marketing, influencers, content distribution, content strategy"]
 date = "2015-07-30T17:02:55-04:00"
 title = "Is Your Content Getting Any Play?"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

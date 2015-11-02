@@ -4,6 +4,9 @@ Description = ""
 Tags = ["content curation" , "influencer strategy" , "content marketing"]
 date = "2015-08-12T00:42:58-04:00"
 title = "4 Steps to Fuel Your Influencer Strategy Using Content Curation"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

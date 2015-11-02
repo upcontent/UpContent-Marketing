@@ -4,6 +4,9 @@ Description = ""
 Tags = ["trendspottr" , "content marketing" , "content curation" , "content discovery"]
 date = "2015-08-05T10:15:35-04:00"
 title = "trendspottr vs. UpContent"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

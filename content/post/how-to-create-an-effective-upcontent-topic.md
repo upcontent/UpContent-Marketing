@@ -1,9 +1,14 @@
 +++
-Categories = []
+Categories = ["Tips & Tricks"]
 Description = ""
 Tags = []
 date = "2015-10-29T13:04:06-04:00"
 title = "How to Create an Effective UpContent Topic"
+hero_image = "/images/howtocreataneffectivetopic-header.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
+category = "Tips & Tricks"
+
 
 +++
 
@@ -18,6 +23,8 @@ Treating your UpContent topic keywords as general Google search queries will gen
 ## How To Create an UpContent Topic
 
 When you create a topic in UpContent, you are prompted to type in a search phrase. You can add up to ten additional search queries by clicking the “Add additional search queries” link below the box. When you are finished customizing your topic, click the “next” button and give the topic a name to remember its contents.
+
+{{<figure src="/images/effective-topic-image-1.png" title="" alt="Be Specific with Each Query" caption-top="false">}}
 
 This process is quick and simple, but without intentional effort in crafting the best search queries, it’s easy to receive lackluster results. When creating your topics, there are a few questions you should ask yourself before settling in on your search terms.
 
@@ -40,8 +47,7 @@ Once you have asked yourself these questions, you are ready to start typing your
 
 - Inversely, treat each search field as an opportunity to broaden the scope of your results. Let’s say you also wanted to learn about tech start-ups in Pittsburgh, you would include that phrase in another search field.
 
-    “Tech start-ups in Silicon Valley”  
-    “Tech start-ups in Pittsburgh”
+{{<figure src="/images/effective-topic-image-2.png" title="" alt="Multiple Search Queries" caption-top="false">}}
 
 
 - Pay close attention to your results. If you’re finding too many outliers in your content suggestions, it’s probably an indication that your search queries are too broad. You can elect to narrow each query further, or utilize the NOT feature to exclude suggestions containing those outliers.
@@ -77,9 +83,9 @@ Example: Enclosing “Pittsburgh Pirates” in quotation marks will yield specif
 
 Example: Hybrid cars AND (Toyota OR Honda) will result in suggestions on Toyota hybrid cars and Honda hybrid cars.
 
-### Still feeling like topic creation is best left for your in-laws? Drop us a note, we are happy to help get you on the path to recovery.
+#### Still feeling like topic creation is best left for your in-laws? Drop us a note, we are happy to help get you on the path to recovery.
 
 
-FREE DOWNLOAD/INFOGRAPHIC
+<p style="text-align: center; margin: 50px 0;"><a target="_blank" href="/images/creating-an-effective-topic-infographic.png" class="blog-cta">Free Download: Infographic</a></p>
 
 Generating a solid UpContent topic that yields the best results may take a few tweaks, but with strong effort comes valuable results. We want to know: what are the search queries for your favorite topics? [Send us a tweet](http://twitter.com/getupcontent) and let us know!

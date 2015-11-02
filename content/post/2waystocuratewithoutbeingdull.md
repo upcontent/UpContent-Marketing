@@ -4,6 +4,9 @@ Description = ""
 Tags = ["content curation" , "content marketing" , "content discovery"]
 date = "2015-08-03T21:03:30-04:00"
 title = "2 Ways to Curate Without Being Dull"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

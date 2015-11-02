@@ -4,6 +4,9 @@ Description = ""
 Tags = ["content marketing, consumer decision journey, zero moment of truth, cdj, zmot"]
 date = "2015-07-28T08:53:44-04:00"
 title = "Why Content Marketing is a Necessary Evil"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

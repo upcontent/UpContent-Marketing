@@ -4,6 +4,9 @@ Description = ""
 Tags = []
 date = "2015-04-01T10:42:55-05:00"
 title = "What is Content Curation & How Can it Benefit You?"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

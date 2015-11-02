@@ -390,6 +390,7 @@ header div.topHeader div.logo h1, #header div.topHeaderr div.logo h1{
 	margin: 22px 0 0 10px;
   	color: #fff;
   	font-size: 32px;
+  	text-indent: -9999px;
 }
 
 header div.topHeader div.logo h1 a, #header div.topHeaderr div.logo h1 a{
@@ -1136,6 +1137,59 @@ input.buynow{
 	height: 500px;
 }
 
+.blogheader .topHeaderr {
+	position: absolute;
+	top: 30px;
+}
+
+.blogheader .topHeaderr a.btn{
+	border: 2px solid #fff !important;
+	color: #fff !important;
+}
+
+.blogheader .topHeaderr a.btnfull{
+	border: 2px solid #fff !important;
+	color: #7755cd !important;
+	background: #fff !important;
+}
+
+.blogheader h1 {
+	font-weight: 300;
+	font-size: 50px;
+	color: #fff;
+	margin-top: 60px;
+	font-family: 'proxima-nova', sans-serif;
+	max-width: 1080px;
+    text-align: center;
+}
+
+.blogheader h4 {
+	font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-family: "proxima-nova", sans-serif;
+}
+
+.blogheader p {
+	font-weight: 500;
+	font-family: 'proxima-nova', sans-serif;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 60px;
+}
+
+.blogheader p img {
+	float: left;
+	margin-top: -10px;
+	margin-right: 6px;
+}
+
+.bloglogo { 
+	background: url('/images/logo-white.png');
+}
+
 .blog_listing{
 	padding-left: 20px;
 	width: 100%;
@@ -1179,6 +1233,14 @@ a.readmore{
 	font-size: 14px;
 }
 
+a.blog-cta { 
+    color: #7755cd !important;
+    text-transform: uppercase;
+    font-size: 18px;
+    border: 2px solid #7755cd;
+    padding: 15px 30px;
+    border-radius: 4px;
+ }
 
 .blog_post, .blog_listing, .blogpostings {
 	font-family: "proxima-nova",sans-serif;
@@ -1232,17 +1294,19 @@ a.readmore{
 }
 
 .blogpostings h2{
-	font-size: 30px;
-	font-weight: 700;
+	font-weight: 400;
+    text-align: left;
+    font-size: 35px;
 	color: #49b78d;
 	line-height: 50px;
-	text-align: center;
+	margin-top: 50px;
 }
 
 .blogpostings p{
 	font-size: 20px;
 	line-height: 30px;
 	margin-bottom: 15px;
+	color: #565656;
 }
 
 .blogpostings h3{
@@ -1253,23 +1317,26 @@ a.readmore{
 }
 
 .blogpostings h4{
-	font-size: 24px;
-	line-height: 26px;
+	font-size: 18px;
+	line-height: 20px;
 	font-weight: 700;
-	margin: 40px 0 15px;
-	color: ##3a3939;
+	margin: 30px 0;
+	text-transform: uppercase;
+	color: #565656;
 }
 
 .blogpostings ul {
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	margin-left: 40px;
+	color: #565656;
+	margin-top: 10px;
 }
 
 .blogpostings ul li {
-	font-size: 18px;
-	line-height: 22px;
-	margin-bottom: 15px;
-	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 25px;
+	font-family: 'proxima-nova', sans-serif;
 }
 
 .blogpostings ol li{

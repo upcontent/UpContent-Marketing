@@ -4,6 +4,9 @@ Description = ""
 Tags = ["SEO, search engine optimization, content marketing, link building, keyword strategy"]
 date = "2015-07-31T11:22:51-04:00"
 title = "Don't Let Your Content Be Useless: SEO the Hell Out of It"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

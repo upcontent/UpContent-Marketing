@@ -4,6 +4,9 @@ Description = ""
 Tags = ["content curation" , "content marketing" , "influencer strategy"]
 date = "2015-08-13T13:47:07-04:00"
 title = "5 Reasons You Need Content Curation"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

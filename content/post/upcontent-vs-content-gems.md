@@ -4,6 +4,9 @@ Description = ""
 Tags = []
 date = "2015-02-26T10:15:03-05:00"
 title = "Content Gems vs. UpContent"
+hero_image = "/images/blog-header-default.jpg"
+author = "Marissa Burdett"
+author_image = "/images/marissa.png"
 
 +++
 

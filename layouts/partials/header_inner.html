@@ -27,8 +27,8 @@
   <body>
     <div id="header"{{ if eq .Section "post" }} class="blogheader" style="background-image: url({{ .Params.hero_image }})"{{ end }}>
       <div class="topHeaderr">
-        <div class="logo">
-          <a href="/"><img src="/images/logo.png" alt="UpContent Logo"></a><h1><a href="/">UpContent</a></h1>
+        <div class="logo" {{ if eq .Section "post" }} class="bloglogo" {{ end }}>
+          <a href="/"><img src="/images/logo-white.png" alt="UpContent Logo"></a><h1><a href="/">UpContent</a></h1>
         </div>
 
         <nav>
@@ -55,5 +55,8 @@
 
         {{ if eq .Section "post" }} <style>.subnav {display: none;} </style> {{ end }}
       </div>
-      {{ if eq .Section "post" }}<h1>{{ .Title }}</h1>{{ end }}
+      {{ if eq .Section "post" }}<h1>{{ .Title }}</h1><h4> {{ .Params.category }} </h4>  
+      <p><img src=" {{ .Params.author_image }} "/> {{ .Params.author }} </p>
+
+      {{ end }}
     </div>
