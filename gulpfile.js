@@ -4,7 +4,7 @@ var aws = require('gulp-aws');
 gulp.task('stage', function() {
     return gulp.src('public/**/*', {buffer: false})
         .pipe(
-            aws.s3('staging.upcontent.com', {
+            aws.s3('marketing.qa.upcontent', {
                 aws_profile: 'upcontent',
                 cache_control: 'max-age=300, must-revalidate',
                 preserve_paths: true
