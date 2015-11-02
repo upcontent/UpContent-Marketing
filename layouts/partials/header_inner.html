@@ -7,6 +7,8 @@
     <link href='//fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="icon" type="image/png"  href="/images/favcon.png">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <script src="https://use.typekit.net/zmq4sjh.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -23,7 +25,7 @@
   </head>
 
   <body>
-    <div id="header">
+    <div id="header"{{ if eq .Section "post" }} class="blogheader" style="background-image: url({{ .Params.hero_image }})"{{ end }}>
       <div class="topHeaderr">
         <div class="logo">
           <a href="/"><img src="/images/logo.png" alt="UpContent Logo"></a><h1><a href="/">UpContent</a></h1>
@@ -53,4 +55,5 @@
 
         {{ if eq .Section "post" }} <style>.subnav {display: none;} </style> {{ end }}
       </div>
+      {{ if eq .Section "post" }}<h1>{{ .Title }}</h1>{{ end }}
     </div>

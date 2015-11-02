@@ -1129,6 +1129,13 @@ input.buynow{
 	
 }
 
+
+
+.blogheader {
+	background-size: cover !important;
+	height: 500px;
+}
+
 .blog_listing{
 	padding-left: 20px;
 	width: 100%;
@@ -1170,6 +1177,11 @@ input.buynow{
 a.readmore{
 	font-weight: 700;
 	font-size: 14px;
+}
+
+
+.blog_post, .blog_listing, .blogpostings {
+	font-family: "proxima-nova",sans-serif;
 }
 
 .blogpostings blockquote {
@@ -1264,7 +1276,6 @@ a.readmore{
   font-size: 18px;
   line-height: 22px;
   margin-bottom: 15px;
-  font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   padding-bottom: 10px;
 
