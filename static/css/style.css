@@ -4,7 +4,7 @@
 }
 
 body{
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'proxima-nova', sans-serif;
 }
 
 p{
@@ -30,7 +30,7 @@ header {  /* Background Pattern Credit: SubtlePattern.com -- Thanks! */
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	padding: 2%;
-	background: url('/images/homebg.png');
+	background: url('/images/blog-header-default.jpg');
 	background-size: cover;
 	min-height: 40%;
 	margin-bottom: 70px;
@@ -352,24 +352,25 @@ header div.topHeader{
 
 .headerContent a{
 	color: #fff;
-	font-size: 25px;
+	font-size: 15px;
 	padding: 10px 40px;
-	border:1px solid #49b78d;
+	border:2px solid #fff;
 	-border-radius: 3px;
 	-o-border-radius: 3px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	text-align: center;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 700;
 	margin-top: 70px;
-	background: #49b78d;
+	text-transform: uppercase;
+
 }
 
 .headerContent a:hover{
-	background: transparent;
-	color: #49b78d;
-	border: 1px solid #49b78d;
+	background: #fff;
+	color: #5295CC;
+	border: 2px solid #fff;
 }
 
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
@@ -460,10 +461,10 @@ header div.topHeader nav ul li:last-child, #header div.topHeaderr nav ul li:last
 
 
 header div.topHeader nav ul li a.btnfull, #header div.topHeaderr nav ul li a.btnfull{
-	color: white;
+	color: #7755cd;
 	padding: 10px;
-	border: 2px solid #49b78d;
-	background: #49b78d;
+	border: 2px solid #fff;
+	background: #fff;
 	border-radius: 3px;
 }
 
@@ -472,9 +473,9 @@ header div.topHeader nav ul li a.btnfull:hover, #header div.topHeaderr nav ul li
 }
 
 header div.topHeader nav ul li a.btn, #header div.topHeaderr nav ul li a.btn{
-	color: #49b78d;
+	color: #fff;
 	padding: 10px;
-	border: 2px solid #49b78d;
+	border: 2px solid #fff;
 	background: transparent;
 	border-radius: 3px;
 }
@@ -503,9 +504,9 @@ header div.headerContent{
 
 header div.headerContent h1{
 	color: #fff;
-	font-weight: 500;
-	font-size: 35px;
-	text-align: left;
+	font-weight: 300;
+	font-size: 40px;
+	text-align: center;
 	line-height: 45px;
 }
 
@@ -1130,11 +1131,18 @@ input.buynow{
 	
 }
 
+.blogpostings ul.rrssb-buttons {
+	margin-left: 0;
+	margin-top: 60px;
+}
 
 
-.blogheader {
+
+#header.blogheader {
 	background-size: cover !important;
 	height: 500px;
+	max-width: 100%;
+	background-position: center;
 }
 
 .blogheader .topHeaderr {
@@ -1193,6 +1201,10 @@ input.buynow{
 .blog_listing{
 	padding-left: 20px;
 	width: 100%;
+}
+
+.blogpostings img, .blogpostings figure img {
+	max-width: 100%;
 }
 
 .blog_listing h1{
