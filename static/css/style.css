@@ -1136,6 +1136,11 @@ input.buynow{
 	margin-top: 60px;
 }
 
+.blogpostings span.tweetthis {
+	border-bottom: 2px dotted #7755cd;
+	padding-bottom: 1px;
+
+}
 
 
 #header.blogheader {

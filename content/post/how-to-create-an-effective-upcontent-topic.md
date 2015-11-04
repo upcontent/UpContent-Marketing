@@ -12,7 +12,7 @@ category = "Tips & Tricks"
 
 +++
 
-Tools are only as effective as the user’s knowledge of using them. By learning how to best use our search tool, you will get the most out of your content discovery experience and eliminate the barriers to finding the stuff that matters most.
+<span class="tweetthis">Tools are only as effective as the user’s knowledge of using them.</span><a target="_blank" href="http://ctt.ec/PrG58"><img src="/images/twitter-bird.png" /></a> By learning how to best use our search tool, you will get the most out of your content discovery experience and eliminate the barriers to finding the stuff that matters most.
 
 ## Why You Should Invest in Strong Topic Creation
 
