@@ -8,6 +8,7 @@ hero_image = "/images/howtocreataneffectivetopic-header.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Tips & Tricks"
+pinterest = "/images/how-to-create-an-effective-topic-pinterest.png"
 
 
 +++
