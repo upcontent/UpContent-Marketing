@@ -32,7 +32,7 @@ header {  /* Background Pattern Credit: SubtlePattern.com -- Thanks! */
 	padding: 2%;
 	background: url('/images/blog-header-default.jpg');
 	background-size: cover;
-	min-height: 40%;
+	min-height: 450px;
 	margin-bottom: 70px;
 }
 
@@ -504,17 +504,19 @@ header div.headerContent{
 
 header div.headerContent h1{
 	color: #fff;
-	font-weight: 300;
-	font-size: 40px;
+	font-weight: 700;
+	font-size: 50px;
 	text-align: center;
 	line-height: 45px;
+	text-transform: uppercase;
+	margin-top: 30px;
 }
 
 header div.headerContent h3{
 	color: #fff;
 	font-weight: 300;
 	font-size: 25px;
-	text-align: left;
+	text-align: center;
 	margin-top: 25px;
 	line-height:35px;
 }
@@ -669,7 +671,7 @@ p.testi em {
 	font-weight: normal;
 	font-size: 20px;
 	line-height: 26px;
-	text-align: justify;
+	text-align: left;
 }
 
 .valueStatement div img{
@@ -1487,7 +1489,7 @@ form input{
 	padding-left: 10px;
 	font-size: 20px;
 	font-weight: 300;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'proxima-nova', sans-serif;
 	color: #848484;
 	margin-bottom:10px;
 	border-radus: 3px;
@@ -1509,7 +1511,7 @@ form textarea{
 	padding-left: 10px;
 	font-size: 20px;
 	font-weight: 300;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'proxima-nova', sans-serif;
 	color: #848484;
 	margin-bottom:10px;
 	padding-top: 10px;
