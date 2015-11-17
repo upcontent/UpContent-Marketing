@@ -8,7 +8,7 @@ hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = ""
-pinterest = "/images/Why-Content-Marketing-is-a-Necessary-Evil.png"
+pinterest = "/images/why-content-marketing-is-a-necessary-evil.png"
 
 +++
 

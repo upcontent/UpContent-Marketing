@@ -8,7 +8,7 @@ hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = ""
-pinterest = "/images/5-Reasons-You-Need-Content-Curation.png"
+pinterest = "/images/5-reasons-you-need-content-curation.png"
 
 +++
 

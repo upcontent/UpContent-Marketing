@@ -8,7 +8,7 @@ hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = ""
-pinterest = "/images/Do-You-Know-These-Marketing-Principles-The-80-20-Rule-vs-Rule-of-Thirds.png"
+pinterest = "/images/do-you-know-these-marketing-principles-the-80-20-rule-vs-rule-of-thirds.png"
 
 +++
 

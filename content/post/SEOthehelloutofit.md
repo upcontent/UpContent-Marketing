@@ -8,7 +8,7 @@ hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = ""
-pinterest = "/images/Don't-Let-Your-Content-Be-Useless-SEO-the-Hell-Out-of-It.png"
+pinterest = "/images/dont-let-your-content-be-useless-seo-the-hell-out-of-it.png"
 
 +++
 

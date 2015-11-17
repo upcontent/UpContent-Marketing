@@ -8,7 +8,7 @@ hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Versus"
-pinterest = "/images/Google-vs-UpContent.png"
+pinterest = "/images/google-vs-upcontent.png"
 
 +++
 
