@@ -30,10 +30,17 @@ header {  /* Background Pattern Credit: SubtlePattern.com -- Thanks! */
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	padding: 2%;
-	background: url('/images/blog-header-default.jpg');
-	background-size: cover;
 	min-height: 450px;
 	margin-bottom: 70px;
+	background : -moz-linear-gradient(19.8% -41.61% -50.22deg,rgba(73, 183, 141, 1) 1.78%,rgba(75, 180, 210, 1) 23.13%,rgba(82, 149, 204, 1) 45.17%,rgba(89, 113, 202, 1) 67.43%,rgba(119, 85, 205, 1) 83.72%,rgba(119, 85, 135, 1) 99.41%);
+  	background : -webkit-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+  	background : -webkit-gradient(linear,19.8% -41.61% ,80.2% 141.61% ,color-stop(0.0178,rgba(73, 183, 141, 1) ),color-stop(0.2313,rgba(75, 180, 210, 1) ),color-stop(0.4517,rgba(82, 149, 204, 1) ),color-stop(0.6743,rgba(89, 113, 202, 1) ),color-stop(0.8372,rgba(119, 85, 205, 1) ),color-stop(0.9941,rgba(119, 85, 135, 1) ));
+  	background : -o-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+  	background : -ms-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+  	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#49B78D', endColorstr='#775587' ,GradientType=0)";
+  	background : linear-gradient(140.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+  	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#49B78D',endColorstr='#775587' , GradientType=1);
+
 }
 
 .main-headline, .sub-headline{
@@ -59,8 +66,16 @@ header {  /* Background Pattern Credit: SubtlePattern.com -- Thanks! */
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	padding: 30px;
-	background: url('/images/header_bg.jpg');
 	margin-bottom: 70px;
+	background : -moz-linear-gradient(19.8% -41.61% -50.22deg,rgba(73, 183, 141, 1) 1.78%,rgba(75, 180, 210, 1) 23.13%,rgba(82, 149, 204, 1) 45.17%,rgba(89, 113, 202, 1) 67.43%,rgba(119, 85, 205, 1) 83.72%,rgba(119, 85, 135, 1) 99.41%);
+ 	background : -webkit-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+	background : -webkit-gradient(linear,19.8% -41.61% ,80.2% 141.61% ,color-stop(0.0178,rgba(73, 183, 141, 1) ),color-stop(0.2313,rgba(75, 180, 210, 1) ),color-stop(0.4517,rgba(82, 149, 204, 1) ),color-stop(0.6743,rgba(89, 113, 202, 1) ),color-stop(0.8372,rgba(119, 85, 205, 1) ),color-stop(0.9941,rgba(119, 85, 135, 1) ));
+	background : -o-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+	background : -ms-linear-gradient(-50.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#49B78D', endColorstr='#775587' ,GradientType=0)";
+	background : linear-gradient(140.22deg, rgba(73, 183, 141, 1) 1.78%, rgba(75, 180, 210, 1) 23.13%, rgba(82, 149, 204, 1) 45.17%, rgba(89, 113, 202, 1) 67.43%, rgba(119, 85, 205, 1) 83.72%, rgba(119, 85, 135, 1) 99.41%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#49B78D',endColorstr='#775587' , GradientType=1);
+
 }
 
 header div.topHeader{
