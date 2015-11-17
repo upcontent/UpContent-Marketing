@@ -1208,6 +1208,9 @@ input.buynow{
 .blog_listing{
 	padding-left: 20px;
 	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
 }
 
 .blogpostings img, .blogpostings figure img {
@@ -1224,14 +1227,8 @@ input.buynow{
 
 .blog_post{
     margin-bottom: 10%;
-    max-width: 30%;
-    float: left;
     margin-right: 3%;
-}
-
-.blog_post:nth-child(3n) {
-	clear:right;
-	margin-right: 0;
+    width: 350px;
 }
 
 .blog_post a{
