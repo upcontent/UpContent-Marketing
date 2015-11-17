@@ -7,6 +7,8 @@ title = "What is Content Curation & How Can it Benefit You?"
 hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
+category = ""
+pinterest = "/images/What-is-Content-Curation-&-How-Can-it-Benefit-You.png"
 
 +++
 

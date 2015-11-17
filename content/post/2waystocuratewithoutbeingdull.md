@@ -7,6 +7,8 @@ title = "2 Ways to Curate Without Being Dull"
 hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
+category = ""
+pinterest = "/images/2-Ways-to-Curate-Without-Being-Dull.png"
 
 +++
 

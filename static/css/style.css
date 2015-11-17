@@ -1223,8 +1223,15 @@ input.buynow{
 }
 
 .blog_post{
-	margin-bottom: 50px;
-	max-width: 60%;
+    margin-bottom: 10%;
+    max-width: 30%;
+    float: left;
+    margin-right: 3%;
+}
+
+.blog_post:nth-child(3n) {
+	clear:right;
+	margin-right: 0;
 }
 
 .blog_post a{

@@ -7,6 +7,8 @@ title = "4 Steps to Fuel Your Influencer Strategy Using Content Curation"
 hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
+category = ""
+pinterest = "/images/4-Steps-to-Fuel-Your-Influencer-Strategy-Using-Content-Curation.png"
 
 +++
 

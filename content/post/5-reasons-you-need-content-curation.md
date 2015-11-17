@@ -7,6 +7,8 @@ title = "5 Reasons You Need Content Curation"
 hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
+category = ""
+pinterest = "/images/5-Reasons-You-Need-Content-Curation.png"
 
 +++
 

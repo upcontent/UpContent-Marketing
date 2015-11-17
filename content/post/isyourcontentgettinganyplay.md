@@ -7,6 +7,8 @@ title = "Is Your Content Getting Any Play?"
 hero_image = "/images/blog-header-default.jpg"
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
+category = ""
+pinterest = "/images/Is-Your-Content-Getting-Any-Play.png"
 
 +++
 
