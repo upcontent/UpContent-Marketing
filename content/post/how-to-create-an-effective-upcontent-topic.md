@@ -44,7 +44,7 @@ Once you have asked yourself these questions, you are ready to start typing your
     “Tech start-ups in Pittsburgh”
 
 
-- Pay close attention to your results. If you’re finding too many outliers in your content suggestions, it’s probably an indication that your search queries are too broad. You can elect to narrow each query further, or utilize the NOT feature to exclude suggestions containing those outliers.
+- Pay close attention to your results. If you’re finding too many outliers in your content suggestions, it’s probably an indication that your search queries are too broad. You can elect to narrow each query further or utilize the NOT feature to exclude suggestions containing those outliers.
 
     “Tech start-ups (NOT “Silicon Valley”)”
 
