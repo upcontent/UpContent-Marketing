@@ -1,13 +1,20 @@
-var gulp = require('gulp');
-var aws = require('gulp-aws');
+var gulp = require('gulp'),
+    AWS = require('aws-sdk')
+    s3 = require('vinyl-s3');
+
+credentials = new AWS.SharedIniFileCredentials({profile: 'upcontent'});
+
+s3obj = new AWS.S3({credentials: credentials, region: 'us-west-2'});
 
 gulp.task('stage', function() {
     return gulp.src('public/**/*', {buffer: false})
         .pipe(
-            aws.s3('marketing.qa.upcontent', {
-                aws_profile: 'upcontent',
-                cache_control: 'max-age=300, must-revalidate',
-                preserve_paths: true
+            s3.dest('', {
+                s3: s3obj,
+                awsOptions: {
+                  Bucket: 'marketing.qa.upcontent',
+                  CacheControl: 'max-age=300, must-revalidate'
+                }
             })
         );
 });
@@ -15,10 +22,12 @@ gulp.task('stage', function() {
 gulp.task('publish', function() {
     return gulp.src('public/**/*', {buffer: false})
         .pipe(
-            aws.s3('production.upcontent.com', {
-                aws_profile: 'upcontent',
-                cache_control: 'max-age=300, must-revalidate',
-                preserve_paths: true
+            s3.dest('', {
+                s3: s3obj,
+                awsOptions: {
+                  Bucket: 'marketing.prod.upcontent',
+                  CacheControl: 'max-age=300, must-revalidate'
+                }
             })
         );
 });
