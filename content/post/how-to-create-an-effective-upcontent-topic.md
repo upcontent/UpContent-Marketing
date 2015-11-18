@@ -51,7 +51,7 @@ Once you have asked yourself these questions, you are ready to start typing your
 {{<figure src="/images/effective-topic-image-2.png" title="" alt="Multiple Search Queries" caption-top="false">}}
 
 
-- Pay close attention to your results. If you’re finding too many outliers in your content suggestions, it’s probably an indication that your search queries are too broad. You can elect to narrow each query further, or utilize the NOT feature to exclude suggestions containing those outliers.
+- Pay close attention to your results. If you’re finding too many outliers in your content suggestions, it’s probably an indication that your search queries are too broad. You can elect to narrow each query further or utilize the NOT feature to exclude suggestions containing those outliers.
 
     “Tech start-ups (NOT “Silicon Valley”)”
 
