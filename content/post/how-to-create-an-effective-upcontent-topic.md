@@ -87,6 +87,4 @@ Example: Hybrid cars AND (Toyota OR Honda) will result in suggestions on Toyota 
 #### Still feeling like topic creation is best left for your in-laws? Drop us a note, we are happy to help get you on the path to recovery.
 
 
-<p style="text-align: center; margin: 50px 0;"><a target="_blank" href="/images/creating-an-effective-topic-infographic.png" class="blog-cta">Free Download: Infographic</a></p>
-
 Generating a solid UpContent topic that yields the best results may take a few tweaks, but with strong effort comes valuable results. We want to know: what are the search queries for your favorite topics? [Send us a tweet](http://twitter.com/getupcontent) and let us know!
