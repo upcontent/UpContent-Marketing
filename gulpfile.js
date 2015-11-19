@@ -26,7 +26,7 @@ gulp.task('publish', function() {
                 s3: s3obj,
                 awsOptions: {
                   Bucket: 'marketing.prod.upcontent',
-                  CacheControl: 'max-age=300, must-revalidate'
+                  CacheControl: 'max-age=3600, must-revalidate'
                 }
             })
         );
