@@ -466,7 +466,7 @@ header div.topHeader nav ul.subnav li a, #header div.topHeaderr nav ul.subnav li
 }
 
 header div.topHeader nav ul li a:hover, #header div.topHeaderr nav ul li a:hover{
-	color: #49b78d;
+	color: #fff;
 	text-decoration: underline;
 }
 
@@ -636,7 +636,7 @@ p.testi em {
 	padding-bottom: 5px;
 }
 
-.valueStatement{
+.valueStatement, .card-ui-home{
 	display: flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -649,104 +649,211 @@ p.testi em {
 	align-content: center;
 	-webkit-align-content: center;
 	-ms-align-content: center;
-	padding: 25px 0;
 	width: 100%;
-	margin-bottom: 35px;
 }
 
-.valueStatement > div {
-	max-width: 350px;
-	text-align: center;
+.valueStatement > div, .card-ui-home > div {
 	flex-flow: column;
 	-webkit-flex-flow: column;
 	-ms-flex-flow: column;
-	margin-bottom: 35px;
 	padding: 0 15px;
+	max-width: 45%;
 }
 
-.valueStatement > div > h4{
-	text-align: center;
+.valueStatement > div >h2 {
+	font-family: 'proxima-nova', sans-serif;
 	font-weight: 300;
-	font-size: 20px;
-	color: #2f2f2f;
-	margin: 5px 0;
+	font-size: 45px;
+	text-align: left;
+	line-height: 55px;
+	margin-bottom: 15px;
+	color: #565656;
 }
 
-.valueStatement div strong{
-	font-weight: 700;
-	font-size: 25px;
-	color: #49b78d;
+.valueStatement > div >p {
+	font-family: 'proxima-nova', sans-serif;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: left;
 	line-height: 30px;
-	text-align: center;
-	margin: 0 auto;
-	margin: 15px 0 10px 0;
+	margin-bottom: 60px;
+	color: #565656;
 }
 
-.valueStatement div p{
+.valueStatement > div > p >small {
+	font-family: 'proxima-nova', sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+	text-align: center;
+	color: #565656;
+	margin-top: 10px;
+}
+
+.valueStatement > div > a.ghost-home-cta{
+	text-align: center;
+	font-weight: 700;
+	font-size: 12px;
+	color: #7755cd;
+	padding: 15px;
+	border: 1px solid #7755cd;
+	background: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+.valueStatement > div > a.ghost-home-cta:hover{
+	color: #fff;
+	padding: 15px;
+	border: 1px solid #7755cd;
+	background: #7755cd;
+}
+
+.valueStatement > div > a.ghost-home-cta-full{
+	text-align: center;
+	font-weight: 700;
+	font-size: 12px;
+	color: #fff;
+	padding: 15px;
+	border: 1px solid #7755cd;
+	background: #7755cd;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+.valueStatement > div > a.ghost-home-cta-full:hover{
+	text-align: center;
+	font-weight: 700;
+	font-size: 12px;
+	color: #7755cd;
+	padding: 15px;
+	border: 1px solid #7755cd;
+	background: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+.card-ui-home > div > a.ghost-home-cta-white{
+	text-align: center;
+	font-weight: 700;
+	font-size: 12px;
+	color: #fff;
+	padding: 15px;
+	border: 1px solid #fff;
+	background: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+.card-ui-home > div > a.ghost-home-cta-white:hover{
+	color: #7755cd;
+	border: 1px solid #fff;
+	background: #fff;
+}
+
+.card-ui-home {
+	background: #7755cd;
+	padding: 70px 0;
+	margin-bottom: 90px;
+}
+
+.card-ui-home > div >h2 {
+	font-family: 'proxima-nova', sans-serif;
+	font-weight: 300;
+	font-size: 45px;
+	text-align: left;
+	line-height: 55px;
+	margin-bottom: 15px;
+	color: #fff;
+}
+
+.card-ui-home > div >p {
+	font-family: 'proxima-nova', sans-serif;
 	font-weight: normal;
 	font-size: 20px;
-	line-height: 26px;
 	text-align: left;
+	line-height: 30px;
+	margin-bottom: 60px;
+	color: #fff;
 }
 
-.valueStatement div img{
-	text-align: center;
-	width: 100%;
-	margin: 10px auto;
-	max-width: 200px;
+.filters {
+	margin-bottom: 80px;
 }
 
-.find{
+.cta-browse {
+	padding-bottom: 0;
+}
+
+.card-ui-home > div img, .cta-browse > div img {
+	max-width: 100%;
+}
+
+footer {
 	display: flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	align-self: auto;
-	-webkit-align-self: auto;
-	-ms-align-self: auto;
-	min-width: 0;
-	min-height: 250px;
-	min-width: 300px;
+    display: -webkit-flex;
+    display: -ms-flex;
+    flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    justify-content: space-around;
+    -webkit-justify-content: space-around;
+    -ms-justify-content: space-around;
+    align-content: center;
+    -webkit-align-content: center;
+    -ms-align-content: center;
+    align-items: center;
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    padding-bottom: 70px;
+    width: 100%;
+	border-top: 1px solid #ededed;
+	padding: 20px 0;
 }
 
-.valueStatement em{
-	display: block;
-	font-weight: bold;
-	margin-top: 25px;
-	text-align: left;
-	font-size:20px;
-}
-
-.valueStatement em span{
-	font-weight: normal;
-}
-
-.rightContent{
+footer > .foot-left {
 	display: flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	align-self: auto;
-	-webkit-align-self: auto;
-	-ms-align-self: auto;
-	min-width: 0;
-	min-height: 250px;
-	min-width: 300px
+    display: -webkit-flex;
+    display: -ms-flex;
+    flex: 0 1 auto;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    align-self: auto;
+    -webkit-align-self: auto;
+    -ms-align-self: auto;
+    min-height: auto;
 }
 
-.rightContent em span strong{
-	font-size: 20px;
-}
-
-.engagement{
+footer > .foot-right {
 	display: flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	align-self: auto;
-	-webkit-align-self: auto;
-	-ms-align-self: auto;
-	min-width: 0;
-	min-height: 250px;
-	min-width: 300px;
+    display: -webkit-flex;
+    display: -ms-flex;
+    flex: 0 2 auto;
+    -webkit-flex: 0 2 auto;
+    -ms-flex: 0 2 auto;
+    align-self: auto;
+    -webkit-align-self: auto;
+    -ms-align-self: auto;
+    min-width: 0;
+    min-height: auto;
+    text-align: center;
+    flex-direction: column;
+    -webkit-flex-direction: column;
 }
+
+footer > .foot-right > ul > li {
+	list-style: none;
+	display: inline-block;
+	color: #7755cd;
+	margin-right: 20px;
+	font-weight: 700;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
 
 .hootsuite-cta{
   display: flex;
