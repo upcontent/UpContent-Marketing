@@ -4,6 +4,11 @@ Description = ""
 Tags = []
 date = "2015-07-14T12:15:54-04:00"
 title = "Google vs. UpContent"
+hero_image = "/images/blog-header-default.jpg"
+author = ""
+author_image = ""
+category = "Versus"
+pinterest = "/images/google-vs-upcontent.png"
 
 +++
 
