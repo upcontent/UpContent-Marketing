@@ -754,6 +754,17 @@ p.testi em {
 	background: #fff;
 }
 
+.card-ui-home > div > a.heart-btn {
+	background: url('/images/heart.png') 11px 13px no-repeat;
+	padding-left: 35px;
+}
+
+.card-ui-home > div > a.heart-btn:hover {
+	background: url('/images/heart-purp.png') 11px 13px no-repeat;
+	background-color: #fff;
+	padding-left: 35px;
+}
+
 .card-ui-home {
 	background: #7755cd;
 	padding: 70px 0;
