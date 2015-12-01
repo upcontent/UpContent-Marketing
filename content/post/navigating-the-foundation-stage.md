@@ -5,9 +5,9 @@ Tags = []
 date = "2015-12-01T13:54:10-05:00"
 title = "Behind-the-Scenes: Navigating Through the Foundation Stage of a Technology Startup"
 author = "Marissa Burdett"
-author_image = ""
+author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/navigating-the-foundation-stage.png"
 
 +++
 It’s an exciting time to be a part of the UpContent team. In the last month, the team has doubled in size and the momentum has tripled as we’re nearing the end of the year. Though the product has been in development since May 2012, UpContent has really only been “on the market” since mid-year. We’re thrilled to say we've graduated from the "beta stage" and are transitioning through what we call the “foundation stage.”
@@ -48,6 +48,6 @@ Now that we have identified these differentiators, tightened our brand, and are 
 
 Sometimes when you are in the heart of the hustle, it can be difficult to see progress. The UpContent team is definitely moving full steam ahead through the end of December (and beyond) and, while it can be exhausting, we are starting to see the fruits of our labor. Our team took a brief moment to pause and reflect on what we’ve learned during this past sprint:
 
-INSERT IMAGE HERE
+{{<figure src="/images/stayingScrappy.png" title="" alt="Staying Scrappy" caption-top="false">}}
 
 Are you in the early stages of launching your product or are you going through a rebrand? [Send us a tweet](http://twitter.com/getupcontent) and let us know what you’ve learned!
