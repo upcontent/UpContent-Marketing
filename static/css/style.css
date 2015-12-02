@@ -865,6 +865,17 @@ footer > .foot-right > ul > li {
 	text-transform: uppercase;
 }
 
+footer > .foot-right > ul > li > a {
+	color: #7755cd;
+	text-decoration: none;
+}
+
+footer > .foot-right > ul > li > a:hover {
+	color: #7755cd;
+	text-decoration: underline;
+}
+
+
 
 .hootsuite-cta{
   display: flex;
