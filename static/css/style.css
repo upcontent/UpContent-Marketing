@@ -636,7 +636,7 @@ p.testi em {
 	padding-bottom: 5px;
 }
 
-.valueStatement, .card-ui-home{
+.valueStatement, .card-ui-home, .ourPurpose{
 	display: flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -652,12 +652,53 @@ p.testi em {
 	width: 100%;
 }
 
+
+
 .valueStatement > div, .card-ui-home > div {
 	flex-flow: column;
 	-webkit-flex-flow: column;
 	-ms-flex-flow: column;
 	padding: 0 15px;
 	max-width: 45%;
+}
+
+.ourPurpose > div {
+	flex-flow: column;
+	padding: 0 20px;
+	margin-bottom: 60px;
+	max-width: 1080px;
+}
+
+.ourPurpose > div h1 {
+	font-weight: 300;
+	color: #7755cb;
+	font-size: 45px;
+	margin-bottom: 25px;
+	line-height: 45px;
+	text-align: center;
+}
+
+.ourPurpose > div h2 {
+	font-weight: 400;
+    text-align: left;
+    font-size: 35px;
+    color: #49b78d;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.ourPurpose > div p {
+	margin-bottom: 15px;
+}
+
+.ourPurpose > div p a {
+	font-weight: 700;
+	text-decoration: underline;
+	color: #7755cb;
+}
+
+.valueStatement > div > img {
+	max-width: 100%;
 }
 
 .valueStatement > div >h2 {
@@ -752,6 +793,17 @@ p.testi em {
 	color: #7755cd;
 	border: 1px solid #fff;
 	background: #fff;
+}
+
+.card-ui-home > div > a.heart-btn {
+	background: url('/images/heart.png') 11px 13px no-repeat;
+	padding-left: 35px;
+}
+
+.card-ui-home > div > a.heart-btn:hover {
+	background: url('/images/heart-purp.png') 11px 13px no-repeat;
+	background-color: #fff;
+	padding-left: 35px;
 }
 
 .card-ui-home {
@@ -853,6 +905,17 @@ footer > .foot-right > ul > li {
 	font-size: 12px;
 	text-transform: uppercase;
 }
+
+footer > .foot-right > ul > li > a {
+	color: #7755cd;
+	text-decoration: none;
+}
+
+footer > .foot-right > ul > li > a:hover {
+	color: #7755cd;
+	text-decoration: underline;
+}
+
 
 
 .hootsuite-cta{
