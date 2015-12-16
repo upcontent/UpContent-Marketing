@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Thought Leadership"
-pinterest = ""
+pinterest = "/images/everyone-has-influence.png"
 
 +++
 Does this sound familiar?
@@ -23,7 +23,8 @@ Despite the prevalence of this word-of-mouth marketing, according to [Traackr](h
 
 The Merriam-Webster Dictionary defines influence as “the capacity to have an effect on the character, development, or behavior of someone or something.” In short, to have influence is to have the ability to impact, and possibly sway, others.
 
-KYLE - QUOTE: Influence is the art of triggering action. - Aaron Lee, Grand Master of Customer Delight, Post Planner
+> "Influence is the art of triggering action."<br>
+> *- Aaron Lee, Grand Master of Customer Delight, Post Planner*
 
 Thanks to the accessibility of social media, anyone and everyone has a platform on which to exercise influence with varying levels of impact. Whether it is used to convince someone to try the latest beauty product or to make an investment in the influencer’s product or services, there is an element of social proof that is shaped by how influential a person is and what type of influence he or she possesses.
 
@@ -42,7 +43,7 @@ And they’re right. Certainly, there is a cognitive bias that unconsciously for
 
 For a long while, these network numbers were the only metric companies and consumers cared about. For example, in the past, many bloggers were chosen for influencer campaigns based solely on the number of Instagram followers they had, rather than selected based on the quality of their content or the engagement they receive from their network. In his book *Putting the Public Back in Public Relations*, Brian Solis asserted that while the top ranked bloggers assist with the credibility of a brand, “it does very little in generating new customers and enhancing brand loyalty. The true influencers are the peers of your customers.”
 
-While maintaining an active presence and having a large audience can certainly impact the amount of influence one possesses, these attributes are merely the starting point to creating a *high-quality* and *long-lasting* impact. Kevan Lee, Content Crafter from Buffer, puts it this way: “Influential people are those who can make an impact on others: by sharing big ideas or teaching or sharing tips. It doesn’t always have to be big social media followings or name brand personal branding. Anyone can be influential in a way.”
+While maintaining an active presence and having a large audience can certainly impact the amount of influence one possesses, these attributes are merely the starting point to creating a *high-quality* and *long-lasting* impact. [Kevan Lee](https://twitter.com/kevanlee), Content Crafter from [Buffer](https://buffer.com/), puts it this way: “Influential people are those who can make an impact on others: by sharing big ideas or teaching or sharing tips. It doesn’t always have to be big social media followings or name brand personal branding. Anyone can be influential in a way.”
 
 ## How does one stand out in a feed of “influencers?”
 
@@ -54,7 +55,8 @@ One scroll through your news feed and you are bound to find a few so-called “i
 
 This is what we call the Dale Carnegie approach. Heard of him? If you haven’t heard of his name, you’ve probably heard of his most famous work, *How to Win Friends and Influence People*. (And if you haven’t heard of either, go ahead and get it from your local library ASAP. We’ll wait here until you’ve finished it.) In his book, Carnegie shares the keys to understanding human nature and how to use that knowledge to become an effective and compelling leader. Brilliantly, he recognized that removing his ego and defaulting to letting others be “right” would earn him long-term respect and ultimately win people over to his way of thinking.
 
-KYLE - QUOTE: “You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.” - Dale Carnegie, American writer and lecturer
+> “You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.” <br>
+> *- Dale Carnegie, American writer and lecturer*
 
 Shifting your focus from your own personal gain to how you can help and learn from others will form lasting connections and, as an added bonus, position you as an esteemed and trusted leader.
 
