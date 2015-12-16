@@ -30,7 +30,7 @@ Thanks to the accessibility of social media, anyone and everyone has a platform 
 
 ## How is influence shifting?
 
-The Word of Mouth Marketing Association believes social media influencers can attribute their influence to characteristics such as (but not limited to):
+[The Word of Mouth Marketing Association](http://womma.org/) believes social media influencers can attribute their influence to characteristics such as (but not limited to):
 
 -	frequency of communication 
 
@@ -41,7 +41,7 @@ The Word of Mouth Marketing Association believes social media influencers can at
  
 And they’re right. Certainly, there is a cognitive bias that unconsciously forms when we see an active Twitter user with thousands of followers or a Periscope broadcast rife with a steady stream of hearts. We, as humans, automatically associate our trust with social clout.
 
-For a long while, these network numbers were the only metric companies and consumers cared about. For example, in the past, many bloggers were chosen for influencer campaigns based solely on the number of Instagram followers they had, rather than selected based on the quality of their content or the engagement they receive from their network. In his book *Putting the Public Back in Public Relations*, Brian Solis asserted that while the top ranked bloggers assist with the credibility of a brand, “it does very little in generating new customers and enhancing brand loyalty. The true influencers are the peers of your customers.”
+For a long while, these network numbers were the *only* metric companies and consumers cared about. For example, in the past, many bloggers were chosen for influencer campaigns based solely on the number of Instagram followers they had, rather than selected based on the quality of their content or the engagement they receive from their network. In his book *Putting the Public Back in Public Relations*, Brian Solis asserted that while the top ranked bloggers assist with the credibility of a brand, “it does very little in generating new customers and enhancing brand loyalty. The true influencers are the peers of your customers.”
 
 While maintaining an active presence and having a large audience can certainly impact the amount of influence one possesses, these attributes are merely the starting point to creating a *high-quality* and *long-lasting* impact. [Kevan Lee](https://twitter.com/kevanlee), Content Crafter from [Buffer](https://buffer.com/), puts it this way: “Influential people are those who can make an impact on others: by sharing big ideas or teaching or sharing tips. It doesn’t always have to be big social media followings or name brand personal branding. Anyone can be influential in a way.”
 
@@ -78,7 +78,7 @@ Pay attention to current events and know the latest news in your niche. People a
 3. **Be consistent.**
 Consistency is KEY no matter what you do in life. With social media moving at such a quick pace, anyone can be forgotten easily. Unfortunately, there aren't any off days.
 
-Instead of reading and sharing viral content that everyone else has already posted, make content curation a priority, both for your own personal learning and for the benefit of others. Using tools like UpContent will help you find the hidden gems of content that you care about most without having to scroll through endless pages of Google results.
+Instead of reading and sharing viral content that everyone else has already posted, make content curation a priority, both for your own personal learning and for the benefit of others. Using tools like [UpContent](http://my.upcontent.com) will help you find the hidden gems of content that you care about most without having to scroll through endless pages of Google results.
 
 ### Make a commitment to continuous learning and networking.
 
