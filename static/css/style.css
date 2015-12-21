@@ -1454,13 +1454,6 @@ a.blog-cta {
 	font-family: "proxima-nova",sans-serif;
 }
 
-.blogpostings blockquote {
-	margin-left: 30px;
-}
-
-.blogpostings blockquote p{
-
-}
 
 .blogpostings figcaption h4 {
 	font-size: 14px;
@@ -1515,6 +1508,24 @@ a.blog-cta {
 	line-height: 30px;
 	margin-bottom: 15px;
 	color: #565656;
+}
+
+.blogpostings blockquote p {
+	color: #7755CD;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 35px;
+    border: 1px solid #EFEEEE;
+    padding: 10px;
+    margin: 30px 0;
+    text-align: center;
+}
+
+.blogpostings blockquote p em {
+	font-size: 12px;
+	font-weight: 700;
+	color: #565656;
+	font-style: normal;
 }
 
 .blogpostings h3{
