@@ -9,6 +9,7 @@ author = "Scott Rogerson"
 author_image = ""
 category = "Behind-the-Scenes"
 pinterest = ""
+draft="true"
 +++
 
 As we near the release of our newest iteration of UpContent, you will notice a prominent omission from the content set – social media and video content.

@@ -9,6 +9,7 @@ author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
 pinterest = ""
+draft="true"
 +++
 
 Though every social media platform offers a unique opportunity for brands and individuals to interact with specific audiences, Twitter is a front-runner when it comes to engaging with a targeted audience in real-time, establishing your credibility as an industry influencer, and participating in social listening.
