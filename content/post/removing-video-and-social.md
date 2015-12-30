@@ -6,10 +6,9 @@ date = "2015-12-23T09:06:26-05:00"
 title = "Something's Missing: Our Decision to Remove Video and Social Posts from Suggestions"
 Hero_image = ""
 author = "Scott Rogerson"
-author_image = ""
+author_image = "/images/scott.png"
 category = "Behind-the-Scenes"
 pinterest = ""
-draft="true"
 +++
 
 As we near the release of our newest iteration of UpContent, you will notice a prominent omission from the content set – social media and video content.
