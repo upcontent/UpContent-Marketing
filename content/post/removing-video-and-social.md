@@ -25,7 +25,7 @@ When looking at the activity conducted by our customers since launch, this feedb
 
 ## Reintroducing image and video content in the future
 
-Though we feel firm in our decision to remove video and social content from our suggestions, In no way does this decision indicate a belief that these content types are not important to the conversation.  A picture remains “worth a thousand words,” and we intend to re-introduce this type of content to our technology in a way that lives up to our standards of discovery – making the process of evaluating and sorting content as simple and efficient as possible.
+Though we feel firm in our decision to remove video and social content from our suggestions, in no way does this decision indicate a belief that these content types are not important to the conversation.  A picture remains “worth a thousand words,” and we intend to re-introduce this type of content to our technology in a way that lives up to our standards of discovery – making the process of evaluating and sorting content as simple and efficient as possible.
 
 ## Social content is part of a different conversation
 
