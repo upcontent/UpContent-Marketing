@@ -1445,6 +1445,10 @@ input.buynow{
 
 }
 
+.blogpostings iframe {
+	margin: 50px auto !important;
+}
+
 
 #header.blogheader {
 	background-size: cover !important;
@@ -1735,6 +1739,7 @@ a.blog-cta {
 	color: #49b78d;
 	font-weight: 700;
 	font-size: 20px;
+	text-decoration: underline;
 
 }
 
