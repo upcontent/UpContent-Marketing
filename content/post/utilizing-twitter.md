@@ -22,11 +22,11 @@ While these numbers are very exciting and we have celebrated many mini milestone
 
 Clearly, Twitter is one of the most useful tools in our arsenal. In this post, we’d like to break down our strategy in hopes that it can help you:
 
-- [Gain targeted followers quickly and inexpensively](#findThoseFollowers)
-- [Curate a feed that sparks conversations](#curateConversation)
-- [Insert yourself into discussions organically](#discussions)
-- [Navigate Twitterchats to use your time wisely](#navigateTwitterChats)
-- [Use your brand voice consistently](#brandVoice)
+- **[Gain targeted followers quickly and inexpensively](#findThoseFollowers)**
+- **[Curate a feed that sparks conversations](#curateConversation)**
+- **[Insert yourself into discussions organically](#discussions)**
+- **[Navigate Twitterchats to use your time wisely](#navigateTwitterChats)**
+- **[Use your brand voice consistently](#brandVoice)**
 
 ## <a name="findThoseFollowers"></a> Find Those Followers 
 

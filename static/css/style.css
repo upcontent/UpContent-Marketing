@@ -1742,7 +1742,7 @@ a.blog-cta {
 
 }
 
-.blogpostings ul li a {
+.blogpostings ul li strong a {
 	text-decoration: underline;
 }
 
