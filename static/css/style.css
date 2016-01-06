@@ -1739,8 +1739,11 @@ a.blog-cta {
 	color: #49b78d;
 	font-weight: 700;
 	font-size: 20px;
-	text-decoration: underline;
 
+}
+
+.blogpostings ul li a {
+	text-decoration: underline;
 }
 
 

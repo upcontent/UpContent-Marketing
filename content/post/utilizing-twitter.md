@@ -28,7 +28,7 @@ Clearly, Twitter is one of the most useful tools in our arsenal. In this post, w
 - [Navigate Twitterchats to use your time wisely](#navigateTwitterChats)
 - [Use your brand voice consistently](#brandVoice)
 
-## <a name="findThosFollers"></a> Find Those Followers 
+## <a name="findThoseFollowers"></a> Find Those Followers 
 
 Having a strong Twitter following establishes social clout and gives you a larger audience to [influence and connect with](https://upcontent.com/post/everyone-has-influence/). While having a vast number of followers can certainly boost the ego, it means nothing if your audience does not engage with you. Engagement is your most important metric.
 
