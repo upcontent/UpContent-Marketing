@@ -1520,6 +1520,7 @@ input.buynow{
 
 .blogpostings img, .blogpostings figure img {
 	max-width: 100%;
+	margin-bottom: 15px;
 }
 
 .blog_listing h1{
