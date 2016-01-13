@@ -1,6 +1,7 @@
 var gulp = require('gulp'),
     AWS = require('aws-sdk')
-    s3 = require('vinyl-s3');
+    s3 = require('vinyl-s3')
+    through2 = require('through2');
 
 credentials = new AWS.SharedIniFileCredentials({profile: 'upcontent'});
 
@@ -8,6 +9,11 @@ s3obj = new AWS.S3({credentials: credentials, region: 'us-west-2'});
 
 gulp.task('stage', function() {
     return gulp.src('public/**/*', {buffer: false})
+        .pipe(through2.obj(function(file, _, done) {
+            file.contentEncoding = ['identity'];
+            this.push(file);
+            done();
+        }))
         .pipe(
             s3.dest('', {
                 s3: s3obj,
@@ -21,6 +27,11 @@ gulp.task('stage', function() {
 
 gulp.task('publish', function() {
     return gulp.src('public/**/*', {buffer: false})
+        .pipe(through2.obj(function(file, _, done) {
+            file.contentEncoding = ['identity'];
+            this.push(file);
+            done();
+        }))
         .pipe(
             s3.dest('', {
                 s3: s3obj,
