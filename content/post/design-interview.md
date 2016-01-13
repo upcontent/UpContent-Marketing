@@ -14,7 +14,7 @@ draft="false"
 
 Great design is absolutely essential for any tech product to succeed. That’s why we’re truly grateful to have Kyle Grady as our Lead Product Designer. Since starting as a UX/UI Designer in April 2013, he has headed up two redesigns, illustrating his dedication to continuously improving both aesthetic and user workflow. He has flourished in his new role, bringing fresh perspective and confidence to his designs, and UpContent is so much better for it. 
 
-{{<figure src="/images/kyle-portrait.png" title="" alt="Kyle Grady" caption-top="false">}}
+{{<figure src="/images/kyle-portrait.jpg" title="" alt="Kyle Grady" caption-top="false">}}
 
 Recently, I sat down with Kyle to pick his brain about our most recent design changes. This is our most dramatic redesign yet and we feel it is much more representative of who we are, what we believe, and what we hope our users experience. In our conversation below, Kyle explains why we made a change to our design, how he decided on what changes to make, and what we can hope and expect from him moving forward.
 
