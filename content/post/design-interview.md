@@ -40,7 +40,7 @@ Recently, I sat down with Kyle to pick his brain about our most recent design ch
 
 ### Q: What do you like most about being the Lead Product Designer working on UpContent?
 
-**A:** The thing I like the most about being the Lead Product Design on UpContent is the trust and faith my team has in me. I know I have personally grown tremendously as a product designer, and there is still tons more learning in my future, but the trust that I built with the team, and the faith they have in me to produce the right results for the right reasons means the world to me.
+**A:** The thing I like the most about being the Lead Product Designer on UpContent is the trust and faith my team has in me. I know I have personally grown tremendously as a product designer, and there is still tons more learning in my future, but the trust that I built with the team, and the faith they have in me to produce the right results for the right reasons means the world to me.
 
 ### Q: How do you want UpContent to feel like for users and how does your design reflect that?
 
