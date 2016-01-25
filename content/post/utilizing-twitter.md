@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/utilizing-twitter.png"
 draft="false"
 +++
 

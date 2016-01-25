@@ -1520,6 +1520,7 @@ input.buynow{
 
 .blogpostings img, .blogpostings figure img {
 	max-width: 100%;
+	margin-bottom: 15px;
 }
 
 .blog_listing h1{
@@ -1649,10 +1650,12 @@ a.blog-cta {
 }
 
 .blogpostings h3{
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 26px;
 	font-weight: 700;
 	margin-top: 20px;
+	color: #5295CC;
+	margin: 40px 0 10px 0;
 }
 
 .blogpostings h4{
