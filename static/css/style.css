@@ -986,16 +986,61 @@ footer > .foot-right > ul > li > a:hover {
 	background-color: #fff;
 }
 
-.prelaunch div img {
+div.prelaunch-right {
+	display: block;
+	overflow: auto;
+}
+
+div.prelaunch-left {
+	overflow: auto;
+}
+
+.prelaunch-right div img {
 	max-width: 150px;
 }
 
-.prelaunch-right {
+.prelaunch-right p {
 		align-items: center;
 		color: #565656;
 }
 
-.prelaunch-right form input {
+.prelaunch-right p a {
+	color: #705da8;
+	border: 2px solid #705da8;
+	border-radius: 3px;
+	padding: 15px 20px;
+	text-transform: uppercase;
+}
+
+.prelaunch-right p a:hover {
+	color: #fff;
+	border: 2px solid #705da8;
+	border-radius: 3px;
+	padding: 15px 20px;
+	background: #705da8;
+}
+
+.prelaunch-right p.landing-nav {
+	text-align: right;
+}
+
+.prelaunch-right p.landing-nav a { 
+	text-align: right;
+	border: none;
+	padding: 0;
+	margin: 10px 15px;
+}
+
+.prelaunch-right p.landing-nav a:hover { 
+	text-align: right;
+	border: none;
+	padding: 0;
+	text-decoration: underline;
+	background: none;
+	color: #705da8;
+}
+
+.prelaunch-right form input, .prelaunch-right form textarea {
 	display: block;
     width: 250px;
     height: 50px;
@@ -1011,6 +1056,17 @@ footer > .foot-right > ul > li > a:hover {
     -moz-border-radius: 3px;
     -o-border-radius: 3px;
     -webkit-border-radius: 3px;
+}
+
+.prelaunch-right form textarea {
+	height: 100px;
+}
+
+.prelaunch-right form input[type="radio"] {
+	width: auto !important;
+	display: inline-block;
+	height: auto !important;
+
 }
 
 .prelaunch-right form input[type="submit"] {
@@ -1031,6 +1087,15 @@ footer > .foot-right > ul > li > a:hover {
 	font-weight: 900;
 	cursor: pointer;
 	border: 1px solid #7755cd;
+}
+
+.giveaway form {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.giveaway form input, .giveaway form textarea {
+	width: 400px;
 }
 
 
