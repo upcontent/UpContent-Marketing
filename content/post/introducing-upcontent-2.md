@@ -1,14 +1,14 @@
++++
 Categories = []
 Description = ""
 Tags = []
-date = "2016-01-03T11:50:00-05:00"
+date = "2016-01-20T11:50:00-05:00"
 title = "Introducing UpContent 2.0: The Release of User Profiles and Sharing Topics and Updates to Relevance and Influence"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "behind-the-scenes"
-pinterest = "/images/designing-small.png"
-draft="false"
+pinterest = "/images/upcontent-v2.png"
 +++
 
 As anyone in the tech industry knows, it takes a lot of time and elbow grease to gather feedback from users, choose what areas of your product to improve and build upon, write and implement the code, test the new features, fix the bugs, and then share the outcomes with the market. After releasing UpContent as a Hootsuite integration in spring 2015 and then introducing the product as a single application a few months later, we have since been working on our first big release of new features. And now we can finally introduce them to you!
