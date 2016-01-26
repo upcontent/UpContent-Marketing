@@ -957,6 +957,14 @@ footer > .foot-right > ul > li > a:hover {
 	font-weight: 300;
 }
 
+.prelaunch h2 {
+	color: #49b78d;
+	font-size: 30px;
+	line-height: 35px;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
 .prelaunch h1 em {
 	text-decoration: underline;
 	font-style: normal;
@@ -989,6 +997,33 @@ footer > .foot-right > ul > li > a:hover {
 div.prelaunch-right {
 	display: block;
 	overflow: auto;
+}
+
+.prelaunch-left p a.landing-inline {
+	color: #fff;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: none;
+    text-decoration: underline;
+}
+
+.prelaunch-left p a.landing-inline:hover {
+	color: #fff;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: none;
+    background: none;
+    text-decoration: none;
 }
 
 div.prelaunch-left {
