@@ -64,6 +64,8 @@ Whew! What a rollercoaster ride we’ve been on. Thanks for supporting us along 
 
 In honor of all of the excitement, we're giving away **the Utimate Content Marketer's Toolkit**: a full year's access to THREE of our favorite content marketing tools. One lucky winner will receive:
 
+{{<figure src="/images/giveaway-winnings.png" title="" alt="UpContent Giveaway Prize" caption-top="false">}}
+
 - A full year of [UpContent's Engager Plan](https://upcontent.com/pricing) and some UpContent swag ($180 value) - Track up to TEN topics! (That's a lot of high-quality content!)
 - A full year of [Buffer's Awesome Plan](http://buffer.com/awesome) ($120 value) - Connect up to 10 social media accounts and schedule your content from UpContent with ease.
 - A full year of [Sniply's Basic Plan](http://snip.ly/upgrade/) ($300 value) - Create personalized call-to-action buttons to bring your audience back to your site.
