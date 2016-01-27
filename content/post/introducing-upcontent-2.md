@@ -17,7 +17,7 @@ As anyone in the tech industry knows, it takes a lot of time and elbow grease to
 
 We invite you to check out our newly designed site, improved user experience, and exciting feature additions and then let us know what you think. We’d also be awfully grateful if you shared the news with your friends.
 
-Kyle - Click to Tweet: @getupcontent just got a facelift AND some exciting new features to change the way you find meaningful content, fast. Check it out: BLOG POST LINK
+<!-- Kyle - Click to Tweet: @getupcontent just got a facelift AND some exciting new features to change the way you find meaningful content, fast. Check it out: BLOG POST LINK -->
 
 Oh, and in celebration of all of these exciting features, we have a special gift that will give one of you everything you need to make your content marketing dreams come true *for an entire year*. Scroll down to see what it is!
 
@@ -60,10 +60,11 @@ Whew! What a rollercoaster ride we’ve been on. Thanks for supporting us along 
 ## But Wait, There's More!
 
 In honor of all of the excitement, we're giving away **the Utimate Content Marketer's Toolkit**: a full year's access to THREE of our favorite content marketing tools. One lucky winner will receive:
-- A full year of [UpContent's Engager Plan](http://upcontent.com/pricing) and some UpContent swag ($180 value) - Track up to TEN topics! (That's a lot of high-quality content!)
+
+- A full year of [UpContent's Engager Plan](https://upcontent.com/pricing) and some UpContent swag ($180 value) - Track up to TEN topics! (That's a lot of high-quality content!)
 - A full year of [Buffer's Awesome Plan](http://buffer.com/awesome) ($120 value) - Connect up to 10 social media accounts and schedule your content from UpContent with ease.
 - A full year of [Sniply's Basic Plan](http://snip.ly/upgrade/) ($300 value) - Create personalized call-to-action buttons to bring your audience back to your site.
 
 It's the ideal content marketing workflow and it could be YOURS.
 
-You can enter to win by [clicking here](http://upcontent.com/giveaway). May the odds be ever in your favor!
+You can enter to win by [clicking here](https://upcontent.com/landing/giveaway). May the odds be ever in your favor!
