@@ -17,7 +17,7 @@ As anyone in the tech industry knows, it takes a lot of time and elbow grease to
 
 We invite you to check out our newly designed site, improved user experience, and exciting feature additions and then let us know what you think. We’d also be awfully grateful if you shared the news with your friends.
 
-<!-- Kyle - Click to Tweet: @getupcontent just got a facelift AND some exciting new features to change the way you find meaningful content, fast. Check it out: BLOG POST LINK -->
+<a target="_blank" href="http://ctt.ec/n6A8e"><span class="tweetthis">@getupcontent just got a facelift AND some exciting new features to change the way you find meaningful content, fast.</span><img src="/images/twitter-bird.png" style="margin-bottom: 0 !important;" /></a>
 
 Oh, and in celebration of all of these exciting features, we have a special gift that will give one of you everything you need to make your content marketing dreams come true *for an entire year*. Scroll down to see what it is!
 
@@ -35,13 +35,15 @@ Through discussions with [our in-house beta testers](https://upcontent.com/post/
 
 Whether you have an [UpContent account](http://my.upcontent.com) or not, you can now view a shared topic’s suggestions and apply any of our sorting filters and curate your favorites to social media. When you are logged into your account, you can bookmark this topic for future reference and share any of the articles or blog posts with your networks, or you can duplicate and add the topic to your list to share, favorite, delete, and tweak the suggestions. If you want to share your topics with your friends or followers, simply click the link button next to your topic on your navigation and you will be provided with a link. There is even an option to add that topic to an RSS reader, if you prefer.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sBMBEbwR7Og" frameborder="0" allowfullscreen></iframe>
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative; margin-bottom: 90px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/t0ebdew8wd?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 ## Relevance Graph
 
 Our relevance filter already displays the most applicable results based on your search queries, but now there’s an even better way to view those suggestions. Recognizing that individuals are often interested in breaking down a topic by subtopics, we wanted a way to drill down and find these individual discussions related to a larger topic. By partnering with Infomous, we now have a Relevance Graph view that allows you to explore even more specific topics under the branch of your search.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/o4Mp3SzO-E4" frameborder="0" allowfullscreen></iframe>
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative; margin-bottom: 90px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/twch2g5zhb?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 ## Influence
 
@@ -49,7 +51,8 @@ Our most exciting update to our UpContent feature set is the improvement of our 
 
 Luckily, we found a solution that Scott Rogerson, our CEO, had utilized previously in another context. By examining the centrality of an item in a graph, we can now measure influence within that network. We teamed up with six students from Carnegie Mellon University who created a proof of concept and were able to effectively demonstrate the results. Now that it is built into our product, the influence filter is more robust and even has a graph view that illustrates influence and the subsequent relationships between articles and blog posts.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/z-xw3CTEMcE" frameborder="0" allowfullscreen></iframe>
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative; margin-bottom: 90px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/9uq643qezt?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 ## Other Updates
 
