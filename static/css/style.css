@@ -1026,6 +1026,32 @@ div.prelaunch-right {
     text-decoration: none;
 }
 
+.prelaunch-right p a.landing-inline {
+	color: #705da8;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: none;
+    text-decoration: underline;
+}
+
+.prelaunch-right p a.landing-inline:hover {
+	color: #705da8;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: none;
+    background: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 div.prelaunch-left {
 	overflow: auto;
 }
