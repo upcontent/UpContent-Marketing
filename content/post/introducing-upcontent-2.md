@@ -62,6 +62,8 @@ Whew! What a rollercoaster ride we’ve been on. Thanks for supporting us along 
 
 ## But Wait, There's More!
 
+**Important Update: This giveaway is now closed. Stay tuned for future opportunities for prizes!**
+
 In honor of all of the excitement, we're giving away **the Utimate Content Marketer's Toolkit**: a full year's access to THREE of our favorite content marketing tools. One lucky winner will receive:
 
 {{<figure src="/images/giveaway-winnings.png" title="" alt="UpContent Giveaway Prize" caption-top="false">}}
