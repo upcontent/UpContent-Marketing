@@ -6,9 +6,9 @@ date = "2016-02-08T11:50:00-05:00"
 title = "Finding the Gold: How to Evaluate Content for Quality and Value"
 Hero_image = ""
 author = "Jarratt Isted"
-author_image = ""
+author_image = "/images/jarrat.png"
 category = "marketing"
-pinterest = ""
+pinterest = "/images/finding-the-gold.png"
 +++
 
 If you curate and share content to social media, you'll likely know there's a ton of great content out there. But you'll also likely have noticed the not so great content too.
