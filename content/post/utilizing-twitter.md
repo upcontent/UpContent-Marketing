@@ -34,7 +34,7 @@ Having a strong Twitter following establishes social clout and gives you a large
 
 There are several tools and services that can help grow your Twitter audience quickly without much effort. These services, while effective, are expensive and may not translate to converted users because your new followers have not been nurtured.
 
-Instead, <span class="tweetthis"><a target="_blank" href="http://ctt.ec/U_5g9">there are alternative ways to hack your way to more targeted followers.</span><img src="/images/twitter-bird.png" /></a>  Though it takes more time than it would using a paid service, it is well worth the investment. After all, it’s better to have fewer, but more engaged followers than many irrelevant followers.
+Instead, <span class="tweetthis"><a target="_blank" href="http://ctt.ec/U_5g9">there are alternative ways to hack your way to more targeted followers.</span><img src="/images/twitter-bird.png" style="margin-bottom: 0 !important;" /></a>  Though it takes more time than it would using a paid service, it is well worth the investment. After all, it’s better to have fewer, but more engaged followers than many irrelevant followers.
 
 > “Having 20,000 followers who don’t respond to anything you share is equivalent to shouting from the top of the Empire State Building and claiming all of New York City as your audience.” <br>
 > *- Rich Brooks, Social Media Examiner*
