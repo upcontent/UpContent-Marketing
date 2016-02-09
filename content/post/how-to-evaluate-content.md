@@ -125,7 +125,7 @@ Social media can help you grow your influence and network.
 
 By sharing others' content, you can help your audience discover interesting reads while also attracting attention to your own. Pretty neat, huh?
 
-Here's some things to remember:
+Here are some things to remember:
 
 **Make sure the content you share is high-enough quality**. Even if you are sending out 100 tweets a day, you still need to make sure the content is relevant and speaks to your audience.
 
