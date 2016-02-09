@@ -135,4 +135,4 @@ Here are some things to remember:
 
 Good luck in your quest to dig up the content gold!
 
-*Jarratt is the COO at [Contentacle](http://contentacle.com), a startup that makes content marketing software for teams. When he’s not writing content, he’s designing user interfaces and experiences.*
+*Jarratt is the COO at [Contentacle](http://contentacle.com), a startup that makes super simple content marketing software for teams. When he’s not writing content, he’s designing user interfaces and experiences.*
