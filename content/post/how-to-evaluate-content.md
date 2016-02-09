@@ -30,7 +30,7 @@ Because no two audiences are the same, you'll need to take special care to find 
 Let's take a look at some examples about how to adjust quality and frequency of shares depending on the audience.
 
 
-{{<figure src="/images/nats.jpg" title="" alt="Natalie the food blogger" caption-top="false" class="float-left">}}
+{{<figure src="/images/nats.png" title="" alt="Natalie the food blogger" caption-top="false" class="float-left">}}
 
 Meet Natalie.
 
@@ -40,7 +40,7 @@ On Twitter, she tends to share **3 articles per day** from the web—a pretty sm
 
 For Natalie, the articles need to be top quality—the best of the best. She doesn't tweet often so the content needs to be useful, exciting, and appealing to her audience. Good enough that they'll look forward to each and every tweet.
 
-{{<figure src="/images/tony.jpg" title="" alt="Tony the social media expert" caption-top="false" class="float-left">}}
+{{<figure src="/images/tony.png" title="" alt="Tony the social media expert" caption-top="false" class="float-left">}}
 
 
 Tony, on the other hand, is a social media expert based in Toronto.
