@@ -17,7 +17,10 @@ We recently announced the release of a lot of really exciting UpContent features
 
 This short video explains how easy it is to share an UpContent topic:
 
-https://communityelf.wistia.com/medias/t0ebdew8wd?wtime=1m10s
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;margin-bottom: 60px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/t0ebdew8wd?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
+(start at 1:10)
 
 Not only can sharing topics make curating content across teams even easier, but it also organizes your favorite suggestions in one simple and beautifully designed interface for effortless sharing and subsequent bookmarking by others interested in your results.
 
