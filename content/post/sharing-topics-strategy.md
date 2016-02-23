@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "marketing"
-pinterest = ""
+pinterest = "/images/sharing-topic.png"
 +++
 
 Have you noticed that it’s both an increasingly exciting and challenging time in the content marketing space? It seems like there are so many opportunities that manifest from publishing and curating content, but there are also so many more obstacles that make standing out and being original difficult. Believe us, *we hear you* because we’re in the struggle, too. But we’re pretty excited to share that there is an area of content curation that is largely untapped and could be a big differentiator for thought leaders.
