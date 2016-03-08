@@ -2,13 +2,13 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2016-02-08T11:50:00-05:00"
+date = "2016-02-23T11:50:00-05:00"
 title = "How to Incorporate Sharing Topics Into Your Marketing Strategy"
 Hero_image = ""
 author = "Marissa Burdett"
-author_image = ""
+author_image = "/images/marissa.png"
 category = "marketing"
-pinterest = ""
+pinterest = "/images/sharing-topic.png"
 +++
 
 Have you noticed that it’s both an increasingly exciting and challenging time in the content marketing space? It seems like there are so many opportunities that manifest from publishing and curating content, but there are also so many more obstacles that make standing out and being original difficult. Believe us, *we hear you* because we’re in the struggle, too. But we’re pretty excited to share that there is an area of content curation that is largely untapped and could be a big differentiator for thought leaders.
@@ -17,7 +17,10 @@ We recently announced the release of a lot of really exciting UpContent features
 
 This short video explains how easy it is to share an UpContent topic:
 
-https://communityelf.wistia.com/medias/t0ebdew8wd?wtime=1m10s
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;margin-bottom: 60px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/t0ebdew8wd?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
+(start at 1:10)
 
 Not only can sharing topics make curating content across teams even easier, but it also organizes your favorite suggestions in one simple and beautifully designed interface for effortless sharing and subsequent bookmarking by others interested in your results.
 
@@ -51,7 +54,7 @@ For example, on Twitter, you can see trending hashtags when you click on Home, M
 
 Community Elf SEM/Marketing Specialist, [Maggie Franz](https://twitter.com/M2Franz), found a great opportunity to share her love for books and capture the attention of other bibliophiles on Lewis Carroll’s birthday in January. She organically shared the carefully curated topic in the middle of a Twitter conversation about the author, who was already trending on the platform! Brilliantly done and well-received!
 
-KYLE - Screenshot of Maggie's convo
+{{<figure src="/images/maggie-convo.png" title="" alt="Maggie's Conversation" caption-top="false">}}
 
 Trending topics are a great way to connect with other interested individuals and to demonstrate your knowledge.
 
@@ -61,7 +64,9 @@ Whether an event is trending or not, it can be a great idea to leverage the atte
 
 To illustrate the power of sharing topics, we created three different Superbowl 2016 topics: Superbowl Tailgating Party Snacks, Superbowl Predictions, and general Superbowl content. We timed our posts leading up to, during, and after the big event, and used the various Superbowl hashtags for exposure.  
 
-KYLE - Screenshot of our SB tweets
+{{<figure src="/images/superbowl-1.png" title="" alt="Superbowl Tweet" caption-top="false">}}
+{{<figure src="/images/superbowl-3.png" title="" alt="Superbowl Tweet" caption-top="false">}}
+{{<figure src="/images/superbowl-2.png" title="" alt="Superbowl Tweet" caption-top="false">}}
 
 It was a fun way to experiment the power of sharing topics. We think that if we were able to align this even further with our audience--perhaps a content marketing event like CM World--we would see even more engagement.
 
@@ -71,7 +76,7 @@ We’ve already talked about how [focusing on being helpful is key to establishi
 
 Our CTO Nick Sloan also runs a local Python group here in Pittsburgh. Nick’s network is primarily made up of developers who trust his opinion and value the resources he shares. He created a Python topic and tweeted about it.
 
-KYLE - screenshot of Nick's tweet
+{{<figure src="/images/nicks-tweet.png" title="" alt="Superbowl Tweet" caption-top="false">}}
 
 Here he was able to establish his credibility and offer a helpful resource to his network.
 
@@ -83,7 +88,7 @@ We recommend using shared topics amongst your team members to eliminate the need
 
 Ready to share your UpContent topic? Simply click the link icon next to your topic on the left-hand navigation. Copy and paste that link wherever you want to share it! You can use a link shortener like Bit.ly to track clicks, if you’d like.
 
-KYLE - Screenshot of sharing topics button/link
+{{<figure src="/images/share-topic-url.png" title="" alt="Superbowl Tweet" caption-top="false">}}
 
 ## Our Favorite Shareworthy Topics
 
@@ -100,7 +105,7 @@ Thinking about getting a tattoo but don’t know where to start? There’s endle
 Calling all Android users! You can find announcements and updates about [Android devices](https://my.upcontent.com/tools/suggestions/c7fc0b9d-22d7-4a47-a69a-dc08a35d535b?filter=all&time=30&sort=relevance) here in one place. - Nick, CTO
 
 
-The increasingly warm temperatures outside means it’s nearly the perfect time to ride your bike. Here’s a carefully curated topic on [Motorcycles](https://my.upcontent.com/tools/suggestions/0671881a-0b9d-43d8-b656-2ff1ec8a8406?filter=all&time=30&sort=relevance) to help you get those wheels turning. - Adam, Front-End Developer
+The increasingly warm temperatures outside means it’s nearly the perfect time to ride your bike. Here’s a carefully curated topic on [Motorcycles](https://my.upcontent.com/tools/suggestions/f0fa1aad-11b7-453a-ac6d-1a40822b208b?filter=all&time=30&sort=relevance) to help you get those wheels turning. - Adam, Front-End Developer
 
 If you’re anything like us, you probably nerd out over all things marketing technology. Our CEO created a great topic that helps us stay on top of the [MarTech niche with a focus on venture capital](https://my.upcontent.com/tools/suggestions/9225e9c6-a4c6-4eba-b132-7f85f141ca0d?filter=all&time=30&sort=relevance). - Scott, CEO
 
