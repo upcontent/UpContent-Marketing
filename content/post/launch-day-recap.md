@@ -61,7 +61,7 @@ Have you ever hosted a webinar just for your VIP customers? How’d it go? We’
 
 While our new features were exciting enough to us, we knew we wanted our launch day to go off with a splash and hopefully attract some new users and increase brand awareness. As a result, we decided to host a giveaway. It was tempting to take the easy route and supply a gift card as a prize, but instead, we wanted to leverage the opportunity to target our ideal audience and give away a prize that these particular individuals would be thrilled to have and use. This meant we had to come up with something high-value and practical for content marketers and bloggers that was feasible for us financially and logistically.
 
-We dug a little deeper and asked ourselves *How can we provide a solution to most content marketers’ and bloggers’ problems? Is there a way we can incorporate UpContent into the giveaway without it being the sole prize?*
+We dug a little deeper and asked ourselves: *How can we provide a solution to most content marketers’ and bloggers’ problems? Is there a way we can incorporate UpContent into the giveaway without it being the sole prize?*
 
 Suddenly, it came to us. What if we provided the ultimate toolkit that incorporated some of the best tools that any content marketer or blogger would find useful...for a year?!
 
@@ -133,7 +133,7 @@ Freeing up this time meant we could also participate in #bufferchat during the d
 
 So how did we do?
 
-Throughout the day, we received a 400% increase in user signups than our previous average and a gained numerous new testimonials that affirmed the direction UpContent is moving toward. We also saw a nice spike in activity on our site and our advertising report revealed some interesting insights about our targeted demographics.
+Throughout the day, we received a 400% increase in user signups than our previous average and gained numerous new testimonials that affirmed the direction UpContent is moving toward. We also saw a nice spike in activity on our site and our advertising report revealed some interesting insights about our targeted demographics.
 
 {{<figure src="/images/Testimonial1.png" title="" alt="Testimonial" caption-top="false">}}
 
