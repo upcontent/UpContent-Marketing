@@ -3,12 +3,12 @@ Categories = []
 Description = ""
 Tags = []
 date = "2016-03-08T11:50:00-05:00"
-title = "How to Incorporate Sharing Topics Into Your Marketing Strategy"
+title = "Pulling Back the Curtain: How We Launched Our Largest Feature Update Yet"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-The-Scenes"
-pinterest = ""
+pinterest = "/images/launch-day-recap.png"
 +++
 
 It’s no surprise that a lot goes into launching a product. Even though it may not seem as obvious, the same (if not more) effort goes into launching new features *within* a product as well.
