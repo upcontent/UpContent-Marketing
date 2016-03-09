@@ -40,6 +40,7 @@ Our dev team used [Pivotal Tracker](https://www.pivotaltracker.com/) to track pr
 Beta testing is extremely important to work out all of the bugs that inevitably occur during development. It’s also invaluable in gaining feedback about what users like and don’t like and what their workflows might look like, and also to encourage influencers to start spreading the word about your features or product. We knew that giving our most special users and advocates the ability to test out the new features before they were released publicly would give us great insight and hopefully start getting our audience excited about our upcoming launch. We decided the best way to convey this new information was by hosting a Pre-Launch VIP Webinar.
 
 To organize and execute this pre-launch webinar, we:
+
 - Set a date for the webinar a few weeks before the official public launch of our new features. We knew our features needed to be completed so that we could demo them effectively and we wanted to give our VIPs the opportunity to try out the new features before we publicly launched.
 
 - Created a list of VIP guests. This list included our most engaged users, our top [Twitter](http://twitter.com/getupcontent) followers, potential integration partners, stakeholders, bloggers, and content marketers.
