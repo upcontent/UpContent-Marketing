@@ -46,7 +46,7 @@ To organize and execute this pre-launch webinar, we:
 - Wrote a loose script and practiced the webinar in private on Google Hangout with slides and live demoing of the new features.
 - Recorded the webinar on Google Hangout on Air and sent the recording along with a survey to all participants and those who were unable to make it live.
 
-KYLE - VIDEO OF PRE-LAUNCH WEBINAR - https://youtu.be/neyRMbrRi6I
+<iframe width="800" height="450" src="https://www.youtube.com/embed/neyRMbrRi6I" frameborder="0" allowfullscreen></iframe>
 
 Overall, we felt the time and work invested in the pre-launch VIP webinar was extremely worthwhile. We received some fantastic feedback and our attendees generously spread the word about our new features on social media.
 
@@ -65,7 +65,7 @@ Soon we were contacting our friends at [Buffer](http://buffer.com) and [Sniply](
 -  Buffer’s Awesome Plan ($120 value)
 - Sniply’s Basic Plan ($300 value)
 
-KYLE - GIVEAWAY GRAPHIC
+{{<figure src="/images/giveaway-winnings.png" title="" alt="Giveaway Winnings" caption-top="false">}}
 
 Together, these three tools create the perfect workflow for any content marketer or blogger: discover high-quality, relevant content through UpContent, schedule this curated content through Buffer, and then add a quick call-to-action back to your site through Sniply. All three of these platforms work seamlessly together, making it an obvious choice for us and for our targeted audience. It was also high-value enough to make it a worthwhile giveaway for people to enter.
 
@@ -86,7 +86,8 @@ It’s one thing to read about a new feature; it’s quite another to actually *
 
 Following [this helpful guide to screencasting](https://blog.intercom.io/video-is-king-diy-screencasts/), I wrote out a script that included the nuances of my talking voice, practiced the actions I would complete, and then recorded a rough audio version. Next, I recorded a screencast using [Camtasia](http://camtasia.com) (you can try it free for 30 days) while listening to the rough audio. I made some initial edits before recording a final audio track. Afterwards, I layered the final track and the screencast together and made any remaining edits. Finally, I added some cheerful music (Wistia records free tracks for public use!) and used some animations to emphasize certain points.
 
-KYLE - PROMO VIDEO - https://communityelf.wistia.com/medias/re07tiat9c
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;margin-bottom: 60px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/t0ebdew8wd?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 It’s important to note that while the idea of editing video can be intimidating, don’t let the pressure to make it perfect stop you from creating one. You don’t need fancy equipment beyond a computer and an editing program (we took advantage of Camtasia’s free trial), and ideally a microphone if you can get your hands on one.
 
@@ -118,11 +119,15 @@ So how did we do?
 
 Throughout the day, we received a 400% increase in user signups than our previous average and a gained numerous new testimonials that affirmed the direction UpContent is moving toward. We also saw a nice spike in activity on our site and our advertising report revealed some interesting insights about our targeted demographics.
 
-KYLE - EXAMPLE TESTIMONIALS
+{{<figure src="/images/Testimonial1.png" title="" alt="Testimonial" caption-top="false">}}
+
+{{<figure src="/images/Testimonial2.png" title="" alt="Testimonial" caption-top="false">}}
+
+{{<figure src="/images/Testimonial3.png" title="" alt="Testimonial" caption-top="false">}}
 
 We were thrilled to see some amazing support from influencers, like this shoutout from Kenny Chen:
 
-KENNY - START UP WEEKEND
+{{<figure src="/images/KennyChen.png" title="" alt="Kenny Chen" caption-top="false">}}
 
 Overall, it was a great day and we were relieved and excited to see many positive outcomes from all of our hard work, but we also recognize that it was a series of long days and nights that made it possible and that we need to keep the momentum going in order to be successful.
 
