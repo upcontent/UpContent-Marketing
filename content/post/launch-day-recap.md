@@ -140,7 +140,7 @@ Throughout the day, we received a 400% increase in user signups than our previou
 
 {{<figure src="/images/Testimonial3.png" title="" alt="Testimonial" caption-top="false">}}
 
-We were thrilled to see some amazing support from influencers, like this shoutout from Kenny Chen:
+We were thrilled to see some amazing support from influencers, like this shoutout from [Kenny Chen](http://twitter.com/knnychn):
 
 {{<figure src="/images/KennyChen.png" title="" alt="Kenny Chen" caption-top="false">}}
 
