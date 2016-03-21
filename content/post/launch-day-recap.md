@@ -3,12 +3,12 @@ Categories = []
 Description = ""
 Tags = []
 date = "2016-03-08T11:50:00-05:00"
-title = "How to Incorporate Sharing Topics Into Your Marketing Strategy"
+title = "Pulling Back the Curtain: How We Launched Our Largest Feature Update Yet"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-The-Scenes"
-pinterest = ""
+pinterest = "/images/launch-day-recap.png"
 +++
 
 It’s no surprise that a lot goes into launching a product. Even though it may not seem as obvious, the same (if not more) effort goes into launching new features *within* a product as well.
@@ -40,13 +40,18 @@ Our dev team used [Pivotal Tracker](https://www.pivotaltracker.com/) to track pr
 Beta testing is extremely important to work out all of the bugs that inevitably occur during development. It’s also invaluable in gaining feedback about what users like and don’t like and what their workflows might look like, and also to encourage influencers to start spreading the word about your features or product. We knew that giving our most special users and advocates the ability to test out the new features before they were released publicly would give us great insight and hopefully start getting our audience excited about our upcoming launch. We decided the best way to convey this new information was by hosting a Pre-Launch VIP Webinar.
 
 To organize and execute this pre-launch webinar, we:
+
 - Set a date for the webinar a few weeks before the official public launch of our new features. We knew our features needed to be completed so that we could demo them effectively and we wanted to give our VIPs the opportunity to try out the new features before we publicly launched.
+
 - Created a list of VIP guests. This list included our most engaged users, our top [Twitter](http://twitter.com/getupcontent) followers, potential integration partners, stakeholders, bloggers, and content marketers.
+
 - Sent personalized email invitations two weeks beforehand with an RSVP form and followed up with a reminder sequence the day before, the morning of, and right before the webinar times.
+
 - Wrote a loose script and practiced the webinar in private on Google Hangout with slides and live demoing of the new features.
+
 - Recorded the webinar on Google Hangout on Air and sent the recording along with a survey to all participants and those who were unable to make it live.
 
-KYLE - VIDEO OF PRE-LAUNCH WEBINAR - https://youtu.be/neyRMbrRi6I
+<iframe width="800" height="450" src="https://www.youtube.com/embed/neyRMbrRi6I" frameborder="0" allowfullscreen></iframe>
 
 Overall, we felt the time and work invested in the pre-launch VIP webinar was extremely worthwhile. We received some fantastic feedback and our attendees generously spread the word about our new features on social media.
 
@@ -56,21 +61,26 @@ Have you ever hosted a webinar just for your VIP customers? How’d it go? We’
 
 While our new features were exciting enough to us, we knew we wanted our launch day to go off with a splash and hopefully attract some new users and increase brand awareness. As a result, we decided to host a giveaway. It was tempting to take the easy route and supply a gift card as a prize, but instead, we wanted to leverage the opportunity to target our ideal audience and give away a prize that these particular individuals would be thrilled to have and use. This meant we had to come up with something high-value and practical for content marketers and bloggers that was feasible for us financially and logistically.
 
-We dug a little deeper and asked ourselves *How can we provide a solution to most content marketers’ and bloggers’ problems? Is there a way we can incorporate UpContent into the giveaway without it being the sole prize?*
+We dug a little deeper and asked ourselves: *How can we provide a solution to most content marketers’ and bloggers’ problems? Is there a way we can incorporate UpContent into the giveaway without it being the sole prize?*
 
 Suddenly, it came to us. What if we provided the ultimate toolkit that incorporated some of the best tools that any content marketer or blogger would find useful...for a year?!
 
 Soon we were contacting our friends at [Buffer](http://buffer.com) and [Sniply](http://snip.ly) who were thrilled to participate. We created the Ultimate Content Marketer’s Toolkit that gave one lucky winner a full year subscription to:
+
 - UpContent’s Engager Plan and UpContent swag ($175 value)
+
 -  Buffer’s Awesome Plan ($120 value)
+
 - Sniply’s Basic Plan ($300 value)
 
-KYLE - GIVEAWAY GRAPHIC
+{{<figure src="/images/giveaway-winnings.png" title="" alt="Giveaway Winnings" caption-top="false">}}
 
 Together, these three tools create the perfect workflow for any content marketer or blogger: discover high-quality, relevant content through UpContent, schedule this curated content through Buffer, and then add a quick call-to-action back to your site through Sniply. All three of these platforms work seamlessly together, making it an obvious choice for us and for our targeted audience. It was also high-value enough to make it a worthwhile giveaway for people to enter.
 
 We provided two opportunities to enter the giveaway:
+
 1. Sign up for an UpContent account or
+
 2. If you’re already a user, provide a testimonial.
 
 We created a landing page that allowed them to complete either entry. Lastly, we announced the giveaway through our email newsletter and on social media, with additional assistance from Facebook and Twitter ads.
@@ -86,7 +96,8 @@ It’s one thing to read about a new feature; it’s quite another to actually *
 
 Following [this helpful guide to screencasting](https://blog.intercom.io/video-is-king-diy-screencasts/), I wrote out a script that included the nuances of my talking voice, practiced the actions I would complete, and then recorded a rough audio version. Next, I recorded a screencast using [Camtasia](http://camtasia.com) (you can try it free for 30 days) while listening to the rough audio. I made some initial edits before recording a final audio track. Afterwards, I layered the final track and the screencast together and made any remaining edits. Finally, I added some cheerful music (Wistia records free tracks for public use!) and used some animations to emphasize certain points.
 
-KYLE - PROMO VIDEO - https://communityelf.wistia.com/medias/re07tiat9c
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;margin-bottom: 60px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/t0ebdew8wd?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 It’s important to note that while the idea of editing video can be intimidating, don’t let the pressure to make it perfect stop you from creating one. You don’t need fancy equipment beyond a computer and an editing program (we took advantage of Camtasia’s free trial), and ideally a microphone if you can get your hands on one.
 
@@ -95,11 +106,17 @@ I set aside a full day for writing scripts, recording, and editing, and was able
 ### Empowering Employees to Advocate
 
 Even with the best laid plans in place, I needed the support of my coworkers to make this launch a success. Leading up to launch day, I created resources for all employees that would allow them to serve as UpContent ambassadors leading up to and during our new features launch. These resources included:
+
 - Branded UpContent cover images for Facebook and Twitter
+
 - [Click-to-Tweets](http://clicktotweet.com) with calls-to-action to enter the giveaway and test drive the new features with the launch hashtag #myupcontent
+
 - A schedule of events for launch day so they knew what was being posted when on social media
+
 - All of the important links to the giveaway landing page and blog post
+
 - Videos of our new features so they could understand the new features and share with their networks
+
 - A script they could tweak to send to family and friends
 
 Having the entire Community Elf team on board was a huge help. The team really led the charge in bringing in new users and spreading the word about the solution we provide.
@@ -116,13 +133,17 @@ Freeing up this time meant we could also participate in #bufferchat during the d
 
 So how did we do?
 
-Throughout the day, we received a 400% increase in user signups than our previous average and a gained numerous new testimonials that affirmed the direction UpContent is moving toward. We also saw a nice spike in activity on our site and our advertising report revealed some interesting insights about our targeted demographics.
+Throughout the day, we received a 400% increase in user signups than our previous average and gained numerous new testimonials that affirmed the direction UpContent is moving toward. We also saw a nice spike in activity on our site and our advertising report revealed some interesting insights about our targeted demographics.
 
-KYLE - EXAMPLE TESTIMONIALS
+{{<figure src="/images/Testimonial1.png" title="" alt="Testimonial" caption-top="false">}}
 
-We were thrilled to see some amazing support from influencers, like this shoutout from Kenny Chen:
+{{<figure src="/images/Testimonial2.png" title="" alt="Testimonial" caption-top="false">}}
 
-KENNY - START UP WEEKEND
+{{<figure src="/images/Testimonial3.png" title="" alt="Testimonial" caption-top="false">}}
+
+We were thrilled to see some amazing support from influencers, like this shoutout from [Kenny Chen](http://twitter.com/knnychn):
+
+{{<figure src="/images/KennyChen.png" title="" alt="Kenny Chen" caption-top="false">}}
 
 Overall, it was a great day and we were relieved and excited to see many positive outcomes from all of our hard work, but we also recognize that it was a series of long days and nights that made it possible and that we need to keep the momentum going in order to be successful.
 
@@ -131,9 +152,13 @@ Overall, it was a great day and we were relieved and excited to see many positiv
 There’s no such thing as a perfect launch. There are always things that could have been written better or bugs that could have been avoided. That being said, all of these mistakes can be seen as learning opportunities to make the next launch even more epic.
 
 Here are some of the “lessons learned” from our launch experience:
+
 1. We underestimated the amount of time it would take to build features. With our limited resources and manpower, we needed to be more realistic about what we could accomplish in a certain timeframe. This led to a few too many late night sprints that we hope to avoid in the future.
+
 2. We launched the product features too close to a major holiday. Because we took longer than we originally expected to build these features, we ended up colliding with Christmas, meaning we were working a lot during the holiday and our users were still getting back into the swing of things when we launched in January.
+
 3. We were distracted by shiny marketing ideas. A week before our launch day, we spent too much time researching Product Hunt and other great marketing pushes that, while valuable, got in the way of our original plans.
+
 4. We needed to improve our giveaway landing page to give viewers the opportunity to check out other parts of our website, like pricing and blog. Our bounce rate was high and while there was a lot of information on the page, it did not explain UpContent as clearly as we would like to someone who may not know who we are.
 
 There are plenty of other smaller lessons we’ve learned, but we’re grateful for these bigger insights that will hopefully make our next launch even more successful.
