@@ -63,6 +63,7 @@ For example, we love participating in [#CMWorld](https://twitter.com/hashtag/cmw
 If you really want to optimize your Twitter chat strategy, you’ll want to do a bit more than sign into your Twitter account five minutes before the chat starts. Preparation will be what sets you apart and will give you the opportunity to focus on the conversation rather than get caught up in the frenzy.
 
 Here are five ways you can prepare for an effective Twitter chat:
+
 1. **Create a schedule and research topics ahead of time.** Once you’ve identified the Twitter chats of interest, create a schedule you can hang in your office or keep at your desk with the day and time of the chat. At the beginning of each week, do a quick search of each hashtag and see what the topic of discussion will be. Sometimes these are even announced at the end of the previous week’s chat. Take note of which ones apply to you and your brand and fit in with your schedule and be sure to add it to your calendar.
 
 2. **Do your research.** Read up on the subject or browse through content you’ve already written about it. You can even create an UpContent topic specifically about the Twitter chat’s theme to view the relevant news articles and blog posts written by the influencers in that niche. You could even write down some questions you could ask during the chat as follow-ups to the conversation.
