@@ -1159,6 +1159,18 @@ div.prelaunch-left {
 	width: 400px;
 }
 
+.contact form input[type="submit"], .contact form button{
+	background: #7755cb !important;
+	color: #fff;
+	width: 100%;
+}
+
+.contact form input[type="submit"]:hover, .contact form button:hover{
+	background: #fff !important;
+	color: #7755cb;
+	border: 1px solid #7755cb;
+	cursor: pointer;
+}
 
 .hootsuite-cta{
   display: flex;
