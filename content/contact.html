@@ -6,28 +6,28 @@ title = "Contact"
 
 
 <div class="contact">
-	<h1>Contact Us</h1>
-	<p>429 4th Ave Ste 1400, Pittsburgh, Pa 15219-1508 <br>
-		+1-888-932-5651<br>
-		<a href="mailto:info@upcontent.com">info@upcontent.com</a></p>
+  <h1>Contact Us</h1>
+  <p>429 4th Ave Ste 1400, Pittsburgh, Pa 15219-1508 <br>
+  +1-888-932-5651<br>
+  <a href="mailto:info@upcontent.com">info@upcontent.com</a></p>
 
-	<form name="contactUs" method="post" action="https://atotplhz3m.execute-api.us-west-2.amazonaws.com/prod/">
+<form name="contactUs" method="post" action="https://atotplhz3m.execute-api.us-west-2.amazonaws.com/prod/">
 
     <input type="hidden" name="id" value="fbb091c3-4a24-4e7c-9b21-4a414261087b">
 
     <label for="name">Name:</label>
-    <input id="name" type="text">
-​
+    <input id="name" type="text" name="name">
+
     <label for="email">Email:</label>
-    <input id="email" type="text">
-​
+    <input id="email" type="text" name="email">
+
     <label for="phone">Phone:</label>
-    <input id="phone" type="text">
-​
+    <input id="phone" type="text" name="phone">
+
     <label for="message">Message:</label>
-    <textarea id="message" type="text" rows="10" cols="50">
+    <textarea id="message" type="text" rows="10" cols="50" name="message">
     </textarea>
-​
+
     <button type="submit">Submit</button>
 </form>
 </div>
