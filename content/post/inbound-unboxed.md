@@ -24,4 +24,4 @@ I sat down with Nicholas to talk about the challenges of content discovery and h
 
 We’d love for you to [tune in](http://earnworthy.com/upcontent-marissa-burdett/) and show your support for Inbound Unboxed! Let us know what you think.
 
-<iframe style="border: solid 1px #dedede;"  src="//app.stitcher.com/splayer/f/76880/43685093" width="800" height="250" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="//app.stitcher.com/splayer/f/76880/43685093" width="100%" height="250" frameborder="0" scrolling="no"></iframe>
