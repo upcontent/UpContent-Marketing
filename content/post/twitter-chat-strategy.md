@@ -8,17 +8,17 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/twitterchat.png"
 +++
 
-+++
+
 If you’re an active member of Twitter, you’ve probably seen a Twitter chat in action on your newsfeed. Whether you’re new to this form of engagement or have only taken part once or twice, there are probably numerous reasons you’ve held back from incorporating them into your marketing strategy regularly.
 
 For one, it’s easy to feel overwhelmed by Twitter chats, both by the number of participants or their rapid speed. (Heck, even if you are a Twitter chat regular, it can still be overwhelming at times!) It can also be intimidating to insert yourself into these conversations and come up with interesting content on the fly.  Not to mention, finding the right chat that aligns with your brand and finding the best tools for keeping things organized and easy to follow are just a few other potential barriers to entry.
 
 Learning how to overcome these hurdles is like a rite of passage; once you find your flow, Twitter chats can be one the best engagement strategies you use all year.  
 
-KYLE - Graphic with the blog post title (pinnable - vertical)
+{{<figure src="/images/twitterchats.png" title="" alt="Twitter Chats" caption-top="false">}}
 
 Below, we’ll go over the basics, but we’ll also give some practical tips for setting yourself up for success, what to focus on most during the chat, and unique ways to maximize the opportunities that present themselves along the way.
 
@@ -29,7 +29,7 @@ One way to think of a Twitter chat is to imagine a casual networking event durin
 
 There are Twitter chats on nearly every topic in every niche at all different times of the day, so these fun networking events aren’t just limited to those in the social media business.
 
-Content and social media coordinator at Meteorix, [Martin Lieberman](https://twitter.com/martinlieberman), is an avid Twitter chat participant because of the genuine connections that form on a platform that can be so self-promotional at times: “There’s so much ‘noise’ on Twitter from people who only push content (and random quotes), so one of my favorite things about Twitter chats is that they’re a designated time when people are pre-disposed to ‘just be social’ and not share headlines and links. Questions are there as a guide to focus the conversation, but they’re not as important as the interaction between participants. The more you focus on one-to-one conversation and less on competing to be heard by everyone, the more enjoyable and rewarding the chat will be.”
+Content and social media manager at Meteorix, [Martin Lieberman](https://twitter.com/martinlieberman), is an avid Twitter chat participant because of the genuine connections that form on a platform that can be so self-promotional at times: “There’s so much ‘noise’ on Twitter from people who only push content (and random quotes), so one of my favorite things about Twitter chats is that they’re a designated time when people are pre-disposed to ‘just be social’ and not share headlines and links. Questions are there as a guide to focus the conversation, but they’re not as important as the interaction between participants. The more you focus on one-to-one conversation and less on competing to be heard by everyone, the more enjoyable and rewarding the chat will be.”
 
 ## Why should I invest in a Twitter chat?
 *But Twitter chats sounds like a lot of work and I’m an introvert and I’m already doing so much on Twitter and I’d rather take my lunch break during that hour and do I have to add something to my plate?* Listen, we hear you. Just give a try. Here’s why it’s worth investing in a Twitter chat:
@@ -63,13 +63,14 @@ For example, we love participating in [#CMWorld](https://twitter.com/hashtag/cmw
 If you really want to optimize your Twitter chat strategy, you’ll want to do a bit more than sign into your Twitter account five minutes before the chat starts. Preparation will be what sets you apart and will give you the opportunity to focus on the conversation rather than get caught up in the frenzy.
 
 Here are five ways you can prepare for an effective Twitter chat:
+
 1. **Create a schedule and research topics ahead of time.** Once you’ve identified the Twitter chats of interest, create a schedule you can hang in your office or keep at your desk with the day and time of the chat. At the beginning of each week, do a quick search of each hashtag and see what the topic of discussion will be. Sometimes these are even announced at the end of the previous week’s chat. Take note of which ones apply to you and your brand and fit in with your schedule and be sure to add it to your calendar.
 
 2. **Do your research.** Read up on the subject or browse through content you’ve already written about it. You can even create an UpContent topic specifically about the Twitter chat’s theme to view the relevant news articles and blog posts written by the influencers in that niche. You could even write down some questions you could ask during the chat as follow-ups to the conversation.
 
 3. **Select 1-3 pieces of content you’ve already composed** about the chat’s topic and prepare short links for them so that if it is appropriate to share, you’ll be ready to go. If you don’t have anything written on the topic, don’t let that discourage you from participating! You can still add plenty of value while you participate.
 
-5. ** Create a simple spreadsheet to keep track of who you engaged with during the chat so you can follow-up later.** Another alternative to this is to sign up for a free [Respond by Buffer](https://respond.buffer.com/) account, which serves as an “inbox” for your Twitter account.
+5. **Create a simple spreadsheet to keep track of who you engaged with during the chat so you can follow-up later.** Another alternative to this is to sign up for a free [Respond by Buffer](https://respond.buffer.com/) account, which serves as an “inbox” for your Twitter account.
 
 4. **Create an graphic that introduces who you are and what you’re all about.** This is an eye-catching way to stand out and demonstrate authority and it often sparks conversations. [Sarah Eggers](https://twitter.com/hidama) and [Gabriela Cardoza](https://twitter.com/CardozaGab) have branded images that do just this:
 
@@ -101,7 +102,8 @@ Set yourself up for success by arranging your online workspace appropriately. Fi
 ### Focus on connection.
 There’s no way anyone can have side conversations with every single participant while still contributing his own answers. Even if it were possible, it’s not worth it. Instead, [Kayla Hollatz](http://twitter.com/kayla_hollatz), host of the well-attended [#createlounge](https://twitter.com/hashtag/createlounge), recommends narrowing your focus:
 
-KYLE QUOTE: “If you feel overwhelmed with the high volume of tweets, try making one-on-one connections a priority. Pick 3-5 people to regularly interact with throughout the chat to use that hour of time more intentionally.” -Kayla Hollatz, Community and Brand Coach, KaylaHollatz.com
+> “If you feel overwhelmed with the high volume of tweets, try making one-on-one connections a priority. Pick 3-5 people to regularly interact with throughout the chat to use that hour of time more intentionally.” <br>
+> *-Kayla Hollatz, Community and Brand Coach, KaylaHollatz.com*
 
  It’s much better to have more meaningful conversations with just a few participants than to have sent one tweet to every individual. Don’t let overwhelm stop you from joining in. Even a few new connections are worth your while.
 
@@ -111,7 +113,8 @@ KYLE QUOTE: “If you feel overwhelmed with the high volume of tweets, try makin
 
 While you may be focusing on 1-3 relationships during each chat, there are certainly many other individuals who might say something profound, ask great questions, or spark an idea in you. Be sure to “heart” or retweet these messages or make note of them in your spreadsheet as you go through the chat.
 
-KYLE QUOTE: “Save valuable tweets as they see them. It's tough to sort through the content post-chat.” -Sarah Nagel, Community Manager, Sprout Social
+> “Save valuable tweets as they see them. It's tough to sort through the content post-chat.” <br>
+> *-Sarah Nagel, Community Manager, Sprout Social*
 
 Later, you can follow-up with these favorited tweets or use them as inspiration or idea generation for future blog posts. Be sure to give credit where credit is due, of course! This might even be an excellent collaboration opportunity.
 
@@ -135,7 +138,8 @@ Many brands will post a recap blog post or use an application like [Storify](htt
 ### Pop in to say hello, even if you can’t stay.
 Remember how people used to stop by to “give their regards?” Apply the same principle here. If you know you’re going to be busy during a chat, it’s thoughtful to send a quick tweet mentioning that while you can’t make it today, you just wanted to say “hey” and wish them a great chat. Be sure to tag the host and add the hashtag. Chances are, people will respond, expressing their hope that you can join in next time. And next time when you can attend, you might even be welcomed with open arms. It’s almost unbelievable how *kind* people are during these chats! That’s what makes them so fun. 
 
-KYLE QUOTE: “Don’t wait for a chat to be social. If you think of Twitter as a 24/7 Twitter chat, it becomes a much more enjoyable social network. Ask questions, follow-up with those you meet, help others, use content in context, be interested and interesting, and just engage in real-time. You’ll grow a bigger following in a shorter time--but more importantly, you’ll build stronger relationships. And that’s why you’re on Twitter to begin with, right?” -Martin Lieberman, Content and Social Media Coordinator, Meteroix
+> “Don’t wait for a chat to be social. If you think of Twitter as a 24/7 Twitter chat, it becomes a much more enjoyable social network. Ask questions, follow-up with those you meet, help others, use content in context, be interested and interesting, and just engage in real-time. You’ll grow a bigger following in a shorter time--but more importantly, you’ll build stronger relationships. And that’s why you’re on Twitter to begin with, right?” <br>
+> *-Martin Lieberman, Content and Social Media Manager, Meteroix*
 
 Hopefully by now you can see the value that Twitter chats brings to your digital strategy. Remember, this comprehensive list of things to consider during a Twitter chat does not need to be applied all at once. Get your feet wet, try one or two new tactics, and give it a shot!
 
