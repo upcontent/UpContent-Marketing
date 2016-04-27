@@ -22,7 +22,7 @@ Sottopop will also limit the number of redirects we follow to three redirects pe
 
 ### Identifying Sottopop
 
-Generally, you can identify Sottopop traffic by the `User-Agent` header in the HTTP requests that we send. This value is often logged in your server's access logs. Our User-Agent string will take the following form, where `1.0` can be any version number: `Sottopop/1.0(+https://upcontent.com/sottopop)`.
+Generally, you can identify Sottopop traffic by the `User-Agent` header in the HTTP requests that we send. This value is often logged in your server's access logs. Our User-Agent string will take the following form, where `1.0` can be any version number: `Sottopop/1.0(+https://upcontent.com/robots)`.
 
 You can also verify the identity of a particular server that claims to be Sottopop by doing a reverse DNS lookup on the IP address of that server.
 
