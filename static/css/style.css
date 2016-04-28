@@ -994,6 +994,8 @@ footer > .foot-right > ul > li > a:hover {
 	background-color: #fff;
 }
 
+p code, code { font-size: 16px; background: #f7f7f7; padding: 3px; display: inline;}
+
 div.prelaunch-right {
 	display: block;
 	overflow: auto;
@@ -1796,7 +1798,7 @@ a.blog-cta {
 	font-style: normal;
 }
 
-.blogpostings h3{
+.blogpostings h3, h3{
 	font-size: 22px;
 	line-height: 26px;
 	font-weight: 700;
