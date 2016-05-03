@@ -8,7 +8,11 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/essential-tools.png"
+
++++
+
+{{<figure src="/images/essential-tools-logos.png" title="" alt="The Essential Tools for Managing Our Content Marketing Startup" caption-top="false">}}
 
 When you really break it down, it takes a lot of technology to run a technology product and the team behind it. There’s no replacement for a whiteboard and marker, a pen and paper, and good ol’ fashioned note taking, but we certainly embrace the various apps and software available to make our work lives a little easier.
 
