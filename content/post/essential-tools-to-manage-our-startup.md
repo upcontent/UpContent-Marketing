@@ -8,7 +8,9 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/essential-tools.png"
+
++++
 
 When you really break it down, it takes a lot of technology to run a technology product and the team behind it. There’s no replacement for a whiteboard and marker, a pen and paper, and good ol’ fashioned note taking, but we certainly embrace the various apps and software available to make our work lives a little easier.
 
@@ -17,6 +19,8 @@ The UpContent team prides itself on being technology agnostic--a term that simpl
 That being said, we’ve definitely found a suite of essential tools that help us manage our content marketing startup and we’d love to share them with you in hopes that you’ll give one of them a try. There’s quite a few, so we’ve broken them up by category to make it easier to digest.
 
 Are we missing anything? Be sure to let us know what tools you love and use!
+
+{{<figure src="/images/essential-tools-logos.png" title="" alt="The Essential Tools for Managing Our Content Marketing Startup" caption-top="false">}}
 
 ## Social Media
 
