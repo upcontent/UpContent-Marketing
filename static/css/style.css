@@ -678,6 +678,11 @@ p.testi em {
 	text-align: center;
 }
 
+.ourPurpose > div h1 small {
+	color: #565656;
+	font-size: 11px;
+}
+
 .ourPurpose > div h2 {
 	font-weight: 400;
     text-align: left;
