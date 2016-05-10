@@ -81,9 +81,12 @@ This merely scratches the surface of the technology involved in bringing UpConte
 
 ## Communication
 
+After many months of using Infusionsoft, we recognized that we needed a much simpler, more inexpensive tool that would cater to our needs, without the massive learning curve. Enter [ConvertKit](https://convertkit.com/), our newest email solution. Though we’re still relatively new to the platform, we love the ease of creating triggers and sequences to really tailor our emails to various audiences. Plus they’re just great people.
+
 We love love love [Slack](https://slack.com/). Having the use of separate channels has kept our conversations organized and easy to refer back to and the interface makes it so simple and enjoyable to use, but let’s be honest: we just really love the giphy feature.
 
 If we ever need to speak with a customer or potential partner, we tend to use [Skype](http://www.skype.com/) most often. It’s the most universal, even though we’re also fans of [Google Hangout](https://hangouts.google.com/).
+
 
 ## Customer Success
 
