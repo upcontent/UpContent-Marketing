@@ -781,6 +781,22 @@ p.testi em {
 	border-radius: 3px;
 }
 
+ul.recentBlogs {
+	display: inline-block;
+}
+
+ul.recentBlogs li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 20px;
+}
+
+ ul.recentBlogs li:last-child {
+ 	margin-right: 0;
+ }
+
+
+
 .card-ui-home > div > a.ghost-home-cta-white{
 	text-align: center;
 	font-weight: 700;
