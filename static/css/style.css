@@ -678,6 +678,11 @@ p.testi em {
 	text-align: center;
 }
 
+.ourPurpose > div h1 small {
+	color: #565656;
+	font-size: 11px;
+}
+
 .ourPurpose > div h2 {
 	font-weight: 400;
     text-align: left;
@@ -775,6 +780,22 @@ p.testi em {
 	text-decoration: none;
 	border-radius: 3px;
 }
+
+ul.recentBlogs {
+	display: inline-block;
+}
+
+ul.recentBlogs li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 20px;
+}
+
+ ul.recentBlogs li:last-child {
+ 	margin-right: 0;
+ }
+
+
 
 .card-ui-home > div > a.ghost-home-cta-white{
 	text-align: center;
