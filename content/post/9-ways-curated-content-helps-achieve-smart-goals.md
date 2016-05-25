@@ -23,7 +23,7 @@ Once you’ve settled on your goals, then you can apply that lens to your [disco
 
 With such a variety of content available, it can be difficult to identify which types of content will best support your strategy. Below, you’ll find suggested content--both original and outside sources--that will help you achieve some of the most common major content curation goals. This “template” will serve as a starting point to make your curation process flow quickly and effectively.
 
-[Title graphic]
+{{<figure src="/images/9-ways-callout.png" title="" alt=" Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals" caption-top="false">}}
 
 ### If your goal is to sell a new product or service/increase site traffic, you should curate:
 
