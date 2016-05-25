@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/9-ways.png"
 
 +++
 
@@ -16,7 +16,8 @@ We’re big into curating content around these parts, in case you haven’t noti
 
 Before you start sharing random content, it’s important to create an intentional content curation strategy that will help you establish goals that measure the success of your efforts. Remember, these goals should be S.M.A.R.T.: Specific, Measureable, Achievable, Realistic, and Time-Bound.
 
-[Download your free guide to creating a content curation strategy]
+<script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=5"></script>
+
 
 Once you’ve settled on your goals, then you can apply that lens to your [discovery process](https://upcontent.com/post/how-to-evaluate-content/), focusing only on curating specific content that will help you achieve these goals.
 
