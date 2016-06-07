@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "User Stories"
-pinterest = ""
+pinterest = "/images/meet-jim.png"
 
 +++
 It’s always a treat for us to get to sit down and talk one-on-one with our users, but it makes us smile extra big when we connect with someone from the local Pittsburgh area. We had the pleasure of speaking with Jim McKenzie, a Global Project Manager at [Philips Respironics](http://www.respironics.com/), who has been using UpContent for his work with the Pittsburgh chapter of [Product Development and Management Association](http://www.pdma.org/pittsburgh) (PDMA).
@@ -40,6 +40,8 @@ Agree with Jim or have an idea for UpContent? We want to hear it!
 
 Take a look at the [PDMA Pittsburgh Twitter profile](https://twitter.com/PDMAPittsburgh) and you’ll see an actively engaged community of talented and ambitious innovators, thanks to Jim’s efforts. We’re just thrilled to play a small role in keeping those conversations going.
 
+{{<figure src="/images/jim-mck.png" title="" alt="Meet Jim" caption-top="false">}}
+
 *Jim McKenzie is a global product manager for Philips Respironics. He also volunteers on the marketing and talent committees for PDMA Pittsburgh where he curates interesting content for the “Topic of the Week.” You can view his topic about Inspirational TED Talks [here](https://my.upcontent.com/tools/suggestions/b481a176-ab3d-43aa-b58e-6f58f605e0d0/inspect/add488da-a90b-40b5-a443-3138adbafc02?filter=news&time=1&sort=relevance#add488da-a90b-40b5-a443-3138adbafc02).*
 
-Want to be interviewed as part of our user series? [Fill out this quick form](http://goo.gl/forms/mUVr5dHyiLhj4w8g1) and we’ll be in touch!
+Want to be interviewed as part of our user series? [Fill out this quick form](https://upcontent.typeform.com/to/GZ1W6t) and we’ll be in touch!
