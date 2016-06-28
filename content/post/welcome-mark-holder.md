@@ -8,13 +8,15 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/marky.png"
 
 +++
 
 It is with great excitement that we introduce the newest member of our Board, Mark Holder. Mark’s extensive experience developing strategic partnerships and go-to-market strategies for startups makes him a natural fit to assist us in commercializing UpContent and continuing to grow Community Elf’s content marketing managed services.
 
 Originally from Southern California, Mark currently resides in Victoria, British Columbia with his family. Mark recently joined [Checkfront](http://www.checkfront.com), a leading online booking platform, as VP Partnerships & Growth, and is active in the Victoria startup community through [VIATEC](https://www.viatec.ca), an association dedicated to serving innovators and entrepreneurs.
+
+{{<figure src="/images/welcome-mark.png" title="" alt="Welcome Mark Holder" caption-top="false">}}
 
 Mark started his career working in a brand marketing capacity for Sole Technology, an action sports and footwear company that grew from 15 to 500 people during the ten years he spent there. Following that, Mark went on to get his MBA from the University of British Columbia in Vancouver, conveniently timed with the recession. Luckily, he was able to take his experience in action sports and apply it to a new role with Youngr, a health and wellness management software company.
 
