@@ -595,7 +595,7 @@ header div.headerContent p{
 	margin-top: 30px;
 }
 
-.pricing-opening div p a, .pricing-end a{
+.pricing-opening div p a, .pricing-end p a{
 	font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -610,7 +610,7 @@ header div.headerContent p{
 .pricing-end a {
 	margin: 120px 0;
 	display: block;
-	max-width: 120px;
+	max-width: 250px;
 	margin: 120px auto;
 }
 
@@ -682,7 +682,7 @@ p.testi em {
 	padding-bottom: 5px;
 }
 
-.valueStatement, .card-ui-home, .ourPurpose {
+.valueStatement, .card-ui-home, .ourPurpose, .pricing-options{
 	display: flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -702,6 +702,7 @@ p.testi em {
 	width: 1080px;
 	margin: 20px auto;
 }
+
 
 .what-people-are-saying, .featured-on {
 	margin-bottom: 80px;
@@ -733,29 +734,65 @@ p.testi em {
 	margin-right: 40px;
 }
 
-.pricing-options { max-width: 1080px; margin: 50px auto; text-align: center; margin-bottom:100px;}
 
-.pricing-options div.personal-plan, .pricing-options div.professional-plan {
-	max-width: 500px;
+.pricing-options {
+ 	margin-bottom: 10%;
 }
 
 .pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
-	max-width: 500px;
 	background: url('/images/pricing-box.png') no-repeat;
-    min-height: 315px;
-    max-height: 315px;
-    height: 315px;
+	background-size: cover;
     text-align: center;
-    padding-top: 35px;
-    padding-right: 30px;
+    padding: 7% 30px;
+    margin-bottom: 20px;
+    padding-top: 7%;
+
 }
 
-.pricing-options div.personal-plan {
-	float: left;
+.pricing-options div.personal-plan, .pricing-options div.professional-plan {
+	max-width: 45%;
+    width: 45%;
 }
 
-.pricing-options div.professional-plan {
-	float: right;
+.pricing-options div.personal-plan ul, .pricing-options div.professional-plan ul  {
+	margin-top: 30px;
+	margin-left: 40px;
+
+	}
+
+.pricing-options div.personal-plan ul li, .pricing-options div.professional-plan ul li  {
+	text-align: left;
+    font-size: 15px;
+    color: #565656;
+    list-style-image: url("/images/checkmark.png");
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    padding-left: 5px;
+}
+
+.pricing-options div.personal-plan ul li.inactive-feature, .pricing-options div.professional-plan ul li.inactive-feature {
+	color: #bababa;
+	list-style-image: url("/images/checkmark-grey.png");
+}
+
+.professional-plan a, .personal-plan a{
+	color: #fff;
+	background: #7755cd;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 15px;
+	border-radius: 3px;
+	text-align: center;
+	display: block;
+}
+
+.professional-plan h4, .personal-plan h4 {
+	font-size: 20px;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #4bb4d2;
 }
 
 .pricing-options div.personal-plan h2, .pricing-options div.professional-plan h2 {
@@ -770,6 +807,8 @@ p.testi em {
 	text-align: center;
 	font-size: 12px;
 	color: #565656;
+	display: block;
+	margin: 30px 0 50px;
 }
 
 .pricing-options small strong {
@@ -804,6 +843,18 @@ p.testi em {
 .integrated-with h3 {
 	width: 370px;
 	margin: 120px auto 70px;
+}
+
+.integrated-with p a {
+	color: #fff;
+	background-color: #7755cd;
+	padding: 15px;
+	margin-top: 15px;
+	margin-bottom: 40px;
+	font-weight: 900;
+	font-size: 15px;
+	text-transform: uppercase;
+	border-radius: 3px;
 }
 
 .featured-on h3 {
@@ -2266,3 +2317,38 @@ form button[type="submit"]{
 	} 
 
 }
+
+/*
+@media (max-width: 320px) {
+		 div.professional-plan div {
+	max-width: 500px;
+	background: url('/images/pricing-box.png') no-repeat;
+	background-size: cover;
+    min-height: 350px;
+    height: 350px;
+    text-align: center;
+    padding-top: 35px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+	}
+
+	.pricing-options div.personal-plan, .pricing-options div.professional-plan {
+		float: none;
+		margin: 20px auto;
+	}
+
+	.pricing-options div.personal-plan div, .pricing-options.professional-plan div {
+		max-width: 99%;
+		background: #f7f7f7;
+		background-image: none;
+		margin: 20px auto;
+		height: auto;
+		display: block;
+	}
+
+	.pricing-options div.personal-plan div img, .pricing-options.professional-plan div img {
+		max-width: 100%;
+		margin-top: 5%;
+	}
+
+}*/
