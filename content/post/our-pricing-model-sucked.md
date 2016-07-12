@@ -8,19 +8,19 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/pricing-sucks.png"
 
 +++
 
 When a technology product comes together and is finally ready to be released into the wild, it can often be delayed by the difficulty of settling on a reasonable pricing model. There are so many questions and variables to consider:
 
-*Should we offer our product for free?
-If we do, how will we pay for it?
-How many plans should we offer?
-How much would people be willing to pay for that feature?
-Which features should fall under each of these plans?
-Can we support organizational billing yet?
-Do those pricing tricks like $9.99 really work?
+*Should we offer our product for free?<br>
+If we do, how will we pay for it?<br>
+How many plans should we offer?<br>
+How much would people be willing to pay for that feature?<br>
+Which features should fall under each of these plans?<br>
+Can we support organizational billing yet?<br>
+Do those pricing tricks like $9.99 really work?<br>
 How can I keep this simple?*
 
 Though we certainly worked through these questions and many more when choosing our own structure, we admit it: we fell short. Our first pricing model really sucked, and we finally sat down and worked through straightening it out.
@@ -39,7 +39,7 @@ After analyzing the data we received from our survey and after a lot of careful 
 
 We’re thrilled to announce we’re offering just TWO plans with straightforward, simplified pricing.
 
-[Pricing graphic]
+{{<figure src="/images/pricing-blog-boxes.png" title="" alt="UpContent's Pricing Model" caption-top="false">}}
 
 Our Personal Plan is free and allows users to create one topic, read full-text articles and blog posts within the platform, share unlimited content via social media, and sort by all of our filters. This plan is great for the casual user who may only manage his or her own social media accounts, is more interested in research and ideation than building out a comprehensive curation strategy, and/or enjoys sharing interesting content about a particular niche.
 
@@ -49,4 +49,4 @@ Not sure which plan is right for you? No problem. We want all of our users to ex
 
 We’re pretty pleased with this change and hope you are, too! Down the road, we may introduce more options for larger businesses, but we think this pricing structure will best serve our current customers right now. Current paid users--don’t worry. We’ve got you covered, too. Expect to hear from us about how this change benefits you, too.
 
-Ready to get started? Give those Professional features a test drive if you haven’t already and [sign up for free].
+Ready to get started? Give those Professional features a test drive if you haven’t already and [sign up for free](https://my.upcontent.com/signup).
