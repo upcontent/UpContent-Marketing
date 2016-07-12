@@ -699,7 +699,7 @@ p.testi em {
 }
 
 .pricing-opening {
-	width: 1080px;
+	width: 960px;
 	margin: 20px auto;
 }
 
@@ -741,11 +741,11 @@ p.testi em {
 
 .pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
 	background: url('/images/pricing-box.png') no-repeat;
-	background-size: cover;
+	background-size: contain;
     text-align: center;
-    padding: 7% 30px;
+    padding: 14% 30px;
     margin-bottom: 20px;
-    padding-top: 7%;
+    min-height: 420px;
 
 }
 
@@ -2318,37 +2318,12 @@ form button[type="submit"]{
 
 }
 
-/*
-@media (max-width: 320px) {
-		 div.professional-plan div {
-	max-width: 500px;
-	background: url('/images/pricing-box.png') no-repeat;
-	background-size: cover;
-    min-height: 350px;
-    height: 350px;
-    text-align: center;
-    padding-top: 35px;
-    padding-right: 30px;
-    margin-bottom: 20px;
-	}
 
-	.pricing-options div.personal-plan, .pricing-options div.professional-plan {
-		float: none;
-		margin: 20px auto;
-	}
+@media only screen and (max-device-width: 360px) {
 
-	.pricing-options div.personal-plan div, .pricing-options.professional-plan div {
-		max-width: 99%;
-		background: #f7f7f7;
+	.pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
 		background-image: none;
-		margin: 20px auto;
-		height: auto;
-		display: block;
+		background: #f7f7f7;
 	}
 
-	.pricing-options div.personal-plan div img, .pricing-options.professional-plan div img {
-		max-width: 100%;
-		margin-top: 5%;
-	}
-
-}*/
+}
