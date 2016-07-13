@@ -2319,7 +2319,7 @@ form button[type="submit"]{
 }
 
 
-@media only screen and (max-device-width: 360px) {
+@media only screen and (max-device-width: 450px) {
 
 	.pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
 		background-image: none;
