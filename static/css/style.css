@@ -750,7 +750,7 @@ p.testi em {
 }
 
 .pricing-options div.personal-plan, .pricing-options div.professional-plan {
-	max-width: 45%;
+	max-width: 500px;
     width: 45%;
 }
 
