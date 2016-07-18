@@ -1,21 +1,20 @@
 +++
 Categories = []
 Description = ""
-draft = "true"
 Tags = []
-date = "2016-06-28T11:50:00-05:00"
+date = "2016-07-19T11:50:00-05:00"
 title = "Announcing UpContent Integration with Hootsuite as a Content Source"
 Hero_image = ""
 author = "Scott Rogerson"
 author_image = ""
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/hootsuite-integration.png"
 
 +++
 
 We’re thrilled to announce the launch of UpContent within Hootsuite’s Content Sources! With this new integration, we help to address the soul-sucking challenge that marketers worldwide endure in their relentless [pursuit of engaging and relevant content](https://upcontent.com/post/5-reasons-you-need-content-curation/) to foster deeper relationships with their intended audience.  HOORAY!
 
-[UpContent/Hootsuite Soulmates pic]
+{{<figure src="/images/soulmates.png" title="" alt="UpContent & Hootsuite" caption-top="false">}}
 
 At times like these it is important to take a step back and reflect on how we arrived at this point. Thinking back to [the genesis of UpContent](https://upcontent.com/post/navigating-the-foundation-stage/) in 2013 (which, at the time, wasn’t enough of a thought to even warrant a name) as a way to assist our account managers who provided social media engagement services and became frustrated at how much time it was taking to identify great, third party, content. This waste amounted to nearly 20% of each individual’s day--just looking for great information to share!
 
@@ -33,7 +32,7 @@ Our small team took up the torch to “find a better way” and, through countle
 In early 2015, we assessed the current ecosystem of marketing technologies and determined the most expedient path to understanding the greater value of UpContent was to become an engine for content discovery--rather than trying the be another full-service technology. We firmly believe that we should stick with what we’re good at and integrate UpContent with a larger, established, platform in which (1) our target customers already spent a large amount of their time, and (2) the issue of finding great content was most acute.
 After evaluating a number of options, Hootsuite’s ecosystem, culture, and techology appeared to be a great fit. Working closely with the Hootsuite team, UpContent launched as a stream within the [Hootsuite](http://hootsuite.com) platform in March 2015.
 
-<STREAM SCREENSHOT>
+{{<figure src="/images/upcontent-stream.png" title="" alt="UpContent Stream" caption-top="false">}}
 
 ### Our Work Was Far From Over
 
