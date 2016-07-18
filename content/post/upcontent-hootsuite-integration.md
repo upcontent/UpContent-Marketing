@@ -69,3 +69,5 @@ Full Text Extraction - View the full text of the article without the need to wai
 Stream to Source Interaction - The option to [utilize UpContent as a stream](http://appdirectory.hootsuite.com/185/upcontent) will continue to be available to our customers, and will serve as the hub for topic creation and management, within the Hootsuite platform.
 
 We are overjoyed to share the fruit of our labors with you and look forward to receiving your feedback. It has been a pleasure to work through this initiative with the Hootsuite team and we are excited to see what the future holds between these two technologies. 
+
+We would be remiss if we neglected to mention the hard work and dedication invested by our friends at Hootsuite over the past many months. Jody, Soro, Nicole, and Patience--we owe you a Primanti Bros. sammich.  Thanks for making this journey with us. We look forward to the next adventure.
