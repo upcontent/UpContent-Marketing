@@ -6,7 +6,7 @@ date = "2016-07-19T11:50:00-05:00"
 title = "Announcing UpContent Integration with Hootsuite as a Content Source"
 Hero_image = ""
 author = "Scott Rogerson"
-author_image = ""
+author_image = "/images/scott.png"
 category = "Behind-the-Scenes"
 pinterest = "/images/hootsuite-integration.png"
 
