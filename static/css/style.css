@@ -7,6 +7,11 @@ body{
 	font-family: 'proxima-nova', sans-serif;
 }
 
+.clr {
+	clear: both;
+	content: "";
+}
+
 p{
 	font-size: 18px;
 	color: #3a3939;
@@ -569,6 +574,47 @@ header div.headerContent p{
 	-ms-align-items: center;
 }
 
+.pricing-opening {
+	border-bottom: 1px solid #e3e3e3;
+	margin-bottom:80px;
+}
+
+.pricing-opening div h1 {
+	font-size: 50px;
+    font-weight: lighter;
+    line-height: 70px;
+    color: #7755CD;
+    text-align: center;
+}
+
+.pricing-opening div p {
+	font-size: 24px;
+	line-height: 34px;
+	color: #565656;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.pricing-opening div p a, .pricing-end p a{
+	font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: #7755CD;
+    color: #fff;
+    padding: 15px;
+    border-radius: 3px;
+    border: 1px solid #7755CD;
+    text-align: center;
+}
+
+.pricing-end a {
+	margin: 120px 0;
+	display: block;
+	max-width: 250px;
+	margin: 120px auto;
+}
+
+
 p.testi {
 	border: 1px solid lightgrey;
 	padding: 15px;
@@ -636,7 +682,7 @@ p.testi em {
 	padding-bottom: 5px;
 }
 
-.valueStatement, .card-ui-home, .ourPurpose{
+.valueStatement, .card-ui-home, .ourPurpose, .pricing-options{
 	display: flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -652,6 +698,169 @@ p.testi em {
 	width: 100%;
 }
 
+.pricing-opening {
+	width: 960px;
+	margin: 20px auto;
+}
+
+
+.what-people-are-saying, .featured-on {
+	margin-bottom: 80px;
+	margin-top: 80px;
+	max-width: 1080px;
+	margin: 0 auto;
+}
+
+.integrated-with div {
+	background-color: #f4f4f4;
+	margin-top: 120px;
+	padding: 40px 0;
+}
+
+.integrated-with div, .featured-on div {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.integrated-with div img {
+	margin-right: 50px;
+}
+
+.featured-on h3 {
+	margin-top: 120px;
+}
+
+.featured-on img {
+	margin-right: 40px;
+}
+
+
+.pricing-options {
+ 	margin-bottom: 10%;
+}
+
+.pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
+	background: url('/images/pricing-box.png') no-repeat;
+	background-size: contain;
+    text-align: center;
+    padding: 14% 30px;
+    margin-bottom: 20px;
+    min-height: 420px;
+
+}
+
+.pricing-options div.personal-plan, .pricing-options div.professional-plan {
+	max-width: 500px;
+    width: 45%;
+}
+
+.pricing-options div.personal-plan ul, .pricing-options div.professional-plan ul  {
+	margin-top: 30px;
+	margin-left: 40px;
+
+	}
+
+.pricing-options div.personal-plan ul li, .pricing-options div.professional-plan ul li  {
+	text-align: left;
+    font-size: 15px;
+    color: #565656;
+    list-style-image: url("/images/checkmark.png");
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    padding-left: 5px;
+}
+
+.pricing-options div.personal-plan ul li.inactive-feature, .pricing-options div.professional-plan ul li.inactive-feature {
+	color: #bababa;
+	list-style-image: url("/images/checkmark-grey.png");
+}
+
+.professional-plan a, .personal-plan a{
+	color: #fff;
+	background: #7755cd;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 15px;
+	border-radius: 3px;
+	text-align: center;
+	display: block;
+}
+
+.professional-plan h4, .personal-plan h4 {
+	font-size: 20px;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #4bb4d2;
+}
+
+.pricing-options div.personal-plan h2, .pricing-options div.professional-plan h2 {
+	font-weight: normal;
+	font-size: 50px;
+	color: #7755cd;
+	margin: 10px 0;
+	text-align: center;
+}
+
+.pricing-options small {
+	text-align: center;
+	font-size: 12px;
+	color: #565656;
+	display: block;
+	margin: 30px 0 50px;
+}
+
+.pricing-options small strong {
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 15px;
+}
+
+.what-people-are-saying h3, .integrated-with h3, .featured-on h3 {
+	font-size: 40px;
+	font-weight: 300;
+	color: #565656;
+	margin-bottom:60px;
+	/*border-bottom: 5px solid #4bb4d2; */
+	padding-left: 20px;
+  	font-size: 50px;
+  	background: transparent;
+  	border-radius: 10px;
+  	height: 6px;
+  	box-shadow: 0 30px 0 0 #4bb4d2;
+  	font-family: sans-serif;
+  	clear: both;
+  	text-align: center;
+}
+
+.what-people-are-saying h3 {
+	width: 550px;
+	margin: 30px auto 70px;
+}
+
+.integrated-with h3 {
+	width: 370px;
+	margin: 120px auto 70px;
+}
+
+.integrated-with p a {
+	color: #fff;
+	background-color: #7755cd;
+	padding: 15px;
+	margin-top: 15px;
+	margin-bottom: 40px;
+	font-weight: 900;
+	font-size: 15px;
+	text-transform: uppercase;
+	border-radius: 3px;
+}
+
+.featured-on h3 {
+	width: 300px;
+	margin: 120px auto 80px;
+}
 
 
 .valueStatement > div, .card-ui-home > div {
@@ -2106,5 +2315,15 @@ form button[type="submit"]{
 	header div.topHeader div.logo, #header div.topHeaderr div.logo{
 		padding-bottom: 20px;
 	} 
+
+}
+
+
+@media only screen and (max-device-width: 450px) {
+
+	.pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
+		background-image: none;
+		background: #f7f7f7;
+	}
 
 }
