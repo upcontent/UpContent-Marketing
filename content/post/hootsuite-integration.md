@@ -14,7 +14,7 @@ pinterest = "/images/hootsuite-integration.png"
 
 We’re thrilled to announce the launch of UpContent for Hootsuite content source! With this new integration, we help to address the soul-sucking challenge that marketers worldwide endure in their relentless [pursuit of engaging and relevant content](https://upcontent.com/post/5-reasons-you-need-content-curation/) to take immediate action--driving more meaningful conversations.  HOORAY!
 
-{{<figure src="/images/soulmates.png" title="" alt="UpContent & Hootsuite" caption-top="false">}}
+
 
 At times like these it is important to take a step back and reflect on how we arrived at this point. Thinking back to [the genesis of UpContent](https://upcontent.com/post/navigating-the-foundation-stage/) in 2013 (which, at the time, wasn’t enough of a thought to even warrant a name) as a way to assist our account managers who provided content marketing as a managed service and became frustrated at how much time it was taking to identify great, third party, content. This waste amounted to nearly 20% of each individual’s day--just looking for great information to share!
 
@@ -69,6 +69,4 @@ The product of the UpContent/Hootsuite joint-initiative brings the most valuable
 
 We are overjoyed to share the fruit of our labors with you and look forward to receiving your feedback. It has been a pleasure to work through this initiative with the Hootsuite team and we are excited to see what the future holds between these two technologies.
 
-We would be remiss if we neglected to mention the hard work and dedication invested by our friends at Hootsuite over the past many months. Jody, Soro, Nicole, and Patience--we owe you a Primanti Bros. sammich.  Thanks for making this journey with us. We look forward to the next adventure. 
-
-
+We would be remiss if we neglected to mention the hard work and dedication invested by our friends at Hootsuite over the past many months. Jody, Soro, Nicole, and Patience--we owe you a Primanti Bros. sammich.  Thanks for making this journey with us. We look forward to the next adventure.
