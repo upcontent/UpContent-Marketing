@@ -14,7 +14,6 @@ pinterest = "/images/hootsuite-integration.png"
 
 We’re thrilled to announce the launch of UpContent for Hootsuite content source! With this new integration, we help to address the soul-sucking challenge that marketers worldwide endure in their relentless [pursuit of engaging and relevant content](https://upcontent.com/post/5-reasons-you-need-content-curation/) to take immediate action--driving more meaningful conversations.  HOORAY!
 
-{{<figure src="/images/soulmates.png" title="" alt="UpContent & Hootsuite" caption-top="false">}}
 
 
 At times like these it is important to take a step back and reflect on how we arrived at this point. Thinking back to [the genesis of UpContent](https://upcontent.com/post/navigating-the-foundation-stage/) in 2013 (which, at the time, wasn’t enough of a thought to even warrant a name) as a way to assist our account managers who provided content marketing as a managed service and became frustrated at how much time it was taking to identify great, third party, content. This waste amounted to nearly 20% of each individual’s day--just looking for great information to share!
@@ -33,15 +32,7 @@ In early 2015, we assessed the current ecosystem of marketing technologies and d
 
 After evaluating a number of options, Hootsuite’s ecosystem, culture, and technology appeared to be a great fit. Working closely with the Hootsuite team, UpContent launched as a stream within the Hootsuite platform in March 2015.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[STREAM SCREENSHOT]
-=======
 {{<figure src="/images/upcontent-stream.png" title="" alt="UpContent Stream in Hootsuite" caption-top="false">}}
->>>>>>> communityelf/master
-=======
-{{<figure src="/images/upcontent-stream.png" title="" alt="UpContent Stream in Hootsuite" caption-top="false">}}
->>>>>>> communityelf/master
 
 ### Our Work Was Far From Over
 
@@ -51,25 +42,11 @@ While the content being found was valuable, the ability to effectively translate
 
 To address these challenges, we gave UpContent its own home at my.upcontent.com in June 2015. This launch allowed our customers to minimize scrolling when reviewing results and view the full text of the content--minimizing time wasted switching tabs or waiting for pages to load.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[Old my.upcontent SCREENSHOT]
-
-The user experience was fully redesigned in January 2016 to provide a more pleasing experience and, with it, brought the ability to visualize recency and influence as well as the creation of user profiles and [shareable links to exchange topics between users](https://upcontent.com/post/sharing-topics-strategy/), or place in your favorite RSS reader.
-
-[CURRENT MY.UPCONTENT SCREENSHOT]
-=======
-=======
->>>>>>> communityelf/master
 {{<figure src="/images/upcontent-old-view.png" title="" alt="Old Version of UpContent" caption-top="false">}}
 
 The user experience was fully redesigned in January 2016 to provide a more pleasing experience and, with it, brought the ability to visualize recency and influence as well as the creation of user profiles and [shareable links to exchange topics between users](https://upcontent.com/post/sharing-topics-strategy/), or place in your favorite RSS reader.
 
 {{<figure src="/images/upcontent-new-view.png" title="" alt="New Version of UpContent" caption-top="false">}}
-<<<<<<< HEAD
->>>>>>> communityelf/master
-=======
->>>>>>> communityelf/master
 
 ### With Product/Market Fit, Time to Let People Know We Exist
 
@@ -93,13 +70,3 @@ The product of the UpContent/Hootsuite joint-initiative brings the most valuable
 We are overjoyed to share the fruit of our labors with you and look forward to receiving your feedback. It has been a pleasure to work through this initiative with the Hootsuite team and we are excited to see what the future holds between these two technologies.
 
 We would be remiss if we neglected to mention the hard work and dedication invested by our friends at Hootsuite over the past many months. Jody, Soro, Nicole, and Patience--we owe you a Primanti Bros. sammich.  Thanks for making this journey with us. We look forward to the next adventure.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
->>>>>>> communityelf/master
-=======
-
-
->>>>>>> communityelf/master
