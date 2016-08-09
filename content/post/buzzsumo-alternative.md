@@ -2,17 +2,20 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2016-05-25T11:50:00-05:00"
+date = "2016-08-09T11:50:00-05:00"
 title = "A BuzzSumo to UpContent Convert: Meet Clementine Holman"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "User Stories"
-pinterest = ""
+pinterest = "/images/clementine.gif"
 
 +++
 
 One of the best things about being a small team is the ability to connect one-on-one with our users. Whether it’s through our live chat or email, we are lucky to connect with people who are doing incredible things with their businesses. A few weeks ago, we received an email from a small business marketer named Clementine Holman. What initially started as a minor support question quickly evolved into a more meaningful conversation about more affordable and small business-friendly marketing tools. We were thrilled to dive into how Clementine converted from using Buzzsumo to using UpContent for her content curation efforts.
+
+{{<figure src="/images/curated-content-clementine.png" title="" alt="The Curated Community: Clementine" caption-top="false">}}
+
 
 Though Clementine has her own full-time job, she also oversees marketing for her husband’s security business, [TISEC Total Integrated Security](http://tisec.com.au/), as they move into the home security sector. Her degree in marketing and advertising has established her as the ideal addition to the team; however, the job does not come without its challenges. As any small business employee can attest, Clementine has to consider both effectiveness and budget when it comes to investing in marketing tools.
 
