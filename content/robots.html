@@ -1,0 +1,35 @@
++++
+Description = "Sottopop is UpContent's page requester and web crawler technology. Its purpose is to download web pages to be added to our search index."
+date = "2016-04-27T13:00:00-05:00"
+title = "Sottopop: The UpContent Web Crawler and Page Requester"
+draft = false
+
++++
+<div class="ourPurpose"><div>
+
+<h1>Sottopop</h1>
+<p>Sottopop is UpContent's page requester and web crawler technology. Its purpose is to download web pages to be added to our search index.</p>
+
+<h2>Webmaster Information</h2>
+
+<h3>Sottopop Access Rates</h3>
+
+<p>Sottopop will generally make only a few sporadic requests to your site. If you feel that we are acessing your site too frequently, please submit <a href="/contact">our contact form</a> to let us know. We will make an effort to respond to all requests within two business days.</p>
+
+<p>Sottopop will attempt to limit page requests to two requests per five seconds per host name to control our burden on your servers. Network conditions and other factors may cause Sottopop to occasionally exceed this rate, but this should not last very long. If Sottopop continues to request pages at a faster rate for more than two minutes, you should submit [our contact form](/contact) and we will address it as soon as possible.</p>
+
+<p>Sottopop will also limit the number of redirects we follow to three redirects per initial URL. Following redirects will increase our request rate temporarily.</p>
+
+<h3>Identifying Sottopop</h3>
+
+<p>Generally, you can identify Sottopop traffic by the <code>User-Agent</code> header in the HTTP requests that we send. This value is often logged in your server's access logs. Our User-Agent string will take the following form, where <code>1.0</code> can be any version number: <code>Sottopop/1.0(+https://upcontent.com/robots)</code>.</p>
+
+<p>You can also verify the identity of a particular server that claims to be Sottopop by doing a reverse DNS lookup on the IP address of that server.</p>
+
+<h3>Blocking Sottopop</h3>
+
+<p>Sottopop does not currently respect <code>robots.txt</code> files. This is a deficiency that we are aware of and which will be remedied in the next version of Sottopop. For future compatibility you may use the line <code>User-agent: Sottopop</code> in your <code>robots.txt</code> file now and it will take effect when we launch <code>robots.txt</code> support.</p>
+
+<p>If you want to codevent Sottopop from accessing content on your site immediately, please configure your server to respond to requests with our user agent with an HTTP 404 or 410 response. If you choose to do so, we would apcodeciate you contacting us using <a href="/contact">our contact form</a> to let us know why you do not wish for your site to be accessed by Sottopop.</p>
+
+</div></div>

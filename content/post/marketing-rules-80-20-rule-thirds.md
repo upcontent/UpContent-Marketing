@@ -4,6 +4,11 @@ Description = ""
 Tags = ["rule of thirds" , "80/20" , "content marketing" , "content curation"]
 date = "2015-08-07T09:41:50-04:00"
 title = "Do You Know These Marketing Principles? The 80/20 Rule vs. Rule of Thirds"
+hero_image = "/images/blog-header-default.jpg"
+author = ""
+author_image = ""
+category = ""
+pinterest = "/images/do-you-know-these-marketing-principles-the-80-20-rule-vs-rule-of-thirds.png"
 
 +++
 

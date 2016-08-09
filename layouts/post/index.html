@@ -1,6 +1,6 @@
 {{ partial "header_inner.html" . }}
   <h1>posts</h1>
-  {{ range first 10 .Data.Pages }}
+  {{ range first 1000 .Data.Pages }}
     {{ if eq .Type "post"}}
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     {{ end }}

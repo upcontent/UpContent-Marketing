@@ -1,9 +1,17 @@
 {{ partial "header_inner.html" . }}
 
+<div class="ourPurpose">
+  <div>
+    <h1>Receive our blog posts in your inbox!</h1>
+    <script async id="_ck_31175" src="https://forms.convertkit.com/31175?v=5"></script>
+  </div>
+</div>
+
 <div class="blog_listing">
-  {{ range first 10 .Data.Pages.ByPublishDate }}
+  {{ range first 100 .Data.Pages.ByPublishDate }}
     {{ if eq .Type "post"}}
     <div class="blog_post">
+     <!--  <img src="{{ .Params.pinterest | absURL }}" alt="{{ .Title }}" style="max-width: 100%;"/> -->
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
       <p>{{ .Summary }}</p>
       <a class="readmore" href="{{ .Permalink }}">Read More</a>

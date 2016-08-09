@@ -4,6 +4,11 @@ Description = ""
 Tags = ["content curation" , "content marketing" , "influencer strategy"]
 date = "2015-08-13T13:47:07-04:00"
 title = "5 Reasons You Need Content Curation"
+hero_image = "/images/blog-header-default.jpg"
+author = ""
+author_image = ""
+category = ""
+pinterest = "/images/5-reasons-you-need-content-curation.png"
 
 +++
 

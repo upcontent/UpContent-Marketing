@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://upcontent.com/"
 languageCode = "en-us"
 title = "UpContent"
 MetaDataFormat = "toml"
