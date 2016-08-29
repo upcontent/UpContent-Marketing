@@ -2,13 +2,13 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2016-08-16T11:50:00-05:00"
+date = "2016-08-28T11:50:00-05:00"
 title = "August Product Update: Query Builder and Updates to Relevance Graph"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/august-product-update.png"
 
 +++
 
@@ -20,19 +20,20 @@ Creating effective topics was one of our user’s biggest pain points, likely be
 
 For a step-by-step how-to, check out the tutorial video below:
 
-<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/mm627h4ku1?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative; margin-bottom: 100px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/mm627h4ku1?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 
 ## Drill Down to Subtopics with a Faster and More Reliable Relevance Graph
 
-Back in January, we released [our biggest launch to date](https://upcontent.com/post/launch-day-recap/) that included visualizations for both our Relevance and Influence sorting options. In this first phase of the Relevance Graph, we used the service Infomous to generate the topic clusters and allow our users to “drill down” to the subtopics they were most interested in. We were thrilled to hear such positive feedback from our users about the Relevance Graph, so we knew it was time for us to build the functionality ourselves.
+Back in January, we released [our biggest launch to date](https://upcontent.com/post/launch-day-recap/) that included visualizations for both our Relevance and Influence sorting options. In this first phase of the Relevance Graph, we used a third-party provider to generate the topic clusters and allow our users to “drill down” to the subtopics they were most interested in. We were thrilled to hear such positive feedback from our users about the Relevance Graph, so we knew it was time for us to build the functionality ourselves.
 
 By implementing our own visualization, the Relevance Graph is faster and more reliable and now we can address any issues that may come up in the future without having to contact another source.
 
 To check it out, click on the Relevance sorting option and then click on the graph icon next to your topic. Here’s a preview of what to expect:
 
-[Screenshots of Relevance Graph]
+{{<figure src="/images/relevance-graph.png" title="" alt="UpContent Relevance Graph" caption-top="false">}}
+
 
 ## What’s Next in September and Beyond
 
