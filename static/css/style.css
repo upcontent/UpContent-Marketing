@@ -393,6 +393,27 @@ header div.topHeader{
 	border: 2px solid #fff;
 }
 
+
+
+
+
+
+.featured-on-home {
+	width: 100%;
+    margin-bottom: 80px;
+    background: #f0f0f0;
+}
+
+.featured-on-home div{
+	width: 1020px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
 	display: flex;
 	display: -webkit-flex;
