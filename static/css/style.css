@@ -393,6 +393,27 @@ header div.topHeader{
 	border: 2px solid #fff;
 }
 
+
+
+
+
+
+.featured-on-home {
+	width: 100%;
+    margin-bottom: 80px;
+    background: #f0f0f0;
+}
+
+.featured-on-home div{
+	width: 1020px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
 header div.topHeader div.logo, #header div.topHeaderr div.logo {
 	display: flex;
 	display: -webkit-flex;
@@ -698,6 +719,11 @@ p.testi em {
 	width: 100%;
 }
 
+.pricing-options {
+	max-width: 1020px;
+	margin: 0 auto;
+}
+
 .pricing-opening {
 	width: 960px;
 	margin: 20px auto;
@@ -736,16 +762,16 @@ p.testi em {
 
 
 .pricing-options {
- 	margin-bottom: 10%;
+ 	margin-bottom: 120px;
 }
 
 .pricing-options div.personal-plan div, .pricing-options div.professional-plan div {
 	background: url('/images/pricing-box.png') no-repeat;
 	background-size: contain;
     text-align: center;
-    padding: 14% 30px;
+    padding: 25px 30px;
     margin-bottom: 20px;
-    min-height: 420px;
+    min-height: 340px;
 
 }
 
@@ -799,7 +825,7 @@ p.testi em {
 	font-weight: normal;
 	font-size: 50px;
 	color: #7755cd;
-	margin: 10px 0;
+	margin: 5px 0;
 	text-align: center;
 }
 
@@ -2307,6 +2333,16 @@ form button[type="submit"]{
 }
 
 .pricingcolumns div ul li ul{padding-left: 40px;}
+
+.ourPurpose div ul {
+	margin-left: 30px;
+}
+
+.ourPurpose div ul li {
+	font-size: 18px;
+	line-height: 26px;
+	margin-bottom: 30px;
+}
 
 
 
