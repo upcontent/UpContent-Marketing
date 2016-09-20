@@ -28,7 +28,7 @@ The key here is choosing the best, most-relevant content that connect with you a
 
 Centerline Digital did an excellent job recapping content curation quickly, highlighting how the presentation of the material is what really delivers meaning to your audience.
 
-KYLE - https://youtu.be/8Qzgj7Mk8As
+<iframe width="800" height="450" src="https://www.youtube.com/embed/8Qzgj7Mk8As" frameborder="0" allowfullscreen></iframe>
 
 ## The Dangers of Content Curation
 
@@ -38,6 +38,8 @@ Too often people treat curation as a “set it and forget it process,” using s
 Additionally, be careful not to let curation discourage you from creating your own content. Finding your balance between creation and curation can take some trial and error, but your audience wants to hear your own thoughts and ideas, too, not just what you think of others’. Self-promoting too often can be off-putting, but the inverse is also true (and can drive precious traffic away if you’re not balanced!).
 
 **Remember, content curation should be seen as a tool to spark conversations, not as a replacement of interaction and your own creation.**
+
+{{<figure src="/images/spark-conversation.png" title="" alt="Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals" caption-top="false">}}
 
 ## Deciding What Content to Curate
 
@@ -59,6 +61,8 @@ Related Post: [9 Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals](h
 
 Current methods of curation typically involve multiple processes and tools. The search for good content starts with Google searches and Pinterest scrolling that involve endless pages of broad results. The content that does stand out is then Pocket-ed or bookmarked and then when it comes time to schedule, it’s added to Buffer or [Hootsuite](https://upcontent.com/post/hootsuite-integration/). All of these tools and platforms are wonderful and useful, but there are a few alternative strategies and platforms that can simplify this process, while also adding value to your curation.
 
+{{<figure src="/images/curation-strategy.png" title="" alt="Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals" caption-top="false">}}
+
 ### Turn to your newsfeed first.
 Chances are you already follow individuals or brands who are generating high-quality, relevant content that others in your network would enjoy. Not only will you have plenty of fodder for curation, but you will also fortify those relationships by exposing their work to a larger audience, adding your own perspective to their content, and starting conversations that can lead to other opportunities (perhaps even collaboration).
 
@@ -69,6 +73,8 @@ If you prefer to pick and choose your own sources and want to compile them into 
 ### Use a product designed specifically for curation.
 
 Often times, Google searches provide only broad results or content suggestions that have great SEO thanks to virality. Even more likely, the content shared on social media has probably already been shared many times across your network. Using a content discovery tool like UpContent will eliminate this endless scrolling and resharing of already-viral content. With multiple search queries per topic, you can get exactly the kind of content you’re looking for from the most pertinent and authoritative sources in your niche. You can even sort your results by relevance, recency, shareability, and influence and find out what subtopics fall underneath your main topic. Your results can then be shared directly or added to Buffer. (If you prefer Hootsuite, you can [add an UpContent as a content source](https://upcontent.com/post/hootsuite-integration/) as well.) Like the results you’re getting? You can [share your topic](https://upcontent.com/post/sharing-topics-strategy/) with your network, too, so they can see the content you’re loving most.
+
+{{<figure src="/images/hootsuite-suggestions-screen.png" title="" alt="Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals" caption-top="false">}}
 
 ## One Last (and Most Important) Step
 
@@ -83,4 +89,4 @@ By actively participating in your own curation, you remain just as strong of a p
 
 Want to learn more about how you can build your own content curation strategy? Download our free eBook:
 
-KYLE - FORM
+<script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=5"></script>
