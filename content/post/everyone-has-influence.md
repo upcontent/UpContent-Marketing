@@ -51,7 +51,7 @@ One scroll through your news feed and you are bound to find a few so-called “i
 
 ### Focus on helping others.
 
-[Jarratt Isted](http://twitter.com/jarrattisted), co-founder and COO of [Contentacle](http://www.contentacle.com), suggests an alternative approach to building and utilizing influence: “Craft valuable content that people will share and learn from. Talk to people; ask for their opinion and feedback. Respect others and connect with other people in your industry. This path takes a long time, and it’s grueling, but ultimately you’ll gain much more respect and you’ll get further.”
+[Jarratt Isted](http://twitter.com/jarrattisted), CTO of [HelpDocs](http://www.helpdocs.io), suggests an alternative approach to building and utilizing influence: “Craft valuable content that people will share and learn from. Talk to people; ask for their opinion and feedback. Respect others and connect with other people in your industry. This path takes a long time, and it’s grueling, but ultimately you’ll gain much more respect and you’ll get further.”
 
 This is what we call the Dale Carnegie approach. Heard of him? If you haven’t heard of his name, you’ve probably heard of his most famous work, *How to Win Friends and Influence People*. (And if you haven’t heard of either, go ahead and get it from your local library ASAP. We’ll wait here until you’ve finished it.) In his book, Carnegie shares the keys to understanding human nature and how to use that knowledge to become an effective and compelling leader. Brilliantly, he recognized that removing his ego and defaulting to letting others be “right” would earn him long-term respect and ultimately win people over to his way of thinking.
 
