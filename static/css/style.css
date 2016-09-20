@@ -1064,9 +1064,8 @@ ul.recentBlogs li {
 
 .card-ui-home {
 	background: #7755cd;
-	padding: 70px 0;
-	margin-bottom: 90px;
-}
+	padding: 70px 0;}
+
 
 .card-ui-home > div >h2 {
 	font-family: 'proxima-nova', sans-serif;
