@@ -8,11 +8,9 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/cvh.png"
 
 +++
-
-Connect via Hootsuite: a recap of the world’s largest virtual social media conference
 
 Between our content source integration and numerous guest blog posts, it’s no surprise that we really enjoy working with [Hootsuite](http://hootsuite.com), a leading social media management tool and an all-around awesome brand. When they invited us to sponsor their virtual conference, [Connect via Hootsuite](http://ow.ly/IjKz303gwXE), we were all in. There was no way we could pass up the chance to participate in the world’s largest virtual social media conference!
 
@@ -75,4 +73,5 @@ Oh, Facebook. Ever-changing and yet still such a key player. Keep up with these 
 There were so many other amazing moments throughout the day, but these were some of our favorites. Again, you can still sign up and experience everything for yourself [here](http://ow.ly/IjKz303gwXE).
 
 Don’t have time to watch the presentations, but still interested in the resources? We’re offering a bundle of our Connect via Hootsuite resources just for you. This includes our Content Curation Strategy eBook, a strategy handout, and two of our best posts about S.M.A.R.T. goals and social influence. Just fill out the form below and you’ll be able to download your resource pack right away:
-<script async id="_ck_110818" src="https://forms.convertkit.com/110818?v=6"></script>
+
+<script async id="_ck_111165" src="https://forms.convertkit.com/111165?v=6"></script>
