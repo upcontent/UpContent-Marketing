@@ -16,8 +16,10 @@ We’ve been talking a lot about [our integration with Hootsuite](https://upcont
 
 Below, you can find a screencast of the process from start to finish, including what topics I use, where I find even more inspiration, which sorting options I tend to use, and how I schedule our Twitter content through Buffer using the UpContent platform. If you prefer to read through the process, I’ve written it out for you, too!
 
-<div class="wistia_responsive_padding" style="padding:51.4% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/y3kpbbwhgk?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<div class="wistia_responsive_padding" style="padding:51.4% 0 0 0;position:relative; margin-bottom:80px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/y3kpbbwhgk?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
+
 
 ## Where I Find Articles and Blog Posts to Curate for Social Media
 
@@ -31,7 +33,7 @@ As a result, I have created the following topics that I continually visit for cu
 
 Interested in these topics as well? Go ahead and click on the link to preview and bookmark them for your own use!
 
-These topics are great, but I love to have even more options, so I also like to use topics that I’ve bookmarked or discovered through the Topic Gallery. It’s helpful to have access to great topics that I don’t have to create for myself!
+These topics are great, but I love to have even more options, so I also like to use topics that I’ve bookmarked or discovered through the [Topic Gallery](https://gallery.upcontent.com). It’s helpful to have access to great topics that I don’t have to create for myself!
 
 ## How I Choose Which Sorting Options Are Best
 
