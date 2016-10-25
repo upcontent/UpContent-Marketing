@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/howtocuratecontent-pin.png"
 
 +++
 
@@ -37,7 +37,7 @@ These topics are great, but I love to have even more options, so I also like to 
 
 Once I’ve created or bookmarked topics, I now set my sorting options. Typically, I stick with the default sorting options: All, Month, Relevance, and All.
 
-[Kyle - Picture of sorting options bar on default]
+{{<figure src="/images/filter-bar.png" title="" alt="UpContent Filter Bar" caption-top="false">}}
 
 But depending on my specific marketing goals, I might switch it up. Here’s how I decide which sorting options to use:
 
@@ -56,7 +56,7 @@ Now that I’ve set my sorting option, it’s time to scroll through my results,
 
 I simply click on the share button and Buffer opens automatically in a new tab. This is where I delete the default text that appears (the headline of the article) and type in my own insight, include a quote, and/or tag the author. The picture will pull in automatically, but I can also delete or add my own accompanying image. Finally, I add it to my queue.
 
-[Kyle - picture of buffer workflow]
+{{<figure src="/images/buffer-workflow.png" title="" alt="Buffer Workflow" caption-top="false">}}
 
 I also utilize the Power Scheduler option in Buffer if I want to share that content multiple times at different intervals.
 
@@ -64,7 +64,7 @@ I also utilize the Power Scheduler option in Buffer if I want to share that cont
 
 After I’ve read and evaluated the content, I personally like to “favorite” the article so I can come back to it to curate or reshare again later. The Saved option in my sorting bar allows me to see these saved pieces at any time. This really helps me when I’m in a pinch for content, as I can trust that the content meets my quality standards.
 
-[Kyle - picture of saved suggestions]
+{{<figure src="/images/faved-suggestions.png" title="" alt="UpContent Favorited Suggestions" caption-top="false">}}
 
 ## Rinse and Repeat
 
