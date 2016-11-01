@@ -1,15 +1,15 @@
 +++
 Categories = []
 Description = ""
-Draft = true
+Draft = false
 Tags = []
 date = "2016-10-28T13:23:16-04:00"
 title = "November 2016 Product Update: The Topic Gallery & Better Emails"
 Hero_image = ""
 author = "Nick Sloan"
-author_image = "/images/marissa.png"
+author_image = "/images/nick.png"
 category = "Behind-the-Scenes"
-pinterest = "/images/august-product-update.png"
+pinterest = "/images/august-product-update-nick.png"
 
 +++
 
