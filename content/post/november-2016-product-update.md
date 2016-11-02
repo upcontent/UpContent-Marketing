@@ -19,7 +19,7 @@ Two months have passed since [our last product update](/post/august-product-upda
 
 {{<figure src="/images/gallery-final.gif" title="" alt="UpContent Topic Gallery" caption-top="false">}}
 
-UpContent users have created thousands of incredible topics across a broad range of subjects. We've been so impressed that we wanted to showcase some of our favorites! To that end, we created the Topic Gallery.
+UpContent users have created thousands of incredible topics across a broad range of subjects. We've been so impressed that we wanted to showcase some of our favorites! To that end, we created the [Topic Gallery](https://gallery.upcontent.com).
 
 The Topic Gallery is a curated page of the best topics that our community cares about most. Each month we take a look at the six most common categories that UpContent Topics fall into. Then we select our favorite topics from each of those categories, and we share a preview of each of those topics on the Gallery. If we choose your topic we will reach out to let you know that you have been selected to appear in the Gallery.
 
