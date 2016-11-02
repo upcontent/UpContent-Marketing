@@ -17,7 +17,7 @@ Two months have passed since [our last product update](/post/august-product-upda
 
 ## Strut Your Stuff in the Topic Gallery
 
-{{<figure src="/images/gallery-final.gif" title="" alt="UpContent Topic Gallery" caption-top="false">}}
+{{<figure src="/images/topic-gallery-mockup.png" title="" alt="UpContent Topic Gallery" caption-top="false">}}
 
 UpContent users have created thousands of incredible topics across a broad range of subjects. We've been so impressed that we wanted to showcase some of our favorites! To that end, we created the [Topic Gallery](https://gallery.upcontent.com).
 
