@@ -11,7 +11,7 @@ category = "marketing"
 pinterest = "/images/sharing-topic.png"
 +++
 
-Have you noticed that it’s both an increasingly exciting and challenging time in the content marketing space? It seems like there are so many opportunities that manifest from publishing and curating content, but there are also so many more obstacles that make standing out and being original difficult. Believe us, *we hear you* because we’re in the struggle, too. But we’re pretty excited to share that there is an area of content curation that is largely untapped and could be a big differentiator for thought leaders.
+Have you noticed that it’s both an increasingly exciting and challenging time in the content marketing space? It seems like there are so many opportunities that manifest from publishing and curating content, but there are also [so many more obstacles that make standing out and being original difficult](/post/everyone-has-influence). Believe us, *we hear you* because we’re in the struggle, too. But we’re pretty excited to share that there is an area of content curation that is largely untapped and could be a big differentiator for thought leaders.
 
 We recently announced the release of a lot of really exciting UpContent features, including [the ability to share topics](https://upcontent.com/post/introducing-upcontent-2/). Now our users can share their UpContent results with their networks, friends, and colleagues, opening up the doors to collaboration as well as providing a transparent look into the topics that matter most to you as an influencer.
 
@@ -30,7 +30,10 @@ So you have an UpContent account and you’re ready to be generous and share the
 
 ### Create a strong topic.
 
-First and foremost, you’ll want to make sure your topic is even worth sharing with your network. Start by creating a topic with specific and relevant keywords and phrases to make sure you’re receiving the best results possible. Not sure if your topic is up to par? [Read this guide to creating an effective UpContent topic](https://upcontent.com/post/how-to-create-an-effective-upcontent-topic/) and make any tweaks as necessary.
+First and foremost, you’ll want to make sure your topic is even worth sharing with your network. Start by creating a topic with specific and relevant keywords and phrases to make sure you’re receiving the best results possible. Not sure if your topic is up to par? [Read this guide to creating an effective UpContent topic](https://upcontent.com/post/how-to-create-an-effective-upcontent-topic/) and make any tweaks as necessary. If you want a step-by-step walk through on how to use the Query Builder, check out the tutorial video below:
+
+<div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/mm627h4ku1?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
 **Tip:** Remember to give your topic a recognizable name because that topic name will be visible to anyone who views, bookmarks, or duplicates your topic.
 
@@ -52,7 +55,7 @@ A great way to get interested eyes on your UpContent topic is by sharing content
 
 For example, on Twitter, you can see trending hashtags when you click on Home, Moments, or Notifications on desktop and under the search bar on mobile. On Facebook, trending content will appear on the right-hand side of your newsfeed on desktop and under the search bar on mobile.
 
-Community Elf SEM/Marketing Specialist, [Maggie Franz](https://twitter.com/M2Franz), found a great opportunity to share her love for books and capture the attention of other bibliophiles on Lewis Carroll’s birthday in January. She organically shared the carefully curated topic in the middle of a Twitter conversation about the author, who was already trending on the platform! Brilliantly done and well-received!
+Idea Hunt's Director of Community Growth Management, [Maggie Franz](https://twitter.com/M2Franz), found a great opportunity to share her love for books and capture the attention of other bibliophiles on Lewis Carroll’s birthday in January. She organically shared the carefully curated topic in the middle of a Twitter conversation about the author, who was already trending on the platform! Brilliantly done and well-received!
 
 {{<figure src="/images/maggie-convo.png" title="" alt="Maggie's Conversation" caption-top="false">}}
 
@@ -82,7 +85,7 @@ Here he was able to establish his credibility and offer a helpful resource to hi
 
 ## Collaborate with your team.
 
-As you might have read from [our story](https://upcontent.com/about/), we are fortunate to have a team of in-house beta testers at Community Elf who use UpContent to curate their client’s social media feeds. Often times, these account managers work on the same or similar clients so the ability to share topics is invaluable to their efficiency.
+As you might have read from [our story](https://upcontent.com/about/), we are fortunate to have a team of in-house beta testers at [Community Elf](http://communityelf.com) who use UpContent to curate their client’s social media feeds. Often times, these account managers work on the same or similar clients so the ability to share topics is invaluable to their efficiency.
 
 We recommend using shared topics amongst your team members to eliminate the need to recreate similar topics and to gain new perspective with different keywords and phrases than you might have used. Remember, you can bookmark as many topics as you want! If you want to make any changes to the topic or favorite and delete any of the suggestions, you can duplicate it to add to your number of topics.
 
@@ -97,7 +100,7 @@ As one might expect, the UpContent team creates many topics for both professiona
 Just because New Year’s is long gone doesn’t mean you have to give up on your fitness resolutions. Get inspired with [#TheFitLife](https://my.upcontent.com/tools/suggestions/5cc18042-ab03-4a33-a63a-5477614e26e4?filter=all&time=30&sort=relevance) and get moving! - Kyle, Lead Product Designer
 
 
-For all of you Potterheads out there, here’s a great [Harry Potter topic](https://my.upcontent.com/tools/suggestions/0726e760-2f4f-4d13-8294-4da13a6830d2?filter=all&time=30&sort=relevance#4be6d392-76ca-4a48-b797-5ade0e88f7f4) for you! From J.K. Rowling’s epic Twitter battles to the latest news on Fantastic Beasts and Where to Find Them, there’s plenty to geek out over. - Marissa, Growth Manager
+For all of you Potterheads out there, here’s a great [Harry Potter topic](https://my.upcontent.com/tools/suggestions/0726e760-2f4f-4d13-8294-4da13a6830d2?filter=all&time=30&sort=relevance#4be6d392-76ca-4a48-b797-5ade0e88f7f4) for you! From J.K. Rowling’s epic Twitter battles to the latest news on Fantastic Beasts and Where to Find Them, there’s plenty to geek out over. - Marissa, Director of Marketing and Community Engagement
 
 Thinking about getting a tattoo but don’t know where to start? There’s endless inspiration in this [Tattoo topic](https://my.upcontent.com/tools/suggestions/5ac9c8f5-0148-4318-ba16-38a31b264995?filter=all&time=30&sort=relevance#80678b40-fcde-43bd-a79f-ba7ebfcb636d). - Yvette, Front-End Developer
 
@@ -111,6 +114,8 @@ If you’re anything like us, you probably nerd out over all things marketing te
 
 
 We’re in the heart of election season and UpContent is the perfect tool to help you keep track of it all. Our Data Scientist curated this comprehensive [2016 Election Data and Polls topic](https://my.upcontent.com/tools/suggestions/2dacd6b5-5ef5-4bd1-a3a5-edebeb1d8148?filter=all&time=30&sort=relevance) to makes sure he is an informed voter. - Kevin, Data Scientist
+
+You can also check out the latest and greatest from our Curated Community by checking out the [Topic Gallery](https://gallery.upcontent.com)!
 
 Don’t forget, you can bookmark any of these topics and come back to them any time! Simply click the bookmark icon next to the topic on the left-hand side of your navigation.
 

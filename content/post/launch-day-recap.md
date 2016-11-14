@@ -15,6 +15,8 @@ It’s no surprise that a lot goes into launching a product. Even though it may 
 
 Back in January, we released a suite of [new UpContent features](https://upcontent.com/post/introducing-upcontent-2/) that we are thrilled about (and, frankly, relieved to see completed): the creation of user profiles, the ability to share topics, the addition of the relevance graph view, and the update to our influence filter. This group of features may seem like a short list in the grand scheme of product features, but it was the first massive undertaking we experienced after our initial stand-alone application launch in June 2015. Planning, developing, marketing, and executing these features was a true learning experience for our entire team and we’d like to share our story with you.
 
+**Related**: [Announcing the UpContent for Hootsuite Content Source Integration](/post/hootsuite-integration)
+
 ## Deciding Which Features to Build
 
 Identifying the elements to build within a product is more involved than a simple brainstorming session-- it requires research and feedback from users in order to make an informed and smart decision. Last year, our team sat down with several different marketing agencies in the Pittsburgh area and asked content marketers what they liked and what they wanted to see more of in UpContent. We also met with our team of in-house beta testers to gather more details about their day-to-day use of the product and what could be more helpful. This invaluable feedback led us to answer questions our users had, such as “How do we know the the influence sorting filter is ranking the most influential sites highest?” or “How can I find out what additional keywords make up my topic?”
@@ -29,7 +31,7 @@ Once we had a general idea of what features were to be developed, how they worke
 
 First, we decided on a launch date. With the end-of-the-year holidays, we knew we would want to wait until January to push the features live (and we’re glad we waited!). With a deadline in place, I began to form a loose timeline of all of the content that would need to be created and published prior to launch. This included blog posts, email newsletters, social media posts, website and advertising copy, and survey questions.  
 
-Additionally, we wanted to include videos to introduce all of our new features, so that meant writing scripts and recording multiple screencasts and audio. It was crucial for me to have all of my due dates written out so I could then break down each piece of content into smaller, more manageable chunks and set these task deadlines (both for myself as well as for our product designer, Kyle) to stay on track.
+Additionally, we wanted to include videos to introduce all of our new features, so that meant writing scripts and recording multiple screencasts and audio. It was crucial for me to have all of my due dates written out so I could then break down each piece of content into smaller, more manageable chunks and set these task deadlines (both for myself as well as for our product designer, [Kyle](/post/design-interview)) to stay on track.
 
 Though using a project management tool like [Asana](http://asana.com) would have been helpful (especially if I had multiple people working on content), I kept things simple and wrote out my to do list in a Google Doc by date and crossed out things I accomplished as they were completed. This way, I was able to keep a frame of reference as to what still needed done and what I needed to prioritize.
 
@@ -75,7 +77,7 @@ Soon we were contacting our friends at [Buffer](http://buffer.com) and [Sniply](
 
 {{<figure src="/images/giveaway-winnings.png" title="" alt="Giveaway Winnings" caption-top="false">}}
 
-Together, these three tools create the perfect workflow for any content marketer or blogger: discover high-quality, relevant content through UpContent, schedule this curated content through Buffer, and then add a quick call-to-action back to your site through Sniply. All three of these platforms work seamlessly together, making it an obvious choice for us and for our targeted audience. It was also high-value enough to make it a worthwhile giveaway for people to enter.
+Together, [these three tools](/post/essential-tools-to-manage-our-startup) create the perfect workflow for any content marketer or blogger: discover high-quality, relevant content through UpContent, schedule this curated content through Buffer, and then add a quick call-to-action back to your site through Sniply. All three of these platforms work seamlessly together, making it an obvious choice for us and for our targeted audience. It was also high-value enough to make it a worthwhile giveaway for people to enter.
 
 We provided two opportunities to enter the giveaway:
 

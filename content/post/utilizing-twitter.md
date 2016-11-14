@@ -18,7 +18,7 @@ Because most of UpContent’s users *live* on Twitter, we knew that we needed to
 
 {{<figure src="/images/twitter-analytics.png" title="" alt="UpContent Twitter Analytics" caption-top="false">}}
 
-While these numbers are very exciting and we have celebrated many mini milestones, for us, it’s not just about the number of followers. Through our Twitter efforts, We have also built relationships with a few potential integration partners, onboarded new paid customers, gained really useful feedback on product features, and gathered some fantastic testimonials that will serve us far into the future.
+While these numbers are very exciting and we have celebrated many mini milestones, for us, it’s not just about the number of followers. Through our Twitter efforts, we have also built relationships with a few potential integration partners, onboarded new paid customers, gained really useful feedback on product features, and gathered some fantastic testimonials that will serve us far into the future.
 
 Clearly, Twitter is one of the most useful tools in our arsenal. In this post, we’d like to break down our strategy in hopes that it can help you:
 
@@ -28,7 +28,7 @@ Clearly, Twitter is one of the most useful tools in our arsenal. In this post, w
 - **[Navigate Twitterchats to use your time wisely](#navigateTwitterChats)**
 - **[Use your brand voice consistently](#brandVoice)**
 
-## <a name="findThoseFollowers"></a> Find Those Followers 
+## <a name="findThoseFollowers"></a> Find Those Followers
 
 Having a strong Twitter following establishes social clout and gives you a larger audience to [influence and connect with](https://upcontent.com/post/everyone-has-influence/). While having a vast number of followers can certainly boost the ego, it means nothing if your audience does not engage with you. Engagement is your most important metric.
 
@@ -66,6 +66,8 @@ There are a few other free tools that can help assist you in managing your Twitt
 ## <a name="curateConversation"></a>Curate for Conversation
 
 You already know that your Twitter feed should be carefully curated with the best, most relevant content (with assistance from [UpContent](http://my.upcontent.com), of course). But have you considered how your curation can be used as an opportunity to anticipate or foster potential conversations? **Instead of treating your content sharing as an automated “set it and forget it” process, think of it as the chance to make organic conversations happen.**
+
+**Related**: [A More Efficient and Effective Way to Curate Content](/post/more-efficient-content-curation)
 
 Here are a few ways to create conversation through curation:
 
@@ -134,7 +136,7 @@ Have we convinced you to give Twitter chats a try yet? If you’re ready to give
 
 If you plan on participating in a Twitter chat, you will want to check out a few resources to save your sanity. Twitter chats move FAST, especially when there are a lot of participants. We recommend using a platform like [Tweetdeck](http://www.tweetdeck.com), [Hootsuite](http://www.hootsuite.com), or [Tweetchat](http://tweetchat.com/) where you can input the hashtag and watch the feed live. We also like to keep another tab open with the host’s Twitter profile open because sometimes the questions can get lost in the live feed. That way we’re always replying to questions in a timely fashion, while maintaining our side conversations in Tweetdeck.
 
-Buffer shared some advantageous tips and tricks on [navigating through a Twitter chat](https://blog.bufferapp.com/twitter-chat-101), but our biggest tip to share is to focus on making connections with 1-3 people throughout the chat; otherwise, you’ll spread yourself too thin.
+We shared some advantageous tips and tricks on [navigating through a Twitter chat](/post/twitter-chat-strategy), but our biggest tip to share is to focus on making connections with 1-3 people throughout the chat; otherwise, you’ll spread yourself too thin.
 
 ## <a name="brandVoice"></a> Use Your Voice
 

@@ -26,7 +26,7 @@ Knowing this, it’s no surprise that curation is defined as “to select, organ
 
 The key here is choosing the best, most-relevant content that connect with you and your niche and with one another and then adding your own commentary--your point of view--in the sharing process. Choosing content that seems interesting and then just hitting tweet or post only contributes to the noise; being intentional and contributing your voice alongside the content positions you as an niche expert or go-to thought leader.
 
-Centerline Digital did an excellent job recapping content curation quickly, highlighting how the presentation of the material is what really delivers meaning to your audience.
+[Centerline Digital](http://www.centerline.net/) did an excellent job recapping content curation quickly, highlighting how the presentation of the material is what really delivers meaning to your audience.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/8Qzgj7Mk8As" frameborder="0" allowfullscreen></iframe>
 
@@ -70,9 +70,11 @@ Chances are you already follow individuals or brands who are generating high-qua
 
 If you prefer to pick and choose your own sources and want to compile them into one place, add their RSS feeds to an RSS Reader like Feedly. You’ll still have to click into each article, but you can share directly to social media or add them to your Buffer, Hootsuite, and more. This allows you to look at only the sources you already know and trust and stay on top of the content they are producing.
 
-### Use a product designed specifically for curation.
+### Use a product designed specifically for discovery and curation.
 
-Often times, Google searches provide only broad results or content suggestions that have great SEO thanks to virality. Even more likely, the content shared on social media has probably already been shared many times across your network. Using a content discovery tool like UpContent will eliminate this endless scrolling and resharing of already-viral content. With multiple search queries per topic, you can get exactly the kind of content you’re looking for from the most pertinent and authoritative sources in your niche. You can even sort your results by relevance, recency, shareability, and influence and find out what subtopics fall underneath your main topic. Your results can then be shared directly or added to Buffer. (If you prefer Hootsuite, you can [add an UpContent as a content source](https://upcontent.com/post/hootsuite-integration/) as well.) Like the results you’re getting? You can [share your topic](https://upcontent.com/post/sharing-topics-strategy/) with your network, too, so they can see the content you’re loving most.
+Often times, Google searches provide only broad results or content suggestions that have great SEO thanks to virality. Even more likely, the content shared on social media has probably already been shared many times across your network. Using a content discovery tool like UpContent will eliminate this endless scrolling and resharing of already-viral content. With multiple search queries per topic, you can get exactly the kind of content you’re looking for from the most pertinent and authoritative sources in your niche. You can even sort your results by relevance, recency, shareability, and influence and find out what subtopics fall underneath your main topic. Your results can then be shared directly or [added to Buffer](https://upcontent.com/post/how-to-curate-for-buffer/) or [Hootsuite](https://upcontent.com/post/hootsuite-integration/).
+
+Like the results you’re getting? You can [share your topic](https://upcontent.com/post/sharing-topics-strategy/) with your network, too, so they can see the content you’re loving most.
 
 {{<figure src="/images/hootsuite-suggestions-screen.png" title="" alt="Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals" caption-top="false">}}
 

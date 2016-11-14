@@ -84,6 +84,8 @@ Example: Enclosing “Pittsburgh Pirates” in quotation marks will yield specif
 
 Example: Hybrid cars AND (Toyota OR Honda) will result in suggestions on Toyota hybrid cars and Honda hybrid cars.
 
+Now that you've created a topic, l[earn more about how you can incorporate sharing that topic in your marketing strategy](/post/sharing-topics-strategy)!
+
 #### Still feeling like topic creation is best left for your in-laws? Drop us a note, we are happy to help get you on the path to recovery.
 
 

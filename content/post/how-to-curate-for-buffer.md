@@ -19,7 +19,7 @@ Below, you can find a screencast of the process from start to finish, including 
 <div class="wistia_responsive_padding" style="padding:51.4% 0 0 0;position:relative; margin-bottom:80px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/y3kpbbwhgk?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
 
-
+**Related:** [Essential Tools to Manage Our Technology Startup](/post/essential-tools-to-manage-our-startup)
 
 ## Where I Find Articles and Blog Posts to Curate for Social Media
 
@@ -71,5 +71,7 @@ After I’ve read and evaluated the content, I personally like to “favorite”
 ## Rinse and Repeat
 
 That’s it! I simply repeat this process for all of my topics and my Buffer queue is filled up in no time. This process has eliminated my content discovery process significantly, so I can spend more time engaging on our Twitter feed, writing original content, or working hard on improving UpContent with the team.
+
+[Sign up to start sending content to your Buffer queue](http://upcontent.com/signup).
 
 **We’d love to hear what YOUR curation process with UpContent is like!** Shoot us an email at info@upcontent.com and maybe we’ll get to feature you in the future.

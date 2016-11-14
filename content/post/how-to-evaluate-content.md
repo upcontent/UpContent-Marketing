@@ -15,6 +15,8 @@ If you curate and share content to social media, you'll likely know there's a to
 
 Like a gold prospector, it's your job to sift through the rocks (bad content) to find the bright, gleaming, glorious gold (great content). In content marketing terms, it's all about finding the articles that'll boost your following and industry influence.
 
+**Related**: [A More Efficient and Effective Way to Curate Content](/post/more-efficient-content-curation)
+
 ![UpContent Finding The Gold](https://contentacle.ghost.io/content/images/2016/02/N9EiCi2tSl.jpeg)
 
 ## Why Bother Sharing Content to Social Media?
