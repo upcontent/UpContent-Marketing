@@ -36,6 +36,8 @@ Since the goal is to keep PDMA as a go-to authority for others, curating content
 
 Some of Jim’s favorite features include the ability to create multiple search queries to really hone in on the specific content he’s looking for--a perk that makes choosing articles and blog posts for particular themes a lot easier. He also really enjoys the card layout and the visualizations within the relevance and influence graphs--something he’s hoping to explore more moving further.
 
+**Related:** [Meet Clementine Holman, a BuzzSumo to UpContent convert](https://upcontent.com/post/buzzsumo-alternative/)
+
 We love feedback of all kinds from our users so we asked Jim what he would like to see in UpContent in the future. He shared that he would love the ability to sort by a specific influencer--to view content by a particular source in that niche. We think that’s a great suggestion and we hope to offer even more flexibility within our sorting filters in the future.
 
 Agree with Jim or have an idea for UpContent? We want to hear it!

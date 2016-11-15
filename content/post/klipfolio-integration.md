@@ -47,3 +47,5 @@ You can also add a custom Klip with any of your own UpContent topics to your Kli
 And enjoy!
 
 We highly recommend you check out the other amazing dashboards you can build in Klipfolio. We’re loving the [Content Effectiveness dashboard](https://app.klipfolio.com/published/3fdff8ff435fba761c4d8721642630c8/content-marketing-dashboard), inspired by and built with help from Andy Crestodina. What dashboards are you using to track your metrics?
+
+You might also like: [UpContent for Hootsuite Content Source Integration](https://upcontent.com/post/hootsuite-integration/)

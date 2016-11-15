@@ -14,18 +14,18 @@ pinterest = "/images/hootsuite-integration.png"
 
 We’re thrilled to announce the launch of UpContent for Hootsuite content source! With this new integration, we help to address the soul-sucking challenge that marketers worldwide endure in their relentless [pursuit of engaging and relevant content](https://upcontent.com/post/5-reasons-you-need-content-curation/) to take immediate action--driving more meaningful conversations.  HOORAY!
 
-
-
 At times like these it is important to take a step back and reflect on how we arrived at this point. Thinking back to [the genesis of UpContent](https://upcontent.com/post/navigating-the-foundation-stage/) in 2013 (which, at the time, wasn’t enough of a thought to even warrant a name) as a way to assist our account managers who provided content marketing as a managed service and became frustrated at how much time it was taking to identify great, third party, content. This waste amounted to nearly 20% of each individual’s day--just looking for great information to share!
 
 ### The Real Problem with Content Discovery
 
 Our small team took up the torch to “find a better way” and, through countless focus groups, conjoint surveys, user discussions, and expert interviews, came to the following core realizations about content discovery:
 
-- It needs to be active - Relying on the customer or the use of an unnamed expert in some distant land to find the best information for a variety of niche topics is fundamentally flawed with bias. This need was particularly acute for agency and professional services environments where there is the need to quickly develop, and act upon, a base of knowledge across multiple industries.
-- It needs to be dynamic - The [criteria for the “right content”](https://upcontent.com/post/how-to-evaluate-content/) to be used changes based upon the post’s intent and audience. For this reason, we needed to ensure that the content returned can be sorted by the main criterion used by marketing professionals: relevance, recency, shareability, and influence.
-- It needs to be comprehensive - Being yet another place to look for great content is of little value. We were in a game of “winner takes all” and needed to ensure that the technology would achieve a similar level of coverage to today’s leading search engines. Otherwise, the risk of change was too great and manual methods of search engine email digests, bookmarks, and manual lists of websites to check would reign forever!
-- It needs to be fast,easy, and actionable - All things considered, the greatest benefit of something new is saving time searching and spending time taking action. For that reason we needed to ensure that not only the act of identifying which content was best, but also the process of getting it posted to the appropriate platform was seamless - inserting your brand into the conversation, or sparking a new discussion, at the optimal time.
+- **It needs to be active** - Relying on the customer or the use of an unnamed expert in some distant land to find the best information for a variety of niche topics is fundamentally flawed with bias. This need was particularly acute for agency and professional services environments where there is the need to quickly develop, and act upon, a base of knowledge across multiple industries.
+- **It needs to be dynamic** - The [criteria for the “right content”](https://upcontent.com/post/how-to-evaluate-content/) to be used changes based upon the post’s intent and audience. For this reason, we needed to ensure that the content returned can be sorted by the main criterion used by marketing professionals: relevance, recency, shareability, and influence.
+- **It needs to be comprehensive** - Being yet another place to look for great content is of little value. We were in a game of “winner takes all” and needed to ensure that the technology would achieve a similar level of coverage to today’s leading search engines. Otherwise, the risk of change was too great and manual methods of search engine email digests, bookmarks, and manual lists of websites to check would reign forever!
+- **It needs to be fast, easy, and actionable** - All things considered, the greatest benefit of something new is saving time searching and spending time taking action. For that reason we needed to ensure that not only the act of identifying which content was best, but also the process of getting it posted to the appropriate platform was seamless - inserting your brand into the conversation, or sparking a new discussion, at the optimal time.
+
+**Related:** [9 Ways Curated Content Helps You Meet Your S.M.A.R.T. Goals](https://upcontent.com/post/9-ways-curated-content-helps-achieve-smart-goals/)
 
 ### UpContent’s First Love: Hootsuite
 In early 2015, we assessed the current ecosystem of marketing technologies and determined the most expedient path to validating the greater value of UpContent was to become an engine for content discovery--rather than trying the be another full-service technology. We firmly believe that we should stick with what we’re good at and integrate UpContent within a larger, established, platform in which (1) our target customers already spend a large amount of their time, and (2) the issue of finding great content is most acute.
@@ -33,6 +33,8 @@ In early 2015, we assessed the current ecosystem of marketing technologies and d
 After evaluating a number of options, Hootsuite’s ecosystem, culture, and technology appeared to be a great fit. Working closely with the Hootsuite team, UpContent launched as a stream within the Hootsuite platform in March 2015.
 
 {{<figure src="/images/upcontent-stream.png" title="" alt="UpContent Stream in Hootsuite" caption-top="false">}}
+
+P.S. We recently sponsored Connect via Hootsuite, the world's largest virtual social media conference! [Check out the recap](https://upcontent.com/post/connect-via-hootsuite-recap/).
 
 ### Our Work Was Far From Over
 

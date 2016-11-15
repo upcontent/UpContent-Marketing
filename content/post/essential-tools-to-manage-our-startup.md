@@ -26,9 +26,9 @@ Are we missing anything? Be sure to let us know what tools you love and use!
 
 ### Automation
 
-[Buffer](http://buffer.com) is often our go-to choice for social media automation for its simplicity and beautiful interface. We love that it syncs seamlessly with our tool, UpContent, and that it is widely accepted among other tools. The Buffer team alone would make us want to use it, but the tool itself is incredibly useful and well-designed.
+[Buffer](http://buffer.com) is often [our go-to choice for social media automation](https://upcontent.com/post/how-to-curate-for-buffer/) for its simplicity and beautiful interface. We love that it syncs seamlessly with our tool, UpContent, and that it is widely accepted among other tools. The Buffer team alone would make us want to use it, but the tool itself is incredibly useful and well-designed.
 
-We will always be partial to [Hootsuite](http://hootsuite.com) since that’s where we were born! Bias aside, we love Hootsuite for its robust set of features and the ability to access apps specifically designed to work in conjunction with the platform. They seemed to have thought of everything any social media manager would need from pre-written responses to enhanced analytics. The stream layout makes it easy to keep track of everything going on at one time.
+We will always be partial to [Hootsuite](http://hootsuite.com) since that’s where we were born! Bias aside, we love Hootsuite for its robust set of features and the ability to access apps specifically designed to work in conjunction with the platform. They seemed to have thought of everything any social media manager would need from pre-written responses to enhanced analytics. The stream layout makes it easy to keep track of everything going on at one time. (Plus, [you can use UpContent right within the Hootsuite platform](https://upcontent.com/post/hootsuite-integration/)!)
 
 If you’re looking for a tool that can help you automatically fill up your queue with a variety of content, [Edgar](http://meetedgar.com) is an excellent choice. It’s a major time-saver to be able to utilize the RSS feed manager tool to automatically post the great content we’re finding in UpContent, thanks to our [sharing topics link](https://upcontent.com/post/sharing-topics-strategy/).
 

@@ -44,3 +44,7 @@ Our RSS feeds are getting an upgrade too! We've recently added [Media RSS](http:
 ## Stay Tuned
 
 In addition to the items mentioned above we have fixed many bugs, small and large. We have a lot planned for the rest of 2016 and even more on the roadmap for 2017! We can't wait to share what comes next!
+
+**Check out our past UpContent Product Updates:**
+
+[August 2016](/post/august-product-update/)

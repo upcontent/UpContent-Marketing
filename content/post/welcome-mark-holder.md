@@ -12,7 +12,7 @@ pinterest = "/images/marky.png"
 
 +++
 
-It is with great excitement that we introduce the newest member of our Board, Mark Holder. Mark’s extensive experience developing strategic partnerships and go-to-market strategies for startups makes him a natural fit to assist us in commercializing UpContent and continuing to grow Community Elf’s content marketing managed services.
+It is with great excitement that we introduce the newest member of our Board, [Mark Holder](https://twitter.com/theeholder). Mark’s extensive experience developing strategic partnerships and go-to-market strategies for startups makes him a natural fit to assist us in commercializing UpContent and continuing to grow Community Elf’s content marketing managed services.
 
 Originally from Southern California, Mark currently resides in Victoria, British Columbia with his family. Mark recently joined [Checkfront](http://www.checkfront.com), a leading online booking platform, as VP Partnerships & Growth, and is active in the Victoria startup community through [VIATEC](https://www.viatec.ca), an association dedicated to serving innovators and entrepreneurs.
 
@@ -23,6 +23,8 @@ Mark started his career working in a brand marketing capacity for Sole Technolog
 Not long after, Mark met the CEO of [Hootsuite](http://hootsuite.com) and they discussed his vision for enabling third parties to build applications for the Hootsuite platform. Mark’s background and enthusiasm made him an ideal leader to take on this role, so he spent the last 5.5 years building the [App Directory](http://appdirectory.hootsuite.com), a platform that now hosts over 160 applications, [including UpContent](http://appdirectory.hootsuite.com/185/upcontent). His work with the App Directory, and the partnerships that were formed as a result, has been enormously impactful to Hootsuite’s Enterprise business.
 
 In fact, it was through the Hootsuite App Directory that we first connected with Mark. At the time, Hootsuite was discussing the importance of curated content, especially when it came to social media, how to understand what was being said about a particular topic, and then how to leverage that content to promote a brand. It was the combination of not only finding this content but also the distribution of this content that Hootsuite found particularly appealing about adding UpContent to their App Directory. With our content discovery platform and Hootsuite’s social media management system, it seemed only natural for the two technologies to work in tandem.
+
+**Related:** [Announcing the UpContent for Hootsuite Content Source Integration](https://upcontent.com/post/hootsuite-integration/)
 
 In his role at Hootsuite, Mark spent a great deal of time around various marketing technologies, but believes there is something particularly unique about UpContent: “When I look at how companies are typically listening on social, it’s generally a support use case, addressing customer issues and complaints. These messages typically have negative sentiment, and it’s critical to get in front of those issues before they snowball and become damaging to a brand. Whereas, with UpContent, I see an opportunity for marketers and PR professionals to leverage the positive things that are being said about a brand, to build community and advocacy around a given brand or product story.” He felt that, while some competitors were attempting to include features that did this, they were not fulfilling that need completely.
 

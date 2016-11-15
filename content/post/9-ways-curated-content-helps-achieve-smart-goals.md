@@ -16,10 +16,14 @@ We’re big into curating content around these parts, in case you haven’t noti
 
 Before you start sharing random content, it’s important to create an intentional content curation strategy that will help you establish goals that measure the success of your efforts. Remember, these goals should be S.M.A.R.T.: Specific, Measureable, Achievable, Realistic, and Time-Bound.
 
+Here's a guide that can help you map out these goals:
+
 <script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=5"></script>
 
 
 Once you’ve settled on your goals, then you can apply that lens to your [discovery process](https://upcontent.com/post/how-to-evaluate-content/), focusing only on curating specific content that will help you achieve these goals.
+
+**Related:** [A More Efficient and Effective Way to Curate Content](https://upcontent.com/post/more-efficient-content-curation/)
 
 With such a variety of content available, it can be difficult to identify which types of content will best support your strategy. Below, you’ll find suggested content--both original and outside sources--that will help you achieve some of the most common major content curation goals. This “template” will serve as a starting point to make your curation process flow quickly and effectively.
 
@@ -27,7 +31,7 @@ With such a variety of content available, it can be difficult to identify which 
 
 ### If your goal is to sell a new product or service/increase site traffic, you should curate:
 
-1. **Content from thought leaders that address the problem(s) you are attempting to solve with your product/service.** Not only does this demonstrate that you are a go-to expert in the industry, but it also invites your audience into the “Awareness” stage of [the Buyer’s Journey](http://blog.hubspot.com/sales/the-new-buyers-journey)
+1. **Content from thought leaders that address the problem(s) you are attempting to solve with your product/service.** Not only does this demonstrate that you are a go-to expert in the industry, but it also invites your audience into the “Awareness” stage of [the Buyer’s Journey](http://blog.hubspot.com/sales/the-new-buyers-journey).
 
 2. **Original content that speaks to and explains your product/service.** Naturally, you will want to balance out your curated content with product-specific content that shows your audience how your product solves a problem they have. This also helps to move your audience into the second stage of the Buyer’s Journey, ”Consideration,” where they will begin to consider choosing your product or service over others.
 
@@ -41,9 +45,11 @@ With such a variety of content available, it can be difficult to identify which 
 
 3. **Shareable media.** If the article or blog post includes videos, gifs, pictures, or a striking quote, it’s more likely to be shared. Boost the volume of this shareworthy content to see an increase in impressions and reactions.
 
+For an simple workflow, start [curating content for Buffer using UpContent](https://upcontent.com/post/how-to-curate-for-buffer/).
+
 ### If your goal is to increase social media followers, you should curate:
 
-1. **Industry influencer content.** Sharing content from industry experts not only provides value to your audience, but it helps to establish relationships with valued influencers. These influencers may return the favor and share your content with their audiences, enticing them to follow you as well.
+1. **Industry influencer content.** Sharing content from industry experts not only provides value to your audience, but it helps to establish relationships with valued influencers. These influencers may return the favor and share your content with their audiences, enticing them to follow you as well. **Related:** [Everyone Has Influence: How to Stand Out in a Social Media World](https://upcontent.com/post/everyone-has-influence/)
 
 2. **Original content that provides a unique angle.** With so much content out there these days, it can be tempting to just rephrase what the industry has already said. However, you should try your best to publish content that adds something new to the conversation. People will naturally gravitate toward content that provides a new perspective and stands out.
 

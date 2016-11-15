@@ -78,7 +78,7 @@ Pay attention to current events and know the latest news in your niche. People a
 3. **Be consistent.**
 Consistency is KEY no matter what you do in life. With social media moving at such a quick pace, anyone can be forgotten easily. Unfortunately, there aren't any off days.
 
-Instead of reading and sharing viral content that everyone else has already posted, make content curation a priority, both for your own personal learning and for the benefit of others. Using tools like [UpContent](http://my.upcontent.com) will help you find the hidden gems of content that you care about most without having to scroll through endless pages of Google results.
+Instead of reading and sharing viral content that everyone else has already posted, [make content curation a priority](/post/more-efficient-content-curation), both for your own personal learning and for the benefit of others. Using tools like [UpContent](http://my.upcontent.com) will help you find the hidden gems of content that you care about most without having to scroll through endless pages of Google results.
 
 ### Make a commitment to continuous learning and networking.
 
@@ -90,7 +90,7 @@ Finding the right influencers can be difficult. If you are looking to expand you
 
 - Use your curation tools to find key thought leaders. For example, [creating a specific topic in UpContent](https://upcontent.com/post/how-to-create-an-effective-upcontent-topic/) will help you find the most relevant and shareable articles and blog posts in your niche. Pay close attention to the authors of your favorite suggestions, especially if you regularly consume and share from the same source. 
 
-- Search by keyword and/or hashtag. Read through the results to identify users who actively post great content and engage with their community. 
+- Search by keyword and/or hashtag or participate in an industry [Twitter chat](/post/twitter-chat-strategy). Read through the results to identify users who actively post great content and engage with their community. 
 
 Once you have settled on a small group of influencers to follow and learn from, take it one step further and engage with them. Building a relationship with the people you admire will not only increase the opportunities to learn, but it will also provide insight on the best ways to exercise your own influence on your audience.
 

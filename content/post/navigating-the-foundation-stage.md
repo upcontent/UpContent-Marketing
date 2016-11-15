@@ -44,10 +44,12 @@ As the Greek philosopher Aristotle teaches, there are three categories of persua
 
 Now that we have identified these differentiators, tightened our brand, and are working toward updates and redesigns, we’re gaining confidence and traction and it feels *great*.
 
+**Related**: [Read about updates to our relevance and influence filters](https://upcontent.com/post/introducing-upcontent-2/).
+
 ## What we’ve learned so far
 
 Sometimes when you are in the heart of the hustle, it can be difficult to see progress. The UpContent team is definitely moving full steam ahead through the end of December (and beyond) and, while it can be exhausting, we are starting to see the fruits of our labor. Our team took a brief moment to pause and reflect on what we’ve learned during this past sprint:
 
 {{<figure src="/images/stayingScrappy.png" title="" alt="Staying Scrappy" caption-top="false">}}
 
-Are you in the early stages of launching your product or are you going through a rebrand? [Send us a tweet](http://twitter.com/getupcontent) and let us know what you’ve learned!
+Check out the fruits of our labor with [a free UpContent account](/signup)!
