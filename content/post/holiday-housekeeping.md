@@ -13,13 +13,11 @@ pinterest = "/images/holiday-housekeeping-pinterest.png"
 +++
 
 
-<img src="/images/holiday-header.png" alt="Holiday Housekeeping" style="margin-bottom: 30px; margin-top: 0;">
-
 The holiday season is in full swing! Though this is certainly an exciting time for the spirit, it’s a bit of an awkward time of the year for work. Projects are starting to wind down, clients are too busy and distracted to return phone calls or make any real decisions, and you tend to have less energy to maintain the momentum you’ve carried all year long.
-
 
 But that doesn’t meant the holidays are a wash! There are a few different “housekeeping” tasks you can complete to get your brand ready for success in the new year and they don’t require a ton of energy and resources. It’s a win-win for both you and your boss!
 
+<img src="/images/holiday-header.png" alt="Holiday Housekeeping" style="margin-bottom: 30px; margin-top: 0;">
 
 Now, don’t feel like you need to tackle all of these projects before January 1st. Instead, choose the items that are most applicable to you and where your business goals are headed.
 
@@ -50,7 +48,7 @@ Audits are fantastic for identifying very specific items to add to your task lis
 ### Reflect, Brainstorm, and Set Goals
 
 
-So much of your year is spent doing, but how much time have you set aside to reflect and dream? Give yourself the gift of reflection this year by setting aside some time individually and as a team to reflect, brainstorm, and set new goals.
+So much of your year is spent *doing*, but how much time have you set aside to *reflect* and *dream?* Give yourself the gift of reflection this year by setting aside some time individually and as a team to reflect, brainstorm, and set new goals.
 
 {{<figure src="/images/reflection-icon.png" title="" alt="Reflection" caption-top="false">}}
 
@@ -110,7 +108,7 @@ These goals should not be limited to business outcomes and metrics; don’t forg
 Chances are you’ve been compiling a list of some “catch-up projects” all year long that you’d love to get to but just haven’t had the time to dedicate before. Whether you have a day or a week at your disposal, it’s the perfect time to crank them out.
 
 
-These catch-up projects can range from things like fixing bugs or broken links to updating your contact page to surveying your clients. You know what they are! Now get to it.
+These catch-up projects can range from things like fixing bugs or broken links to updating your contact page to surveying your clients. *You know what they are!* Now get to it.
 
 
 One of the best ways to make sure these projects get completed is by putting a time constriction on it. Use the [Pomodoro Technique](https://zapier.com/blog/best-pomodoro-apps/) or [time block your schedule](http://www.makeuseof.com/tag/time-blocking-secret-weapon-better-focus/) to maximize your available time so you can still get those other year-end responsibilities done.
