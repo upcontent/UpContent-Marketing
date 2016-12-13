@@ -1,27 +1,30 @@
++++
 Categories = []
 Description = ""
-Draft = false
 Tags = []
-date = "2016-11-16T13:23:16-04:00"
+date = "2016-11-28T13:23:16-04:00"
 title = "Holiday Housekeeping for Success in the New Year"
 Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/holiday-housekeeping-pinterest.png"
 
 +++
-The holiday season is in full swing! Though this is certainly an exciting time for the spirit, it’s a bit of an awkward time of the year for work. Projects are starting to wind down, clients are too busy and distracted to return phone calls or make any real decisions, and you tend to have less energy to maintain the momentum you’ve carried all year long.
 
+
+The holiday season is in full swing! Though this is certainly an exciting time for the spirit, it’s a bit of an awkward time of the year for work. Projects are starting to wind down, clients are too busy and distracted to return phone calls or make any real decisions, and you tend to have less energy to maintain the momentum you’ve carried all year long.
 
 But that doesn’t meant the holidays are a wash! There are a few different “housekeeping” tasks you can complete to get your brand ready for success in the new year and they don’t require a ton of energy and resources. It’s a win-win for both you and your boss!
 
+<img src="/images/holiday-header.png" alt="Holiday Housekeeping" style="margin-bottom: 30px; margin-top: 0;">
 
 Now, don’t feel like you need to tackle all of these projects before January 1st. Instead, choose the items that are most applicable to you and where your business goals are headed.
 
 
 ## Get Prepped for the New Year with Holiday “Housekeeping” Projects
 
+{{<figure src="/images/catchup-icon.png" title="" alt="Audits" caption-top="false">}}
 
 ### Audit
 
@@ -45,7 +48,9 @@ Audits are fantastic for identifying very specific items to add to your task lis
 ### Reflect, Brainstorm, and Set Goals
 
 
-So much of your year is spent doing, but how much time have you set aside to reflect and dream? Give yourself the gift of reflection this year by setting aside some time individually and as a team to reflect, brainstorm, and set new goals.
+So much of your year is spent *doing*, but how much time have you set aside to *reflect* and *dream?* Give yourself the gift of reflection this year by setting aside some time individually and as a team to reflect, brainstorm, and set new goals.
+
+{{<figure src="/images/reflection-icon.png" title="" alt="Reflection" caption-top="false">}}
 
 
 #### Reflection
@@ -64,6 +69,8 @@ It’s important to take a look back at specific projects and processes as well 
 One of the ways you can debrief as a team to go over these reflections to utilize a mini “mastermind” session: Each person shares a “win” (something that went well or something they are proud of), an area that needs growth, and an “ask” (something they could use help with or a new process to make it easier to get their job done). This provides an opportunity for open and honest discussion and hopefully results in some action items for every team member.
 
 
+{{<figure src="/images/brainstorming-icon.png" title="" alt="Brainstorming" caption-top="false">}}
+
 #### Brainstorming
 
 
@@ -79,6 +86,8 @@ If traditional brainstorming with a notebook or sticky note and pen or a whitebo
 Even if you don’t act on these ideas in the next quarter, concentrated and intentional brainstorming at the end of the year is always time well-spent.
 
 
+{{<figure src="/images/goal-icon.png" title="" alt="Goals" caption-top="false">}}
+
 #### Goal Setting
 
 
@@ -90,6 +99,8 @@ These goals should not be limited to business outcomes and metrics; don’t forg
 
 **Related:** [9 Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals](https://upcontent.com/post/9-ways-curated-content-helps-achieve-smart-goals/)
 
+{{<figure src="/images/audit-icon.png" title="" alt="Audits" caption-top="false">}}
+
 
 ### Catch-Up Projects
 
@@ -97,11 +108,12 @@ These goals should not be limited to business outcomes and metrics; don’t forg
 Chances are you’ve been compiling a list of some “catch-up projects” all year long that you’d love to get to but just haven’t had the time to dedicate before. Whether you have a day or a week at your disposal, it’s the perfect time to crank them out.
 
 
-These catch-up projects can range from things like fixing bugs or broken links to updating your contact page to surveying your clients. You know what they are! Now get to it.
+These catch-up projects can range from things like fixing bugs or broken links to updating your contact page to surveying your clients. *You know what they are!* Now get to it.
 
 
 One of the best ways to make sure these projects get completed is by putting a time constriction on it. Use the [Pomodoro Technique](https://zapier.com/blog/best-pomodoro-apps/) or [time block your schedule](http://www.makeuseof.com/tag/time-blocking-secret-weapon-better-focus/) to maximize your available time so you can still get those other year-end responsibilities done.
 
+{{<figure src="/images/learning-icon.png" title="" alt="Back to School" caption-top="false">}}
 
 ### Back to “School”
 
@@ -119,3 +131,6 @@ December may be a crazy time of year, but it doesn’t have to be a wash, nor do
 
 
 **Over to you:** What holiday housekeeping does your team do to take advantage of the slow season and set things up for the new year?
+
+
+<style>.blogpostings img, .blogpostings figure img { margin-bottom : 0; margin-top: 40px;}</style>

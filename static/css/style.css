@@ -465,7 +465,7 @@ header div.topHeader nav ul, #header div.topHeaderr nav ul{
 	font-weight: 700;
 	text-transform: uppercase;
 	font-size: 14px;
-	
+
 }
 
 header div.topHeader nav ul.subnav, #header div.topHeaderr nav ul.subnav{
@@ -670,7 +670,7 @@ p.testi em {
 }
 
 .pricing p{
-	width: 100%; 
+	width: 100%;
 	text-align: center;
 }
 
@@ -1342,14 +1342,14 @@ div.prelaunch-left {
 	text-align: right;
 }
 
-.prelaunch-right p.landing-nav a { 
+.prelaunch-right p.landing-nav a {
 	text-align: right;
 	border: none;
 	padding: 0;
 	margin: 10px 15px;
 }
 
-.prelaunch-right p.landing-nav a:hover { 
+.prelaunch-right p.landing-nav a:hover {
 	text-align: right;
 	border: none;
 	padding: 0;
@@ -1632,8 +1632,8 @@ div.prelaunch-left {
 	color: #B5B5B5 !important;
 }
 
-.features div p, 
-.featured-screen div p, 
+.features div p,
+.featured-screen div p,
 .featured-screen p{
 	text-align: center;
 	color: #2f2f2f;
@@ -1759,7 +1759,7 @@ width: 98%;
 .curation p, .why p{
 	width: 75%;
 	font-size: 18px;
-	line-height: 28px; 
+	line-height: 28px;
 }
 
 .why p{
@@ -1783,7 +1783,7 @@ width: 98%;
 }
 
 .purpose p, .purposes p{
-text-align: left !important; 
+text-align: left !important;
 line-height: 28px !important;
 }
 
@@ -1826,7 +1826,7 @@ input.buynow{
 }
 
 .cd-select .grey{
-	
+
 }
 
 figure.float-left {
@@ -1910,7 +1910,7 @@ figure.float-left img {
 	margin-right: 6px;
 }
 
-.bloglogo { 
+.bloglogo {
 	background: url('/images/logo-white.png');
 }
 
@@ -1966,7 +1966,7 @@ a.readmore{
 	font-size: 14px;
 }
 
-a.blog-cta { 
+a.blog-cta {
     color: #7755cd !important;
     text-transform: uppercase;
     font-size: 18px;
@@ -2092,7 +2092,7 @@ a.blog-cta {
   font-weight: normal;
   padding-bottom: 10px;
 
-  
+
 }
 
 .blogpostings ol li ol li {
@@ -2119,7 +2119,7 @@ a.blog-cta {
 	background: url('/images/delivery-icon.png') no-repeat;
 	padding-left: 65px;
 	min-height: 60px;
-} 
+}
 
 .blogpostings ol.color-list li:nth-child(2) {
 	color: #755987  ;
@@ -2337,7 +2337,7 @@ form button[type="submit"]{
 	margin-left: 30px;
 }
 
-.ourPurpose div ul li {
+.ourPurpose div ul li, .ourPurpose div ol li {
 	font-size: 18px;
 	line-height: 26px;
 	margin-bottom: 30px;
@@ -2349,7 +2349,7 @@ form button[type="submit"]{
 @media only screen and (max-width: 657px) {
 	header div.topHeader div.logo, #header div.topHeaderr div.logo{
 		padding-bottom: 20px;
-	} 
+	}
 
 }
 
