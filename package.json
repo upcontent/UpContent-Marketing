@@ -3,6 +3,10 @@
   "devDependencies": {
     "aws-sdk": "^2.2.17",
     "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-sass": "^3.0.0",
+    "node-sass": "^4.1.1",
     "through2": "^2.0.0",
     "vinyl-s3": "^0.3.0"
   },

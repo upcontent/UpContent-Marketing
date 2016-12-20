@@ -1,7 +1,9 @@
 var gulp = require('gulp'),
-    AWS = require('aws-sdk')
-    s3 = require('vinyl-s3')
-    through2 = require('through2');
+    AWS = require('aws-sdk'),
+    s3 = require('vinyl-s3'),
+    through2 = require('through2'),
+    sass = require('gulp-sass'),
+    autoprefixer = require('gulp-autoprefixer');
 
 credentials = new AWS.SharedIniFileCredentials({profile: 'upcontent'});
 
@@ -41,6 +43,28 @@ gulp.task('publish', function() {
                 }
             })
         );
+});
+
+var sassPaths = [
+  'static/bower_components/foundation-sites/scss',
+  'static/bower_components/motion-ui/src'
+];
+
+gulp.task('sass', function() {
+  return gulp.src('scss/app.scss')
+    .pipe(sass({
+      includePaths: sassPaths,
+      outputStyle: 'compressed' // if css compressed **file size**
+    })
+      .on('error', sass.logError))
+    .pipe(autoprefixer({
+      browsers: ['last 2 versions', 'ie >= 9']
+    }))
+    .pipe(gulp.dest('static/css'));
+});
+
+gulp.task('default', ['sass'], function() {
+  gulp.watch(['scss/**/*.scss'], ['sass']);
 });
 
 gulp.task('default', function() {
