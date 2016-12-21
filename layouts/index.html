@@ -8,12 +8,14 @@
 
         <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.css">-->
         <link rel="stylesheet" href="css/app.css">
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.js"></script>
-        <script src="js/app.js"></script>
+        <script src="https://use.typekit.net/zmq4sjh.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
     </head>
     <body>
+      <div class="reveal" id="exampleModal1" data-reveal>
+        <div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/re07tiat9c?videoFoam=true" title="Wistia video player" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+      </div>
         <!-- BEGIN HEADER -->
         <div class="header">
             <div class="topbar row small-12">
@@ -22,11 +24,12 @@
                 </div>
                 <nav class="small-12 medium-8 large-9 column">
                     <ul>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li class="signup"><a href="#">Sign Up</a></li>
+                        <li><a href="https://gallery.upcontent.com">Gallery</a></li>
+                        <li><a href="/pricing/">Pricing</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/post/">Blog</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+                        <li class="signup"><a href="https://my.upcontent.com/signup">Sign Up</a></li>
                     </ul>
                 </nav>
             </div>
@@ -34,9 +37,10 @@
                 <div class="small-12 large-7 column">
                     <h2>A content discovery tool that helps you drive new, more meaningful conversations</h2>
                     <p>Spend less time searching for and more time acting on tailored content to spark informed conversations with your audience--all while becoming a go-to expert in your niche.</p>
-                    <a class="" href="#">Start a 30-Day Trial</a><a class="play small-6 medium-5" href="#">Watch Video</a>
+                    <a href="https://my.upcontent.com/signup">Start a 30-Day Trial</a>
+                    <a data-open="exampleModal1" class="play small-6 medium-5 hide-for-small-only">Watch Video</a>
                 </div>
-                <div class="small-12 large-5 column">
+                <div class="small-12 large-5 column hide-for-small-only">
                     <img class="upcontentComputer" src="img/product-screen-shot-mac.png" alt="UpContent">
                 </div>
           </div>
@@ -44,36 +48,36 @@
         <!-- END HEADER -->
 
         <!--START MARKETING GOALS -->
-        <div class="marketing-goals">
+        <div class="marketing-goals" style="margin-top: 10%;">
             <div class="column small-12 large-12">
                 <h3 class="small-12">Meet Your Marketing Goals</h3>
                 <div class="small-12 row align-bottom" data-equalizer>
 
-                    <div class="small-6 large-2 column align-self-bottom" data-equalizer-watch>
+                    <div class="small-6 large-2 column align-self-bottom large-offset-1 goal" data-equalizer-watch>
                         <div class="align-bottom">
                             <a onclick="switchSlides('discover')"><img  src="img/discover-icon.png"><div>Discover</div></a>
                         </div>
                     </div>
 
-                    <div class="small-6 large-2 column align-bottom large-offset-1" data-equalizer-watch>
+                    <div class="small-6 large-2 column align-bottom goal" data-equalizer-watch>
                         <div>
                             <a onclick="switchSlides('streamline')"><img src="img/streamline-icon.png"><div>Streamline</div></a>
                         </div>
                     </div>
 
-                    <div class="small-6 large-2 column align-bottom large-offset-1" data-equalizer-watch>
+                    <div class="small-6 large-2 column align-bottom goal research" data-equalizer-watch>
                         <div>
                             <a onclick="switchSlides('research')"><img src="img/research-icon.png"><div>Research</p></div></a>
                         </div>
                     </div>
 
-                    <div class="small-6 large-2 column align-bottom large-offset-1" data-equalizer-watch>
+                    <div class="small-6 large-2 column align-bottom goal" data-equalizer-watch>
                         <div>
                             <a onclick="switchSlides('influence')"><img src="img/influence-icon.png"><div>Influence</div></a>
                         </div>
                     </div>
 
-                    <div class="small-6 large-2 column align-bottom end large-offset-1">
+                    <div class="small-6 large-2 column align-bottom end goal">
                         <a onclick="switchSlides('social')"><img src="img/social-icon.png"><div>Stay Social</div></a>
                     </div>
                 </div>
@@ -82,48 +86,48 @@
 
         <div class="marketing-goals goal-content">
             <div id="discover" class="panel row">
-                <div class="small-12 large-4 column">
-                    <h4>Discover Your Curation Process</h4>
-                    <p>Reduce your discovery time by X %. With only the content you care about, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface. </p>
+                <div class="small-12 large-5 column">
+                    <h4>Discover Great Content</h4>
+                    <p>Create a search topic and we’ll scour the internet for only the most relevant and interesting content and filter out all of the rest. Enjoy content that is tailored for you, not just what’s viral or already being shared online.</p>
                 </div>
-                <div class="small-12 large-8 column">
-                    <img src="#">
+                <div class="small-12 large-7 column">
+                    <img src="img/discover-great-content.png" alt="Discover Great Content">
                 </div>
             </div>
             <div id="streamline" class="panel row hidden">
-                <div class="small-12 large-4 column">
+                <div class="small-12 large-5 column">
                     <h4>Streamline Your Curation Process</h4>
-                    <p>Reduce your discovery time by X %. With only the content you care about, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface. </p>
+                    <p>Reduce your discovery time by over 65%. With only the content you care about available, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface.</p>
                 </div>
-                <div class="small-12 large-8 column">
-                    <img src="#">
+                <div class="small-12 large-7 column">
+                    <img src="img/streamline-your-process.png" alt="Streamline Your Curation Process">
                 </div>
             </div>
             <div id="research" class="panel row hidden">
-                <div class="small-12 large-4 column">
-                    <h4>Research Your Curation Process</h4>
-                    <p>Reduce your discovery time by X %. With only the content you care about, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface. </p>
+                <div class="small-12 large-5 column">
+                    <h4>Research to Inform Content Development</h4>
+                    <p>Keep a pulse on the conversations happening within your niche or industry to identify the areas where you can add your own insight and expertise and use results as supporting evidence in your own content creation.</p>
                 </div>
-                <div class="small-12 large-8 column">
-                    <img src="#">
+                <div class="small-12 large-7 column">
+                    <img src="img/research-to-inform.png" alt="Research to Inform Content Development">
                 </div>
             </div>
             <div id="influence" class="panel row hidden">
-                <div class="small-12 large-4 column">
-                    <h4>Influence Your Curation Process</h4>
-                    <p>Reduce your discovery time by X %. With only the content you care about, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface. </p>
+                <div class="small-12 large-5 column">
+                    <h4>Become a go-to influencer</h4>
+                    <p>Demonstrate your commitment to and knowledge of your audience by sharing your carefully curated results on social media and in your blog posts.</p>
                 </div>
-                <div class="small-12 large-8 column">
-                    <img src="#">
+                <div class="small-12 large-7 column">
+                    <img src="img/become-an-influencer.png" alt="Become a go-to influencer.">
                 </div>
             </div>
             <div id="social" class="panel row hidden">
-                <div class="small-12 large-4 column">
-                    <h4>Social Your Curation Process</h4>
-                    <p>Reduce your discovery time by X %. With only the content you care about, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface. </p>
+                <div class="small-12 large-5 column">
+                    <h4>Maintain an active online presence</h4>
+                    <p>Stay consistent and top-of-mind with a steady, purposeful stream of high-quality curated content, tailored just for your audience through your search topic.</p>
                 </div>
-                <div class="small-12 large-8 column">
-                    <img src="#">
+                <div class="small-12 large-7 column">
+                    <img src="img/active-online-presence.png" alt="Maintain an active online presence">
                 </div>
             </div>
         </div>
@@ -148,9 +152,9 @@
 
         <div class="takeback">
             <div class="row">
-                <div class="small-12 large-8 column">
+                <div class="small-12 large-12 column">
                     <h4>Take back your time and money</h4>
-                    <p>Marketers waste 700 million hours each year finding interesting and relevant content to share and use to engage with others. (This means $30 billion is spent just on content discovery efforts alone.) Yikes! By cutting down your content discovery and curation efforts by X %, UpContent will save you nearly three weeks per year. With all that free time, you might actually take advantage of your well-deserved vacation days! 😉</p>
+                    <p>Marketers waste 700 million hours each year finding interesting and relevant content to share and use to engage with others. (This means $30 billion is spent just on content discovery efforts alone.) Yikes! By cutting down your content discovery and curation efforts by over 65%, UpContent will save you nearly three weeks per year. With all that free time, you might actually take advantage of your well-deserved vacation days! 😉</p>
                 </div>
                 <!-- <div class="large-8 column small-12 column">
                     <img src="#">
@@ -165,7 +169,10 @@
         </div>
 
         <div class="who row">
-            <h4>The ideal content discovery tool for:</h4>
+            <div class="small-12 large-12">
+              <h4>The ideal content discovery tool for:</h4>
+            </div>
+
             <div class="small-12 medium-4 column text-center float-center">
                 <img src="img/marketer.png" alt="UpContent can help marketers achieve their marketing goals."><div><p>Marketers</p></div>
             </div>
@@ -192,60 +199,58 @@
 
         </div>
 
-        <div class="actions small-12 medium-6 row expanded small-collapse" data-equalizer>
+        <div class="actions action-top small-12 medium-6 row expanded small-collapse" data-equalizer>
             <div class="column">
                 <div class="action one" data-equalizer-watch>
-                    <a href="#"><h2>A More Efficient and Effective Way to Curate Content</h2><p>MARKETING</p></a>
+                    <a href="/post/common-misconceptions-about-content-curation/"><h2>9 Common Misconceptions about Content Curation</h2><p>MARKETING</p></a>
                 </div>
             </div>
             <div class="column">
                 <div class="action two" data-equalizer-watch>
-                    <a href="#"><h2>A More Efficient and Effective Way to Curate Content</h2><p>MARKETING</p></a>
+                    <a href="/post/hootsuite-integration/"><h2>Announcing UpContent Integration with Hootsuite as a Content Source</h2><p>BEHIND-THE-SCENES</p></a>
                 </div>
             </div>
         </div>
         <div class="actions small-12 medium-6 row expanded small-collapse" data-equalizer>
             <div class="column">
                 <div class="action three" data-equalizer-watch>
-                    <a href="#"><h2>A More Efficient and Effective Way to Curate Content</h2><p>MARKETING</p></a>
+                    <a href="/landing/ebook"><h2>A Guide to Building Your Content Curation Strategy</h2><p>eBOOK</p></a>
                 </div>
             </div>
             <div class="small-12 medium-6 column">
                 <div class="action four" data-equalizer-watch>
-                    <a href="#"><h2>A More Efficient and Effective Way to Curate Content</h2><p>MARKETING</p></a>
+                  <a href="https://calendly.com/upcontent/10-minute-session" target="_blank"><h2>Schedule a Demo with a Member of Our Team</h2><p>DEMO</p></a>
                 </div>
             </div>
         </div>
 
         <div class="trial row expanded">
             <div class="small-12 column">
-                <a href="#">Start a 30 day pro trial</a>
+                <a href="https://my.upcontent.com/signup">Start a 30 day pro trial <img src="img/arrow-blue-sm.png"  width="20" alt="Sign Up Today"></a>
             </div>
         </div>
 
         <div class="footer row expanded">
-            <div class="small-12 medium-6 large-3 column">
+            <div class="small-12 medium-6 large-11 column">
                 <span class="row small-12 expanded small-centered">
-                    <ul class="column small-5">
-                        <li><a href="#">Company</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Careers</a></li>
-                    </ul>
-
-                    <ul class="column end small-5">
-                        <li><a href="#">Press</a></li>
-                        <li><a href="#">Media Kit</a></li>
+                    <ul class="column small-12 large-10">
+                        <li><a href="https://gallery.upcontent.com">Gallery</a></li>
+                        <li><a href="/about/">Company</a></li>
+                        <li><a href="/pricing/">Pricing</a></li>
+                        <li><a href="/post/">Blog</a></li>
                     </ul>
                 </span>
             </div>
-            <div class="small-12 medium-6 column">
+            <div class="small-12 medium-6 large-1 column">
                 <div class="logo small-centered"></div>
             </div>
         </div>
-        <script src="bower_components/jquery/dist/jquery.js"></script>
+        <!-- <script src="bower_components/jquery/dist/jquery.js"></script>
         <script src="bower_components/what-input/what-input.js"></script>
         <script src="bower_components/foundation-sites/dist/foundation.js"></script>
+        <script src="js/app.js"></script> -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.js"></script>
         <script src="js/app.js"></script>
     </body>
 </html>
