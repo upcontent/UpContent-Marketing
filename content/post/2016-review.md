@@ -19,7 +19,7 @@ What a year for our world, our politics, our businesses, and our own personal an
 
 For our last blog post for 2016, we thought it would be fun to walk down memory lane and take a look back at how much has changed for UpContent over the past year and share a special message to all of you--our users and friends.
 
-[KYLE - GRAPHIC]
+<p style="text-align: center;"><img src="/images/ayearinreview.png" alt="Welcome 2017" style="margin-top: 50px;"></p>
 
 ## UpContent’s 2016 Timeline
 
@@ -38,6 +38,9 @@ After spending a good part of our year on integrations, we were anxious to get b
 This was also a year of dipping our toes into events, conferences, and sponsorships. Locally, we participated in [CREATE 2016](http://www.pghtech.org/events/create-festival.aspx) and the [Thrival](http://www.thrivalfestival.com/) festival. Externally, I attended the [Call to Action Conference](http://calltoactionconference.unbounce.com/) in Vancouver, hosted by Unbounce, and we also sponsored [#trending2016](http://nonprofitaustin.org/socialforum), a social media forum in Austin, TX. In October, we sponsored and presented at [Connect via Hootsuite](https://upcontent.com/post/connect-via-hootsuite-recap/), the world’s largest virtual social media conference--an experience that contributed to our most successful month of the year and one we continue to enjoy the benefits from! While sponsorships and events can be expensive and time consuming, often times they can be one of the best investments you’ll make. But, be selective! After some trial and error, we learned to be cognizant of the attendees and significance of our role at these kind of events so that we can be more intentional about opportunities that arise in the future.
 
 We’re closing out the year with an exciting project that we’ll announce in early 2017 (brought to us through purely listening to our customers), a fresh new look for our website, and, after some much needed time to rest, a renewed commitment to our users and partners.
+
+<p style="text-align: center;"><img src="/images/amsgforusers.png" alt="A Message For Our Users" style="margin-top: 50px;"></p>
+
 
 ## A Message for Our Users
 
