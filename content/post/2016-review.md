@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/yearinreviewpin.png"
 
 +++
 
