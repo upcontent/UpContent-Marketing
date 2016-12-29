@@ -140,6 +140,28 @@ a {
   text-decoration: none;
 }
 
+.header {
+    .menu-icon {
+        position: relative;
+        top: 50px;
+        left: 30px;
+
+    }
+}
+
+.off-canvas {
+    ul {
+        width: 100%;
+        margin: 0px;
+        li {
+            height: 75px;
+            width: 100%;
+            border: 1px solid black;
+            list-style: none;
+        }
+    }
+}
+
 .header .logo {
   color: white;
   text-indent: -9999px;
