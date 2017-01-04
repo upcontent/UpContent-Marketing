@@ -50,7 +50,7 @@ Each of our team members were given the opportunity to write down a message weâ€
 
 **Kevin**: We want UpContent to work for you and give you all the information you need to make decisions - don't hesitate to tell us how we can do that better!
 
-**Kyle**: Thank you all for being apart of our early journey, and I appreciate everyone that has enjoyed the UpContent experience. I am thankful to have users that give us honest feedback to learn/grow from, and I want to say that there is a bigger product to come. Stay tuned.
+**Kyle**: Thank you all for being a part of our early journey, and I appreciate everyone that has enjoyed the UpContent experience. I am thankful to have users that give us honest feedback to learn/grow from, and I want to say that there is a bigger product to come. Stay tuned.
 
 **Marissa**: I want to extend a huge thank you to our users and supporters for all of their kindness, patience, feedback, and tough love over the past year. We've come a long way and have so much further to go, but knowing that you find value in what we are doing is a huge motivator. I'm the lucky one who gets to communicate with these hardworking individuals on a regular basis and it's your enthusiasm that drives us every day.
 
