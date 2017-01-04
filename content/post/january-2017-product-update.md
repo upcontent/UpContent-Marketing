@@ -2,8 +2,8 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2016-12-28T13:23:16-04:00"
-title = "January 2016 Product Update: Faster Loading Speeds, Better Topic Creation, and Quality Cards"
+date = "2017-01-11T13:23:16-04:00"
+title = "January 2017 Product Update: Faster Loading Speeds, Better Topic Creation, and Quality Cards"
 Hero_image = ""
 author = "Adam Lucia"
 author_image = ""
