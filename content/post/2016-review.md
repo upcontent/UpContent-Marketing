@@ -8,7 +8,7 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Behind-the-Scenes"
-pinterest = ""
+pinterest = "/images/yearinreviewpin.png"
 
 +++
 
@@ -19,7 +19,7 @@ What a year for our world, our politics, our businesses, and our own personal an
 
 For our last blog post for 2016, we thought it would be fun to walk down memory lane and take a look back at how much has changed for UpContent over the past year and share a special message to all of you--our users and friends.
 
-[KYLE - GRAPHIC]
+<p style="text-align: center;"><img src="/images/ayearinreview.png" alt="Welcome 2017" style="margin-top: 50px;"></p>
 
 ## UpContent’s 2016 Timeline
 
@@ -39,6 +39,9 @@ This was also a year of dipping our toes into events, conferences, and sponsorsh
 
 We’re closing out the year with an exciting project that we’ll announce in early 2017 (brought to us through purely listening to our customers), a fresh new look for our website, and, after some much needed time to rest, a renewed commitment to our users and partners.
 
+<p style="text-align: center;"><img src="/images/amsgforusers.png" alt="A Message For Our Users" style="margin-top: 50px;"></p>
+
+
 ## A Message for Our Users
 
 Each of our team members were given the opportunity to write down a message we’d like to share with all of our users:
@@ -47,7 +50,7 @@ Each of our team members were given the opportunity to write down a message we�
 
 **Kevin**: We want UpContent to work for you and give you all the information you need to make decisions - don't hesitate to tell us how we can do that better!
 
-**Kyle**: Thank you all for being apart of our early journey, and I appreciate everyone that has enjoyed the UpContent experience. I am thankful to have users that give us honest feedback to learn/grow from, and I want to say that there is a bigger product to come. Stay tuned.
+**Kyle**: Thank you all for being a part of our early journey, and I appreciate everyone that has enjoyed the UpContent experience. I am thankful to have users that give us honest feedback to learn/grow from, and I want to say that there is a bigger product to come. Stay tuned.
 
 **Marissa**: I want to extend a huge thank you to our users and supporters for all of their kindness, patience, feedback, and tough love over the past year. We've come a long way and have so much further to go, but knowing that you find value in what we are doing is a huge motivator. I'm the lucky one who gets to communicate with these hardworking individuals on a regular basis and it's your enthusiasm that drives us every day.
 
