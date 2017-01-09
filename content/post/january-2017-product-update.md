@@ -6,9 +6,9 @@ date = "2017-01-11T13:23:16-04:00"
 title = "January 2017 Product Update: Faster Loading Speeds, Better Topic Creation, and Quality Cards"
 Hero_image = ""
 author = "Adam Lucia"
-author_image = ""
+author_image = "/images/adam.png"
 category = "Engineering"
-pinterest = ""
+pinterest = "/images/jan2017pin.png"
 
 +++
 
@@ -20,7 +20,7 @@ Some other changes that you’ll notice right away involve the topic creation sc
 
 Finally, you’ll also start seeing a new purple topic quality card in your results. Give it a click, and tell us how you feel about your topic. If you are unhappy with your results remember, we are listening; give us a shout! We are more than willing to help you craft a topic that even grandma would be proud of.
 
-[KYLE - topic quality card example]
+<p style="text-align: center;"><img src="/images/suggestion-feedback-cards.png" alt="UpContent Feedback Cards" style="margin-top: 50px;"></p>
 
 ## A Glimpse of What’s Ahead
 
