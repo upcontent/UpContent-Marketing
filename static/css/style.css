@@ -719,6 +719,20 @@ p.testi em {
 	width: 100%;
 }
 
+div.gallery {
+	width: 960px;
+	margin: auto;
+}
+
+div.gallery > h1 {
+	font-weight: 300;
+	color: #7755cb;
+	font-size: 45px;
+	margin-bottom: 25px;
+	line-height: 45px;
+	text-align: center;
+}
+
 .pricing-options {
 	max-width: 1020px;
 	margin: 0 auto;
