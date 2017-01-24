@@ -733,6 +733,11 @@ div.gallery > h1 {
 	text-align: center;
 }
 
+div.gallery > p {
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
 .pricing-options {
 	max-width: 1020px;
 	margin: 0 auto;
