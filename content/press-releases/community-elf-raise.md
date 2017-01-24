@@ -2,7 +2,7 @@
 date = "2017-01-24T00:17:24-05:00"
 title = "Community Elf Raises $2 Million Series A to Accelerate Global Growth and Launch UpContent Gallery, a New Content Marketing Platform to Scale Content Discovery"
 Draft = false
-Description = ""
+Description = "Community Elf, implementers of content marketing strategies and creators of active content discovery tool UpContent, announced today that it raised $2 million to accelerate growth. The Series A round was led by Topanga Partners, a private equity fund based in Pittsburgh. The capital infusion will be leveraged to accelerate UpContent’s product roadmap and drive awareness of the newly launched UpContent Gallery product offering."
 
 +++
 
