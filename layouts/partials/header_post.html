@@ -1,8 +1,8 @@
 {{ partial "header.html" . }}
   <body>
-    <div id="header">
+    <div id="header" class="blogheader">
       <div class="topHeaderr">
-        <div class="logo">
+        <div class="logo" class="bloglogo">
           <a href="/"><img src="/images/logo-white.png" alt="UpContent Logo"></a><h1><a href="/">UpContent</a></h1>
         </div>
 
@@ -26,5 +26,9 @@
           </ul>
           {{ end }}
         </nav>
+
+        <style>.subnav {display: none;} </style>
       </div>
-    </div>
+      <h1>{{ .Title }}</h1><h4> {{ .Params.category }} </h4>  
+      <p><img src=" {{ .Params.author_image }} "/> {{ .Params.author }} </p>
+</div>

@@ -1,14 +1,15 @@
 +++
 Categories = []
 Description = ""
+
 Tags = []
 date = "2017-01-11T13:23:16-04:00"
 title = "January 2017 Product Update: Faster Loading Speeds, Better Topic Creation, and Quality Cards"
 Hero_image = ""
 author = "Adam Lucia"
-author_image = ""
+author_image = "/images/adam.png"
 category = "Engineering"
-pinterest = ""
+pinterest = "/images/jan2017pin.png"
 
 +++
 
@@ -20,10 +21,10 @@ Some other changes that you’ll notice right away involve the topic creation sc
 
 Finally, you’ll also start seeing a new purple topic quality card in your results. Give it a click, and tell us how you feel about your topic. If you are unhappy with your results remember, we are listening; give us a shout! We are more than willing to help you craft a topic that even grandma would be proud of.
 
-[KYLE - topic quality card example]
+<p style="text-align: center;"><img src="/images/suggestion-feedback-cards.png" alt="UpContent Feedback Cards" style="margin-top: 50px;"></p>
 
 ## A Glimpse of What’s Ahead
 
-Pair these new updates we’ve implemented with our upcoming news and blog classifier [ArtClass](post/machine-learning-for-curation) and UpContent users have a recipe for success. The kind of delicious success grandma used to make! Using machine learning (unlike grandma) we will be able to better [decipher the difference between blogs and news and all of the other content that is not either of those things](http://upcontent.com/post/machine-learning-for-curation). So, when you’re trying to set the tone of your social media post, ArtClass will help you narrow down your results to something more serious, like news, or more casual, like a blog. Combine a strong topic, utilizing ArtClass, with a sprinkle of filter magic, add a little elbow grease, and you’re going to have all kinds of extra time on your hands when you’re not spending hours a day looking for content! Stay tuned!
+Pair these new updates we’ve implemented with our upcoming news and blog classifier [ArtClass](/post/machine-learning-for-curation) and UpContent users have a recipe for success. The kind of delicious success grandma used to make! Using machine learning (unlike grandma) we will be able to better [decipher the difference between blogs and news and all of the other content that is not either of those things](http://upcontent.com/post/machine-learning-for-curation). So, when you’re trying to set the tone of your social media post, ArtClass will help you narrow down your results to something more serious, like news, or more casual, like a blog. Combine a strong topic, utilizing ArtClass, with a sprinkle of filter magic, add a little elbow grease, and you’re going to have all kinds of extra time on your hands when you’re not spending hours a day looking for content! Stay tuned!
 
 Check back for future product updates or read our [August](/post/august-product-update) and [November](/post/november-2016-product-update) updates to see what we’ve been up to.
