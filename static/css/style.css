@@ -937,7 +937,7 @@ div.gallery > p {
 	font-size: 11px;
 }
 
-.ourPurpose > div h2 {
+.ourPurpose > div h2, div.gallery > h2 {
 	font-weight: 400;
     text-align: left;
     font-size: 35px;
