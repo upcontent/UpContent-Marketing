@@ -950,7 +950,7 @@ div.gallery > p {
 	margin-bottom: 15px;
 }
 
-.ourPurpose > div p a {
+.ourPurpose > div p a, div.gallery p a, div.gallery a {
 	font-weight: 700;
 	text-decoration: underline;
 	color: #7755cb;
