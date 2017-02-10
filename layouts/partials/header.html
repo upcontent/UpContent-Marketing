@@ -1,7 +1,12 @@
 <!doctype html>
-<html>
+<html prefix="og: http://ogp.me/ns#">
   <head>
     <title>UpContent | {{ .Title }}</title>
+
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:description" content="{{ .Description }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/price.css">
     <link href='//fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
@@ -46,4 +51,5 @@
 
     <script src="/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <link rel="import" href="/bower_components/gallery/src/upcontent-gallery/upcontent-gallery.html">
+    <meta>
   </head>
