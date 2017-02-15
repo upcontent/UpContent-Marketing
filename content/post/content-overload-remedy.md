@@ -25,7 +25,8 @@ Curation solves this problem by putting the power and influence in the brand’s
 
 **Effective content curation eliminates all of the unnecessary noise, providing a service that is in constant demand.** People don’t want more content; they just want better content and they will continue to go to the sources that provide them with just that.
 
-"When you choose to find, share, and comment on the best of the best articles in your industry, you will gain authority. If you do it consistently, you’ll build authority. People will look to you to see what’s happening and what’s worth discussing."" - Kevan Lee, [Buffer](http://buffer.com)
+> "When you choose to find, share, and comment on the best of the best articles in your industry, you will gain authority. If you do it consistently, you’ll build authority. People will look to you to see what’s happening and what’s worth discussing." <br>
+> *- Kevan Lee, [Buffer](http://buffer.com)*
 
 There are some excellent brands who demonstrate how providing tailored and intentional content can result in a loyal, educated, and engaged community. Here are two to illustrate:
 
@@ -53,4 +54,8 @@ Considering curation as a service can help shape every step of the process, from
 
 Applying this level of intentionality to each step of the process will ensure that your brand stands out and gives your audience even better content. Instead of treating it like a “set it and forget it” practice or another item on the content marketing checklist, it is worth investing the necessary time and energy into creating a tailored experience that will ultimately build fiercely loyal customers.
 
-<style>.blogpostings h2 {margin-top: 0;}</style>
+<style>.blogpostings h2 {margin-top: 0;} .blogpostings blockquote p em a {font-size: 12px;
+    font-weight: 700;
+    color: #565656;
+    font-style: normal;
+    text-decoration: underline;}</style>
