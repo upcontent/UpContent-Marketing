@@ -9,13 +9,15 @@ Hero_image = ""
 author = "Marissa Burdett"
 author_image = "/images/marissa.png"
 category = "Marketing"
-pinterest = ""
+pinterest = "/images/content-overload-pin.png"
 
 +++
 
 When content curation is implemented effectively, everyone wins. The brand, or curator, saves time that would have been spent crafting more original content, maintains an active and engaged presence on social media, and is [perceived as a trusted thought leader](/post/everyone-has-influence)–goals that support and enhance their other content marketing efforts. Additionally, the audience equally benefits by gaining access to more valuable, relevant content, written by a variety of sources–the reward for brand loyalty that keeps on giving.
 
 With these kind of benefits, it’s no surprise that content curation has earned such a prominent role in content marketing strategies over the past year. There is one additional value proposition that content curation offers, however, that isn’t as widely discussed but is perhaps the biggest reason why it will continue to thrive:
+
+<p style="text-align: center;"><img src="/images/good-content.png" alt="Producing Great Content" style="margin-top: 50px;"></p>
 
 **Content curation is the remedy for content overload**, a very real challenge that both brands and audiences face. People are exposed to thousands of messages every single day and this constant stream of information can feel relentless. As a result, brands have to work even harder to stand out, while audiences scroll endlessly through the excess in search of the stuff that actually interests them.
 
@@ -27,9 +29,13 @@ Curation solves this problem by putting the power and influence in the brand’s
 
 There are some excellent brands who demonstrate how providing tailored and intentional content can result in a loyal, educated, and engaged community. Here are two to illustrate:
 
+<p style="text-align: center;"><img src="/images/the-skimm-web.png" alt="The Skimm Screenshot" style="margin-top: 50px; margin-bottom: 0;"></p>
+
 ## The Skimm
 
 With how quickly news happens these days, it can be hard to keep up and process, but [The Skimm](http://www.theskimm.com/) has made it possible to digest the world’s daily news in fun, bite-sized pieces. This fun brand curates and presents the world’s most important news using their distinct, relatable voice, so subscribers feel more informed without having to endure the typical snoozefest that comes from deciphering the newspaper. Their community is a powerful and loyal one–they even include their “Skimmbassador’s” birthdays and gamify referrals to keep people sharing and coming back for more.
+
+<p style="text-align: center;"><img src="/images/rand-fishkin-twitter.png" alt="Rand Fishkin's Twitter Sreenshot" style="margin-top: 50px; margin-bottom: 0;"></p>
 
 ## Rand Fishkin
 
@@ -42,3 +48,5 @@ Considering curation as a service can help shape every step of the process, from
 - **When you are engaging in follow-up conversations, ask yourself:** How can I keep this conversation going and gain even more insight into my audience’s interests and needs?
 
 Applying this level of intentionality to each step of the process will ensure that your brand stands out and gives your audience even better content. Instead of treating it like a “set it and forget it” practice or another item on the content marketing checklist, it is worth investing the necessary time and energy into creating a tailored experience that will ultimately build fiercely loyal customers.
+
+<style>.blogpostings h2 {margin-top: 0;}</style>
