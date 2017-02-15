@@ -29,15 +29,19 @@ Curation solves this problem by putting the power and influence in the brand’s
 
 There are some excellent brands who demonstrate how providing tailored and intentional content can result in a loyal, educated, and engaged community. Here are two to illustrate:
 
-<p style="text-align: center;"><img src="/images/the-skimm-web.png" alt="The Skimm Screenshot" style="margin-top: 50px; margin-bottom: 0;"></p>
+
 
 ## The Skimm
 
+<p style="text-align: center;"><img src="/images/the-skimm-web.png" alt="The Skimm Screenshot" style="margin-top: 10px; margin-bottom: 15px;"></p>
+
 With how quickly news happens these days, it can be hard to keep up and process, but [The Skimm](http://www.theskimm.com/) has made it possible to digest the world’s daily news in fun, bite-sized pieces. This fun brand curates and presents the world’s most important news using their distinct, relatable voice, so subscribers feel more informed without having to endure the typical snoozefest that comes from deciphering the newspaper. Their community is a powerful and loyal one–they even include their “Skimmbassador’s” birthdays and gamify referrals to keep people sharing and coming back for more.
 
-<p style="text-align: center;"><img src="/images/rand-fishkin-twitter.png" alt="Rand Fishkin's Twitter Sreenshot" style="margin-top: 50px; margin-bottom: 0;"></p>
 
 ## Rand Fishkin
+
+<blockquote class="twitter-tweet" data-lang="en" style="margin: 10px auto; text-align:center;"><p lang="en" dir="ltr">I&#39;ve often wondered why reciprocity doesn&#39;t work as well online. <a href="https://t.co/YkMre9NDWW">https://t.co/YkMre9NDWW</a> great explanation from <a href="https://twitter.com/conversion_com">@conversion_com</a></p>&mdash; Rand Fishkin (@randfish) <a href="https://twitter.com/randfish/status/829960392398942209">February 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 There’s a reason [Rand Fishkin](https://twitter.com/randfish) is called the Wizard. This founder and former CEO of [Moz](http://moz.com) has not only built amazingly helpful tools for marketers, but he’s also created a magical brand experience for his followers. Take one look at [his Twitter account](http://twitter.com/randfish) and you’ll see over 361K followers, many of whom actively engage with the content Rand shares on a consistent basis. Even his Twitter bio sets the expectation: “I tweet 30-40x/week about marketing, SEO, technology, and startups.” He curates a wealth of industry articles, blog posts, videos, and more every single week and always inserts his own annotations. He’s definitely earned major authority thanks to his consistent efforts.
 
