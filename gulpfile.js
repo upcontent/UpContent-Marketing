@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+/* Just adding a comment. */
+var gulp = require('gulp');
+var aws = require('gulp-aws');
+=======
 var gulp = require('gulp'),
     AWS = require('aws-sdk')
     s3 = require('vinyl-s3')
@@ -6,6 +11,7 @@ var gulp = require('gulp'),
 credentials = new AWS.SharedIniFileCredentials({profile: 'upcontent'});
 
 s3obj = new AWS.S3({credentials: credentials, region: 'us-west-2'});
+>>>>>>> communityelf/master
 
 gulp.task('stage', function() {
     return gulp.src('public/**/*', {buffer: false})
