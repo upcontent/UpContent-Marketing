@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = "Lead Product Designer Kyle Grady shares his thought process behind designing "small" for UpContent and updating the user experience and user interface."
+Description = "Lead Product Designer Kyle Grady shares his thought process behind designing \"small\" for UpContent and updating the user experience and user interface."
 Tags = []
 date = "2016-01-03T11:50:00-05:00"
 title = "Designing Small: An Interview with Kyle Grady"
