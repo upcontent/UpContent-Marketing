@@ -111,7 +111,7 @@ Chances are you’ve been compiling a list of some “catch-up projects” all y
 These catch-up projects can range from things like fixing bugs or broken links to updating your contact page to surveying your clients. *You know what they are!* Now get to it.
 
 
-One of the best ways to make sure these projects get completed is by putting a time constriction on it. Use the [Pomodoro Technique](https://zapier.com/blog/best-pomodoro-apps/) or [time block your schedule](http://www.makeuseof.com/tag/time-blocking-secret-weapon-better-focus/) to maximize your available time so you can still get those other year-end responsibilities done.
+One of the best ways to make sure these projects get completed is by putting a time constriction on it. Use the [Pomodoro Technique](https://zapier.com/blog/best-pomodoro-apps/) or [time block your schedule using an app like Toggl](https://toggl.com/time-blocking) to maximize your available time so you can still get those other year-end responsibilities done.
 
 {{<figure src="/images/learning-icon.png" title="" alt="Back to School" caption-top="false">}}
 
