@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Get ready for success in the new year with content audits, out-of-the-box brainstorming and goal-setting, catch-up projects, and professional development."
 Tags = []
 date = "2016-11-28T13:23:16-04:00"
 title = "Holiday Housekeeping for Success in the New Year"

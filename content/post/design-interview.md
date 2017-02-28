@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Lead Product Designer Kyle Grady shares his thought process behind designing "small" for UpContent and updating the user experience and user interface."
 Tags = []
 date = "2016-01-03T11:50:00-05:00"
 title = "Designing Small: An Interview with Kyle Grady"
@@ -12,7 +12,7 @@ pinterest = "/images/designing-small.png"
 draft="false"
 +++
 
-Great design is absolutely essential for any tech product to succeed. That’s why we’re truly grateful to have Kyle Grady as our Lead Product Designer. Since starting as a UX/UI Designer in April 2013, he has headed up two redesigns, illustrating his dedication to continuously improving both aesthetic and user workflow. He has flourished in his new role, bringing fresh perspective and confidence to his designs, and UpContent is so much better for it. 
+Great design is absolutely essential for any tech product to succeed. That’s why we’re truly grateful to have Kyle Grady as our Lead Product Designer. Since starting as a UX/UI Designer in April 2013, he has headed up two redesigns, illustrating his dedication to continuously improving both aesthetic and user workflow. He has flourished in his new role, bringing fresh perspective and confidence to his designs, and UpContent is so much better for it.
 
 {{<figure src="/images/kyle-portrait.jpg" title="" alt="Kyle Grady" caption-top="false">}}
 

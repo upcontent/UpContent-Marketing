@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent, a content discovery tool, releases user profiles, sharing topics, and updates to the relevance and influence graphs in this feature release. "
 Tags = []
 date = "2016-01-20T11:50:00-05:00"
 title = "Introducing UpContent 2.0: The Release of User Profiles and Sharing Topics and Updates to Relevance and Influence"

@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Build and implement an intentional Twitter chat strategy with the right tools to boost enagagement, increase brand awareness, and gain market feedback."
 Tags = []
 date = "2016-03-22T11:50:00-05:00"
 title = "How to Optimize Your Twitter Chat Strategy"

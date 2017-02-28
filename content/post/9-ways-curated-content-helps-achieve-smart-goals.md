@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Meet your S.M.A.R.T. content marketing goals with these nine content curation formulas that outline what content can be used to meet each goal. "
 Tags = []
 date = "2016-05-25T11:50:00-05:00"
 title = "9 Ways Curated Content Can Help You Meet Your S.M.A.R.T. Goals"

@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Identify what makes content valuable and relevant for a specific audience by utilizing curation tools, ensuring quality, and adding a unique perspective."
 Tags = []
 date = "2016-02-08T11:50:00-05:00"
 title = "Finding the Gold: How to Evaluate Content for Quality and Value"

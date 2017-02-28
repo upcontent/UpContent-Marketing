@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "With over 25k registrants, Connect via Hootsuite was the world's largest virtual social media conference. Here's UpContent's recap of the sponsored event. "
 Tags = []
 date = "2016-10-12T11:50:00-05:00"
 title = "Connect via Hootsuite: a Recap of the World's Largest Virtual Social Media Conference"

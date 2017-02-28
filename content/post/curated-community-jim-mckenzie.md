@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Jim McKenzie of Product Development and Management Association (PDMA) shares how he uses UpContent to curate content for social media and email digests."
 Tags = []
 date = "2016-06-07T11:50:00-05:00"
 title = "The Curated Community: Meet Jim McKenzie"

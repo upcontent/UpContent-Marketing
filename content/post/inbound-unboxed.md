@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Nicholas Scalice interviews UpContent on the marketing podcast Inbound Unboxed, discussing the challenges of content discovery and saving time on curation."
 Tags = []
 date = "2016-04-05T11:50:00-05:00"
 title = "Inbound Unboxed: A Podcast for Marketing Enthusiasts"

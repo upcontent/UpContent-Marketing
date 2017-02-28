@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Incorporating shared topics in your marketing strategy makes curating content among teams easier and helps you stand out as a thought leader in your niche."
 Tags = []
 date = "2016-02-23T11:50:00-05:00"
 title = "How to Incorporate Sharing Topics Into Your Marketing Strategy"

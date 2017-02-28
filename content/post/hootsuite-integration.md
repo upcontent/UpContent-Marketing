@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent integrates with Hootsuite as a content source, helping users discover and curate niche content for social media within one trusted platform."
 Tags = []
 date = "2016-07-19T11:50:00-05:00"
 title = "Announcing UpContent Integration with Hootsuite as a Content Source"

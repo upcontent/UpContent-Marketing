@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "A small business marketer shares her switch from Buzzsumo to UpContent, a less expensive and more small business-friendly content curation tool."
 Tags = []
 date = "2016-08-09T11:50:00-05:00"
 title = "A BuzzSumo to UpContent Convert: Meet Clementine Holman"
@@ -27,7 +27,7 @@ Instead of spending over $100/month on Buzzsumo, she plans on enjoying UpContent
 
 Like many UpContent users, Clementine also wears many hats, so it was important that she save also time: “Instead of spending a few hours every single day, I am able to spend a half hour to find content for the next three days. UpContent certainly saves time, especially when I have a full time job in addition to this, so I need to be able to juggle both and give each the attention it needs.”
 
-In addition to being more cost-effective, UpContent also provides additional features that Buzzsumo’s free and low-tier plans cannot, such as the ability to sort content by date and save search topics. Clementine also enjoys that UpContent provides visualizations such as the [relevance graph](https://upcontent.com/post/introducing-upcontent-2/), making it really easy to see connections between content and drill down into specific areas within your search topic. 
+In addition to being more cost-effective, UpContent also provides additional features that Buzzsumo’s free and low-tier plans cannot, such as the ability to sort content by date and save search topics. Clementine also enjoys that UpContent provides visualizations such as the [relevance graph](https://upcontent.com/post/introducing-upcontent-2/), making it really easy to see connections between content and drill down into specific areas within your search topic.
 
 We’re proud to be a Buzzsumo alternative and help small businesses achieve their goals without breaking the bank or wasting time in the process. Many thanks to Clementine for her thoughtful feedback and kind words.
 

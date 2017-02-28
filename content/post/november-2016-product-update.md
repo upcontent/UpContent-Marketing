@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Explore UpContent's new Topic Gallery to discover community content and enjoy better transactional emails to stay informed about account activity."
 Draft = false
 Tags = []
 date = "2016-10-28T13:23:16-04:00"

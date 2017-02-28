@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Integrating with Hootsuite as a content surce, updating the query builder, and sponsoring in Connect via Hootsuite were among UpContent's 2016 highlights."
 Tags = []
 date = "2016-12-28T13:23:16-04:00"
 title = "2016: A Year in Review"

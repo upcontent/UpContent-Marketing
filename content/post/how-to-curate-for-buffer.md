@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "In this simple video tutorial, learn how to discover and curate content for social media in one simple workflow with UpContent's Buffer integration."
 Tags = []
 date = "2016-10-26T11:50:00-05:00"
 title = "How to Curate Content for Buffer Using UpContent"

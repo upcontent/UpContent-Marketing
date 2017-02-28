@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent transitions from the beta stage to the foundation stage of a technology startup, sharing their origin story and what's next for the product."
 Tags = []
 date = "2015-12-01T13:54:10-05:00"
 title = "Behind-the-Scenes: Navigating Through the Foundation Stage of a Technology Startup"

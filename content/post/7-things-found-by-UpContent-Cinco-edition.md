@@ -1,7 +1,7 @@
 +++
 
 Categories = []
-Description = ""
+Description = "Content discovery tool UpContent is used to plan a Cinco de Mayo party, saving time on menu planning and providing ideas for decor and games."
 Tags = []
 date = "2016-04-26T11:50:00-05:00"
 title = "7 Things I Would Have Never Found Without UpContent: Cinco de Mayo Edition"

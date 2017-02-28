@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent removes video and social posts from their content suggestions as a result of user data and to streamline and improve their content offering."
 Tags = []
 date = "2015-12-23T09:06:26-05:00"
 title = "Something's Missing: Our Decision to Remove Video and Social Posts from Suggestions"

@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Learn about content curation, the dangers of automated and robotic curation, and how to build an effective content curation strategy with the right tools."
 Tags = []
 date = "2016-08-28T11:50:00-05:00"
 title = "A More Efficient and Effective Way to Curate Content"

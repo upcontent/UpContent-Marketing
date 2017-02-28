@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent shares a transparent peek into its new product features release, including hosting a VIP webinar and a giveaway and executing a launch strategy."
 Tags = []
 date = "2016-03-08T11:50:00-05:00"
 title = "Pulling Back the Curtain: How We Launched Our Largest Feature Update Yet"

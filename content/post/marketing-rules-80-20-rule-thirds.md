@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Learn about two common marketing principles for content curation, The 80/20 Rule and the Rule of Thirds, and decide what works best for your audience."
 Tags = ["rule of thirds" , "80/20" , "content marketing" , "content curation"]
 date = "2015-08-07T09:41:50-04:00"
 title = "Do You Know These Marketing Principles? The 80/20 Rule vs. Rule of Thirds"

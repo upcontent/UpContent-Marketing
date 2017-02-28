@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Here are the suite of tools, apps, and software UpContent uses to run their own content marketing technology product from development to customer success."
 Tags = []
 date = "2016-05-04T11:50:00-05:00"
 title = "Essential Tools for Managing Our Content Marketing Startup"

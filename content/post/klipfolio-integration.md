@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Enhance your Klipfolio Content Marketing Dashboard with bonus UpContent klips to monitor industry content feeds and track metrics all in one place. "
 Tags = []
 date = "2016-08-16T11:50:00-05:00"
 title = "Enhance Your Content Marketing Dashboard with Bonus UpContent Klips"

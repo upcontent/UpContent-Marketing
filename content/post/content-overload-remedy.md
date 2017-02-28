@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Content curation solves content overload by providing a service to audiences who look to brands with authority for relevant and engaging content."
 
 Tags = []
 date = "2017-02-15T13:23:16-04:00"

@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent, a SaaS content discovery tool, changes its pricing model to streamline and simplify options and provide additional features to premium users."
 Tags = []
 date = "2016-07-05T11:50:00-05:00"
 title = "Our Pricing Model Sucked, So We Revamped It Entirely"

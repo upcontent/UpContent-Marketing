@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Gain targeted Twitter followers by curating an engaging feed, organically joining discussions, joining Twitter chats, and using a consistent brand voice."
 Tags = []
 date = "2016-01-03T11:50:00-05:00"
 title = "Utilizing Twitter to Increase Organic Growth and Boost Engagement"

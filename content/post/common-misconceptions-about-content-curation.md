@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Debunk content curation's most common misconceptions surrounding time, effort, automation, ethics, SEO, virality, and competitor advantage."
 Draft = false
 Tags = []
 date = "2016-11-16T13:23:16-04:00"

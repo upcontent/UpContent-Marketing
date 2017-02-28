@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent introduces a Query Builder to help users create more effective search topics and improves the relevance graph for faster, more reliable results."
 Tags = []
 date = "2016-08-28T11:50:00-05:00"
 title = "August 2016 Product Update: Query Builder and Updates to Relevance Graph"

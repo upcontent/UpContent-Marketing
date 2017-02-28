@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Utilizing new machine learning techniques can help tailor your content curation experience for more personalized and differentiated content."
 Tags = []
 date = "2016-12-13T13:23:16-04:00"
 title = "How Machine Learning Can Help You Curate Content"

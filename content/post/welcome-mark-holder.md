@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "Mark Holder joins the Community Elf Board, bringing extensive experience in strategic partnerships and go-to-market initiatives for startups."
 Tags = []
 date = "2016-06-28T11:50:00-05:00"
 title = "Welcoming Mark Holder to our Board"

@@ -1,6 +1,6 @@
 +++
 Categories = ["Tips & Tricks"]
-Description = ""
+Description = "Creating an UpContent search topic is an art, but utilizing Boolean operators and asking intentional questions can help the process and improve results."
 Tags = []
 date = "2015-10-29T13:04:06-04:00"
 title = "How to Create an Effective UpContent Topic"

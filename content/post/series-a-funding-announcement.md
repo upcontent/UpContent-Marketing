@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent receives $2M in Series A funding from Topanga Partners, allowing the team to accelerate the release of product feature releases."
 
 Tags = []
 date = "2017-01-25T13:23:16-04:00"
@@ -32,9 +32,9 @@ So what does this mean for you, our users? We’re thrilled to share that with t
 
 And these are just a snapshot of what’s to come! It’s going to be a busy year but also a very exciting one.
 
-As we are currently only a team of six, we hope that this investment will allow us to grow, adding specialists who share our vision to consistently provide you with the best, most relevant content so that you can have more meaningful conversations with your audiences. 
+As we are currently only a team of six, we hope that this investment will allow us to grow, adding specialists who share our vision to consistently provide you with the best, most relevant content so that you can have more meaningful conversations with your audiences.
 
-<p style="text-align: center;"><img src="/images/shakinghands.png" alt="UpContent Shaking of Hands" style="margin-top: 50px;"></p> 
+<p style="text-align: center;"><img src="/images/shakinghands.png" alt="UpContent Shaking of Hands" style="margin-top: 50px;"></p>
 
 We’re humbled and grateful for all of your support, without which this would not have been possible. Thank you for using UpContent, providing feedback, asking questions, reading our blog, subscribing to our newsletter, and engaging with us on social media. We’re excited to share this next chapter of our journey with you!
 

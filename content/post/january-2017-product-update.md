@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "UpContent updated their content discovery tool to include an improved topic creation experience as well as faster loading speeds and feedback cards."
 
 Tags = []
 date = "2017-01-11T13:23:16-04:00"

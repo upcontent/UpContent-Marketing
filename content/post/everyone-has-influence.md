@@ -1,6 +1,6 @@
 +++
 Categories = ['Thought Leadership']
-Description = ""
+Description = "To be a true influencer, it's not enough to claim credibility and tweet viral articles. Instead, focus on helping others and being a high-quality resource."
 Tags = []
 date = "2015-12-14T10:00:00-05:00"
 title = "Everyone has Influence: How to Stand Out in a Social Media World"
