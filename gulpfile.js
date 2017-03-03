@@ -66,7 +66,3 @@ gulp.task('sass', function() {
 gulp.task('default', ['sass'], function() {
   gulp.watch(['scss/**/*.scss'], ['sass']);
 });
-
-gulp.task('default', function() {
-  // place code for your default task here
-});
