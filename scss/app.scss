@@ -150,14 +150,26 @@ a {
 }
 
 .off-canvas {
+    background-color: white;
     ul {
         width: 100%;
         margin: 0px;
+        margin-top: 6rem;
+        padding: 0 2rem;
         li {
+            padding-left: 3rem;
+            text-transform: uppercase;
             height: 75px;
+            line-height: 75px;
             width: 100%;
-            border: 1px solid black;
             list-style: none;
+            a {
+                color: #775591;
+            }
+
+            &.signin {
+                border-top: solid 2px #EDEDED;
+            }
         }
     }
 }
@@ -296,6 +308,12 @@ img.upcontentComputer {
   font-size: 20px;
   line-height: 30px;
   font-weight: normal;
+}
+
+div.marketing-goals {
+    div.goal-icon span {
+        display: block;
+    }
 }
 
 
@@ -480,12 +498,12 @@ ul li {
   text-align: right;
 }
 
-.footer span ul {
+.footer > div > div > ul {
   text-align: left;
   margin-top: 25px;
 }
 
-.footer span ul li {
+.footer > div > div > ul li {
     list-style: none;
     list-style-image: none;
     padding-bottom: 0px;
@@ -493,7 +511,7 @@ ul li {
     margin-right: 20px;
 }
 
-.footer span ul li a {
+.footer > div > div > ul li a {
   color: #7755cd;
   text-transform: none;
   font-weight: normal;
@@ -504,7 +522,7 @@ ul li {
   box-shadow: none;
 }
 
-.footer span ul li a:hover{
+.footer > div > div > ul li a:hover{
   background: none;
   color: #7755cd;
   text-decoration: underline;
