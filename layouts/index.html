@@ -77,43 +77,43 @@
                 <div class="marketing-goals">
                     <div class="column small-12 large-12">
                         <h3 class="small-12">Meet Your Marketing Goals</h3>
-                        <div class="small-12 row align-bottom" data-equalizer>
+                        <div class="small-12 row align-bottom tabs" data-tabs data-equalizer id="goals">
 
-                            <div class="small-6 large-2 column align-self-bottom large-offset-1 goal" data-equalizer-watch>
+                            <div class="small-6 large-2 column align-self-bottom large-offset-1 goal tabs-title is-active" data-equalizer-watch>
                                 <div class="goal-icon">
-                                    <a onclick="switchSlides('streamline')"><img src="img/streamline-icon.png"><span>Streamline</span></a>
+                                    <a href="#streamline"><img src="img/streamline-icon.png"><span>Streamline</span></a>
                                 </div>
                             </div>
 
-                            <div class="small-6 large-2 column align-bottom goal" data-equalizer-watch>
+                            <div class="small-6 large-2 column align-bottom goal tabs-title" data-equalizer-watch>
                                 <div class="align-bottom goal-icon">
-                                    <a onclick="switchSlides('discover')"><img  src="img/discover-icon.png"><span>Discover</span></a>
+                                    <a href="#discover"><img src="img/discover-icon.png"><span>Discover</span></a>
                                 </div>
                             </div>
 
-                            <div class="small-6 large-2 column align-bottom goal research" data-equalizer-watch>
+                            <div class="small-6 large-2 column align-bottom goal research tabs-title" data-equalizer-watch>
                                 <div class="goal-icon">
-                                    <a onclick="switchSlides('research')"><img src="img/research-icon.png"><span>Research</span></a>
+                                    <a href="#research"><img src="img/research-icon.png"><span>Research</span></a>
                                 </div>
                             </div>
 
-                            <div class="small-6 large-2 column align-bottom goal" data-equalizer-watch>
+                            <div class="small-6 large-2 column align-bottom goal tabs-title" data-equalizer-watch>
                                 <div class="goal-icon">
-                                    <a onclick="switchSlides('influence')"><img src="img/influence-icon.png"><span>Influence</span></a>
+                                    <a href="#influence"><img src="img/influence-icon.png"><span>Influence</span></a>
                                 </div>
                             </div>
 
-                            <div class="small-6 large-2 column align-bottom end goal">
+                            <div class="small-6 large-2 column align-bottom end goal tabs-title">
                                 <div class="goal-icon">
-                                    <a onclick="switchSlides('social')"><img src="img/social-icon.png"><span>Stay Social</span></a>
+                                    <a href="#social"><img src="img/social-icon.png"><span>Stay Social</span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="marketing-goals goal-content">
-                    <div id="streamline" class="panel row">
+                <div class="marketing-goals goal-content tabs-content" data-tabs-content="goals">
+                    <div id="streamline" class="panel row tabs-panel">
                         <div class="small-12 large-5 column">
                             <h4>Streamline Your Curation Process</h4>
                             <p>Reduce your discovery time by over 65%. With only the content you care about available, you don’t need to waste time filtering out the rest. You can also avoid opening numerous browser tabs, closing pop-up ads, and waiting for pages to load and read the full-text of every article and blog post right within the interface.</p>
@@ -124,7 +124,7 @@
                             <img src="img/streamline-your-process.png" alt="Streamline Your Curation Process">
                         </div>
                     </div>
-                    <div id="discover" class="panel row hidden">
+                    <div id="discover" class="panel row hidden tabs-panel">
                         <div class="small-12 large-5 column">
                             <h4>Discover Great Content</h4>
                             <p>Create a search topic and we’ll scour the internet for only the most relevant and interesting content and filter out all of the rest. Enjoy content that is tailored for you, not just what’s viral or already being shared online.</p>
@@ -135,7 +135,7 @@
                             <img src="img/discover-great-content.png" alt="Discover Great Content">
                         </div>
                     </div>
-                    <div id="research" class="panel row hidden">
+                    <div id="research" class="panel row hidden tabs-panel">
                         <div class="small-12 large-5 column">
                             <h4>Research to Inform Content Development</h4>
                             <p>Keep a pulse on the conversations happening within your niche or industry to identify the areas where you can add your own insight and expertise and use results as supporting evidence in your own content creation.</p>
@@ -146,7 +146,7 @@
                             <img src="img/research-to-inform.png" alt="Research to Inform Content Development">
                         </div>
                     </div>
-                    <div id="influence" class="panel row hidden">
+                    <div id="influence" class="panel row hidden tabs-panel">
                         <div class="small-12 large-5 column">
                             <h4>Become a go-to influencer</h4>
                             <p>Demonstrate your commitment to and knowledge of your audience by sharing your carefully curated results on social media and in your blog posts.</p>
@@ -157,7 +157,7 @@
                             <img src="img/become-an-influencer.png" alt="Become a go-to influencer.">
                         </div>
                     </div>
-                    <div id="social" class="panel row hidden">
+                    <div id="social" class="panel row hidden tabs-panel">
                         <div class="small-12 large-5 column">
                             <h4>Maintain an active online presence</h4>
                             <p>Stay consistent and top-of-mind with a steady, purposeful stream of high-quality curated content, tailored just for your audience through your search topic.</p>

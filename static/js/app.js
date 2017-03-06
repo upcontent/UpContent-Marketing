@@ -1,5 +1,8 @@
-$(document).foundation();
-console.log('document', document);
+$(function() {
+	$(document).foundation();
+});
+
+/*
 var switchSlides = function (slide){
     element = document.getElementsByClassName('panel');
     for(var i = 0; i < element.length; i++) {
@@ -8,3 +11,4 @@ var switchSlides = function (slide){
 
     document.getElementById(slide).classList.remove('hidden');
 }
+*/
