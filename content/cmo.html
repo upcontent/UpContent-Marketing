@@ -3,6 +3,8 @@ Description = ""
 date = "2016-07-06T16:59:45-04:00"
 title = "Cheif Marketing Officers"
 
+someinfo = "This is a piece of information!"
+
 +++
 
 <div class="pricing-opening">
@@ -19,11 +21,8 @@ title = "Cheif Marketing Officers"
 
 <!-- This is the start -->
 {{< partialcontent "test.md" >}}
+<br>
+{{< data "somefield" >}}
+<br>
+{{< frontmatter "someinfo" >}}
 <!-- This is the end -->
-
-<div class="just-for-you">
-	<div class="blogs-for-you">
-		<p>Some Text</p>
-	</div>
-</div> 
-
