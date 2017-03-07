@@ -16,15 +16,6 @@
             <li style="margin-right: 5px;"><a class="btn" href="https://my.upcontent.com/signin">Sign In</a></li>
             <li><a class="btnfull" href="https://my.upcontent.com/signup">Sign Up</a></li>
           </ul>
-          {{ if ne .Section "" }}
-          <ul class="subnav">
-            {{ range where .Site.Pages "Section" .Section }}
-                {{ if ne .Type (lower (replace .Title " "  "")) }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                {{ end }}
-            {{ end }}
-          </ul>
-          {{ end }}
         </nav>
       </div>
     </div>
