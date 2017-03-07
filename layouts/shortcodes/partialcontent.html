@@ -1,0 +1,2 @@
+{{ readFile (delimit (slice "snippets/" .Page.File.TranslationBaseName "/" (index .Params 0)) "") | markdownify }}
+
