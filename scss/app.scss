@@ -325,8 +325,12 @@ div.marketing-goals {
   opacity: 1;
 }
 
-.goal-icon:active {
+.is-active{
   opacity: 1;
+}
+
+.tabs, .tabs-content {
+  border: none;
 }
 
 .research {
