@@ -1,0 +1,6 @@
+{{ $.Scratch.Set "placeholder" .Site.Data.content }}
+{{ $basename := .Page.File.TranslationBaseName }}
+{{ range (split $basename "/") }}
+{{ $.Scratch.Set "placeholder" (index ($.Scratch.Get "placeholder") .) }}
+{{ end }}
+{{ index ($.Scratch.Get "placeholder") (index .Params 0) }}
