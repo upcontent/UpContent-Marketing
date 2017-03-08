@@ -270,7 +270,18 @@ img.upcontentComputer {
 
 .marketing-goals {
   margin-top: 7%;
-}.featured-logos
+}
+
+.featured-logos {
+  background: #f0f0f0;
+  text-align: center;
+
+}
+
+.featured-logos img {
+  max-width: 80%;
+  margin: 0 auto;
+}
 
 .goal-content {
   margin-top: 5%;
@@ -350,10 +361,6 @@ ul li {
 .featured-logos {
   background: #F0F0F0;
   margin: 8% 0;
-}
-
-.featured-logos img {
-  max-width: 100%;
 }
 
 /*
