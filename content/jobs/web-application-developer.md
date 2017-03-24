@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "A job description for a Web Application Developer at UpContent."
 Draft = true
 date = "2017-03-20T13:43:15-04:00"
 draft = true
@@ -26,7 +26,7 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * You understand HTTP and have experience consuming REST APIs.
 * You are comfortable with self-direction and have a drive for professional growth and development.
 * You value deploying consistent and reliable software, and are comfortable with unit-testing and providing a reliable experience across browsers.
-* You recognize the importance of defining and meeting progress milestones so that other teams can.
+* You recognize the importance of defining and meeting progress milestones so that other team members can do the same.
 * You are familiar with common web application security challenges, and can discuss approaches to mitigate them.
 * You can identify and resolve performance challenges in client-side applications.
 
@@ -37,21 +37,11 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * Advise on user experience or technical issues identified before or during development of client-side projects.
 * Advise and execute on opportunities for improvement of user experience, performance, security or stability in client-side projects.
 
-## Basic Technologies
+## Foundational Web Technologies
 * HTML
 * CSS
 * JavaScript
 * HTTP
-
-## Languages
-* Typescript
-* Sass
-
-## Frameworks
-* AngularJS 1.5+
-* Angular 2+
-* Gulp
-* Web Components
 
 ## Fundamentals:
 * Responsive development
@@ -60,16 +50,20 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * Web application security
 * Accessibility
 
-## Intangibles
-* Eagerness for professional development
-* Ability to self-direct
-* Functions well as a member of a team
-* Ability to define and meet deadlines
+## Frameworks
+* AngularJS 1.5+
+* Angular 2+
+* Gulp
+* Web Components
+
+## Extra Credit
+* Typescript
+* Sass
+* Python
 
 ## How to Apply
 * Please submit a resume and cover letter to nick@upcontent.com
 * In your cover letter, please address the following:
-  
-  * Your favorite company to be a customer, and why
-  * Your grandest computer-related technical achievement
-  * Your secret to good customer support
+  * What most excites you about web development?
+  * What is your approach for keeping your skills and knowledge current?
+  * What interests you most about working in an early stage startup?
