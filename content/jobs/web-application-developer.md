@@ -1,13 +1,11 @@
 +++
 Description = "A job description for a Web Application Developer at UpContent."
-Draft = true
+Draft = false
 date = "2017-03-20T13:43:15-04:00"
 draft = true
 title = "Web Application Developer"
 
 +++
-
-
 This year is shaping up to be UpContent’s best year ever! We’ve launched new products, completed a Series A funding round, and grown our revenue and user base faster than ever! The work of innovation is never done though, and we are looking for a skilled developer to join our ranks and craft the next generation of UpContent web applications.
 
 We believe that our users deserve the best, which is why we are seeking someone who is passionate about web technologies and standards to join us in building powerful and seamless interfaces to our content discovery engine. If you are the type of person that sweats the details, especially when it comes to performance, security and reliability, then we would love to talk to you!
