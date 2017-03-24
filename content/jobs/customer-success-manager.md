@@ -2,12 +2,9 @@
 Description = ""
 Draft = true
 date = "2017-03-20T14:22:40-04:00"
-draft = true
 title = "Customer Success Manager"
 
 +++
-
-
 It’s an exciting time to be a part of the UpContent team! Fresh from our Series A round of funding, we’re growing rapidly and though we hope to always stay small and scrappy, it’s time we bring on an expert to develop and own our customer support experience, from the top of the funnel all the way to our most loyal, paid options. If you’re a patient, empathetic self-starter and excellent communicator with an interest in content marketing and SaaS technology, you just might be our person.
 
 We love our UpContent customers, and we want to make sure they love their experience every time. And on the occasion that they don’t, we want to make things right and learn from our shortcomings. From email to onboarding to live chat to tutorial videos, we aim to both equip our users with better content to fuel their communities and ensure they get all of the answers they need in an efficient, effective, and thoroughly enjoyable manner.
