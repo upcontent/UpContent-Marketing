@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "A job description for a Customer Success Manager at UpContent."
 Draft = false
 date = "2017-03-20T14:22:40-04:00"
 title = "Customer Success Manager"
@@ -51,7 +51,7 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * You aren’t afraid to experiment with outside-of-the-box ideas and strategies
 
 ## How to Apply
-* Please submit a resume and cover letter to marissa@upcontent.com
+* Please submit a resume and cover letter to <a href="mailto:work@upcontent.com">work@upcontent.com</a>
 * In your cover letter, please address the following:
   
   * Your favorite company to be a customer, and why

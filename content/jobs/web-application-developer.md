@@ -59,7 +59,7 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * Python
 
 ## How to Apply
-* Please submit a resume and cover letter to nick@upcontent.com
+* Please submit a resume and cover letter to <a href="mailto:work@upcontent.com">work@upcontent.com</a>.
 * In your cover letter, please address the following:
   * What most excites you about web development?
   * What is your approach for keeping your skills and knowledge current?
