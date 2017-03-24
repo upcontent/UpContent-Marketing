@@ -2,7 +2,6 @@
 Description = "A job description for a Web Application Developer at UpContent."
 Draft = false
 date = "2017-03-20T13:43:15-04:00"
-draft = true
 title = "Web Application Developer"
 
 +++
