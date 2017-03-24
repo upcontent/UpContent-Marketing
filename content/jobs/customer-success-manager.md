@@ -51,7 +51,7 @@ We’re a small, dedicated team with a flexible, autonomous culture, fueled by c
 * You aren’t afraid to experiment with outside-of-the-box ideas and strategies
 
 ## How to Apply
-* Please submit a resume and cover letter to <a href="mailto:work@upcontent.com">work@upcontent.com</a>
+* Please submit a resume and cover letter to <a href="mailto:work@upcontent.com?subject=Submission%3A%20Customer%20Success%20Manager">work@upcontent.com</a>
 * In your cover letter, please address the following:
   
   * Your favorite company to be a customer, and why
