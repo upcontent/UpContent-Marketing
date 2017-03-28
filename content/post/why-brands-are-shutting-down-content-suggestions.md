@@ -1,6 +1,6 @@
 +++
 Categories = ""
-Description = ""
+Description = "Explore why popular marketing technology brands like Buffer and Hootsuite have shut down their content suggestions features and what it means for curation."
 Draft = true
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
