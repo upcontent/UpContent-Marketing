@@ -1,12 +1,12 @@
 +++
-Description = "A job description for a Web Application Developer at UpContent."
+Description = "A job description for a UX Designer at UpContent."
 Draft = false
 date = "2017-03-20T13:43:15-04:00"
-title = "Web Application Developer"
+title = "UX Designer"
 
 +++
 
-It’s an exciting time to be a part of the UpContent team! We’ve launched new products and grown our revenue and user base faster than ever. As a result, we’re growing rapidly and are looking for an expert *product designer* to take the UpContent user experience to the next level.
+It’s an exciting time to be a part of the UpContent team! We’ve launched new products and grown our revenue and user base faster than ever. As a result, we’re growing rapidly and are looking for an expert UX Designer to take the UpContent user experience to the next level.
 
 Between our application and the marketing site and every interaction in between, we aim to give our users a reliable, functional, and beautiful experience every time. If you’re a collaborative self-starter with a passion for people-centered design, we’d love to talk to you!
 
