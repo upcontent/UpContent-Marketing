@@ -1,6 +1,6 @@
 +++
 Categories = ["Behind-the-Scenes"]
-Description = ""
+Description = "Embed curated content on to your website through the UpContent Gallery to provide additional value and turn anonymous website visitors into prospects."
 Draft = true
 Hero_image = ""
 Tags = ["upcontent gallery", "content curation", "content marketing", "content discovery"]
