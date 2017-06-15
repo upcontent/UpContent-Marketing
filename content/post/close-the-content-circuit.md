@@ -35,10 +35,15 @@ The [BHiveLab](http://bhivelab.com/) team, Brunner’s industry-leading innovati
 Once installed, your website visitors will be able to:
 
 * Click on the topic they are interested in–displayed as a carousel
+
 * View the list of curated suggestions
+
 * Click on an article or blog post they are interested
+
 * Read the content in a separate tab
+
 * Click on the custom call-to-action to be redirected to your site
+
 * Enjoy a more targeted content or offer
 
 This process helps you close the content circuit, leaving less room for visitors to fall down their own rabbit holes and distracting content and more opportunity to convert prospects into leads.
@@ -56,8 +61,11 @@ If you prefer a more automated approach, you can also choose to display all new 
 Getting your Gallery up and running is simple and offers opportunities for customization to ensure it makes sense within the context of your site. Here are the steps to set up your UpContent Gallery:
 
 * Create relevant topics in UpContent to identify content that aligns with your brand mission.
+
 * If desired, curate articles and blog posts using the “favorite” button
+
 * Develop custom calls-to-action for each topic to close the content loop and bring visitors back to your site.
+
 * Customize the UpContent Gallery to match the branding of your site.
 
 ## How do I install my Gallery?
