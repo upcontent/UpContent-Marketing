@@ -78,5 +78,11 @@ If you’re feeling extra fancy, you can also modify the code to achieve an even
 
 Check out the versatility of the UpContent Gallery in these live examples from actual Gallery customers:
 
+[BHiveLab](http://bhivelab.com)
+
+[Ascender Pittsburgh](https://ascenderpgh.com/reading/)
+
+[The River Town Program](http://monrivertowns.com/plan-your-trip/river-recreation/)
+
 Interested in learning more about the UpContent Gallery and receiving a personalized demo? [Click here to sign up](http://landing.upcontent.com/gallery-demo-request/?utm_source=blog-subscriber-email&utm_medium=gallery-external-push&utm_campaign=close-content-circuit-blog).
 
