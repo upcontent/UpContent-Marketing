@@ -10,7 +10,7 @@ category = "Behind-the-Scenes"
 date = "2017-06-14T14:28:10+00:00"
 draft = true
 hero_image = "/images/blog-header-default.jpg"
-pinterest = ""
+pinterest = "/uploads/2017/06/15/0001 (1).jpg"
 title = "Close the Content Circuit on Your Website with a Custom UpContent Gallery"
 
 +++
