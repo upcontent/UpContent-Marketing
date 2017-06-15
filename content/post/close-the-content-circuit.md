@@ -78,5 +78,7 @@ If you’re feeling extra fancy, you can also modify the code to achieve an even
 
 Check out the versatility of the UpContent Gallery in these live examples from actual Gallery customers:
 
+![](/uploads/2017/06/15/Screen%20Shot%202017-06-14%20at%202.44.18%20PM.png)
+
 Interested in learning more about the UpContent Gallery and receiving a personalized demo? [Click here to sign up](http://landing.upcontent.com/gallery-demo-request/?utm_source=blog-subscriber-email&utm_medium=gallery-external-push&utm_campaign=close-content-circuit-blog).
 
