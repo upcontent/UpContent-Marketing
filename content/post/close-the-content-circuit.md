@@ -68,8 +68,6 @@ Getting your Gallery up and running is simple and offers opportunities for custo
 
 ## How do I install my Gallery?
 
-![](/uploads/2017/06/20/Screen%20Shot%202017-06-14%20at%202.45.24%20PM.png)
-
 If you’re feeling extra fancy, you can also modify the code to achieve an even more customized result. Gardinier shares, “The final result looks seamless. The code was pretty easy to modify and we also worked with the UpContent team to find the best approach. Our team was surprised to see how easy it was to integrate.”
 
 ## See the UpContent Gallery in Action
