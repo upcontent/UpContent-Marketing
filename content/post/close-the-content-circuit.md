@@ -1,7 +1,7 @@
 +++
 Categories = ["Behind-the-Scenes"]
 Description = "Embed curated content on to your website through the UpContent Gallery to provide additional value and turn anonymous website visitors into prospects."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["upcontent gallery", "content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
