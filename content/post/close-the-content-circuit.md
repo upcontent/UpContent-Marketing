@@ -14,8 +14,6 @@ pinterest = "/uploads/2017/06/15/0001 (1).jpg"
 title = "Close the Content Circuit on Your Website with a Custom UpContent Gallery"
 
 +++
-
-
 Many brands have already harnessed [the power of curated content](https://upcontent.com/post/more-efficient-content-curation/) in various parts of their content marketing strategy: on social media, through email newsletters, and in blog posts. Through these efforts, they have helped to establish themselves as strong thought leaders and provided opportunities for their audiences to engage in more meaningful conversations. However, there’s one additional area in which curated content has yet to be included but contains some seriously untapped potential: your website.
 
 Certainly, some brands have included content plugins and widgets that display seemingly related third-party content at the bottom of blog posts or in sidebars to make a few extra advertising dollars, but these are [ineffective](https://www.reddit.com/r/advertising/comments/4029f5/ok_im_saying_it_taboola_and_outbrain_are_hurting/) and [tend to make a negative impression](http://www.seoblog.com/2017/04/taboola-outbrain-bad-seo/) on website visitors. Additionally, one of the [common misconceptions about curated content](https://upcontent.com/post/common-misconceptions-about-content-curation/) is that it can drive hard-earned traffic away, something to be avoided when it comes to your website.
@@ -70,7 +68,7 @@ Getting your Gallery up and running is simple and offers opportunities for custo
 
 ## How do I install my Gallery?
 
-Technical installation is super easy. Once your customization options are configured, you will receive and install the javascript code snippet into the back end of your website on your desired page.
+![](/uploads/2017/06/20/Screen%20Shot%202017-06-14%20at%202.45.24%20PM.png)
 
 If you’re feeling extra fancy, you can also modify the code to achieve an even more customized result. Gardinier shares, “The final result looks seamless. The code was pretty easy to modify and we also worked with the UpContent team to find the best approach. Our team was surprised to see how easy it was to integrate.”
 
@@ -80,9 +78,14 @@ Check out the versatility of the UpContent Gallery in these live examples from a
 
 [BHiveLab](http://bhivelab.com)
 
-[Ascender Pittsburgh](https://ascenderpgh.com/reading/)
+<a href="http://bhivelab.com/"><img src="/uploads/2017/06/15/Screen%20Shot%202017-06-14%20at%202.44.18%20PM.png"></a>
 
-[The River Town Program](http://monrivertowns.com/plan-your-trip/river-recreation/)
+<a href="https://ascenderpgh.com/reading/" class="">Ascender Pittsburgh</a>
 
-Interested in learning more about the UpContent Gallery and receiving a personalized demo? [Click here to sign up](http://landing.upcontent.com/gallery-demo-request/?utm_source=blog-subscriber-email&utm_medium=gallery-external-push&utm_campaign=close-content-circuit-blog).
+<a href="https://ascenderpgh.com/reading/"><img src="/uploads/2017/06/20/Screen%20Shot%202017-06-14%20at%202.44.52%20PM.png"></a>
 
+<a href="http://monrivertowns.com/plan-your-trip/river-recreation/" class="">The River Town Program</a>
+
+<a href="http://monrivertowns.com/plan-your-trip/river-recreation/"><img src="/uploads/2017/06/20/Screen%20Shot%202017-06-14%20at%202.45.24%20PM.png"></a>
+
+Interested in learning more about the UpContent Gallery and receiving a personalized demo? <a href="http://landing.upcontent.com/gallery-demo-request/?utm_source=blog-subscriber-email&amp;utm_medium=gallery-external-push&amp;utm_campaign=close-content-circuit-blog" class="">Click here to sign up</a>.
