@@ -26,7 +26,7 @@ Not only does the Gallery help you reap the benefits of curated content, but it 
 
 The [BHiveLab](http://bhivelab.com/) team, Brunner’s industry-leading innovation lab, chose to add the Gallery to give their increased website traffic something fresh and new to look at, especially as they work on building their social media presence for this new brand. Partner and Chief Digital Officer Rick Gardinier shares: “We had a space on our homepage initially reserved for heavier social integration, but we thought the UpContent Gallery could replace some of our static content and make it more dynamic for our web visitors.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JilVqFeOg2w" frameborder="0" allowfullscreen style="margin: auto;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JilVqFeOg2w" frameborder="0" allowfullscreen style="display: block; margin: auto;"></iframe>
 
 ## How does the Gallery work?
 
