@@ -15,7 +15,7 @@ Before we get to the details, let us tell you a bit about UpContent, and what it
 
 ## About UpContent
 
-It’s our mission to help marketers spend less time searching for and more time acting on tailored content to spark informed conversations with their audience–all while becoming a trusted authority. Our product, UpContent, is integrated with the industry’s leading social media management platforms, Hootsuite and Buffer, making it easier than ever to find, curate, and schedule relevant content.
+It is our mission to help marketers spend less time searching for and more time acting on tailored content to spark informed conversations with their audience–all while becoming a trusted authority. Our product, UpContent, is integrated with the industry’s leading social media management platforms, Hootsuite and Buffer, making it easier than ever to find, curate, and schedule relevant content.
 
 We’re a small, dedicated team with a flexible, autonomous culture, fueled by coffee and tacos. We work hard and laugh harder. Keep reading if this sounds like the kind of environment you’re looking for!
 
