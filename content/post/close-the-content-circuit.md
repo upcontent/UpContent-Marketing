@@ -8,7 +8,6 @@ author = "Marissa Burdett"
 author_image = "/uploads/2017/06/15/avatar_mb.png"
 category = "Behind-the-Scenes"
 date = "2017-06-20T10:28:00-04:00"
-draft = true
 hero_image = "/images/blog-header-default.jpg"
 pinterest = "/uploads/2017/06/15/0001 (1).jpg"
 title = "Close the Content Circuit on Your Website with a Custom UpContent Gallery"
