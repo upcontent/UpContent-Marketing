@@ -20,6 +20,8 @@ One of the things we talk about as a team is how diverse our Curated Community i
 
 Motivational speaker, business and leadership coach, and social media influencer, [Bobby Umar](https://twitter.com/raehanbobby), embodies the true definition of a thought leader. Though his large following is certainly impressive–420k followers on Twitter alone–it’s his commitment to authentic connection that makes him stand out. His core values of love, gratitude, kindness, and respect are evident in everything he does, especially in listening to and amplifying other people’s voices so everyone can be heard.
 
+![](/uploads/2017/08/14/Group%204.png)
+
 Bobby focuses primarily on leadership, networking, personal branding, and social media, and he uses content–the creating of his own and the sharing of others–as the building blocks of his business strategy, one that constantly evolves as he does. Currently, he utilizes a semi-automated approach to reach his global audience so that even when he isn’t online, he can still provide valuable resources to those who are active. To balance this out, he is very quick to respond to nearly all activity that comes his way, allowing him to stay true to himself and create real relationships with his followers.
 
 When looking for a solution that would provide him with the right amount of control over what content is being shared and on which platform and save him time so he could invest it elsewhere, Bobby was surprised to find that many other influencers were keeping their tools and techniques a “secret.” He found that rather uncanny, so now that he has found the right suite of tools that work well for him, he is very transparent about it, which ultimately supports the kind of personal brand he continues to develop.
@@ -37,3 +39,4 @@ Having the ability to automate through an RSS feed eliminated his need to pay fo
 We are proud to be able to support Bobby in his important and impressive work. You can find him on Twitter [@raehanbobby](https://twitter.com/raehanbobby). You can expect a personal response if you say hello!
 
 Want to learn how to set up an RSS feed with UpContent? Learn more [here](http://learn.upcontent.com/article/LL1v4fDFJL-add-topic-to-rss) or reach out to us at info@upcontent.com to learn how to make it automated.
+
