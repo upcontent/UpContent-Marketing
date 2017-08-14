@@ -26,7 +26,9 @@ When looking for a solution that would provide him with the right amount of cont
 
 Bobby uses UpContent, along with IFTTT, Meet Edgar, and Hootsuite, to fuel his content engine. After investing time in setting up his search topics upfront, Bobby has several content feeds about every area of interest that he then automates using an RSS feed or hand-curates from for each of his social media profiles.
 
-[Screenshot/embed LinkedIn post with tool recommendations]
+<img src="/uploads/2017/08/14/Screen%20Shot%202017-08-14%20at%209.38.02%20AM.png" class=" forestry--none" style="float: none;">
+
+[View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6281513783416410112/)
 
 Though you would never know it, Bobby claims he is not much of a technology guy: “I love technology and what it does for me, but I would much rather have someone else do it for me. But when I found out I could automate with UpContent and an RSS feed, I thought ‘Wow, that’s awesome!’ The process was easy, the team was very responsive and hands-on, and after we worked together a few times, I was set. Since then, things have been going pretty well!”
 
