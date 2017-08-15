@@ -20,7 +20,7 @@ One of the things we talk about as a team is how diverse our Curated Community i
 
 Motivational speaker, business and leadership coach, social media influencer, and founder of [raeallan.com](http://www.raeallan.com/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=bobby-umar-blog), Bobby Umar, embodies the true definition of a thought leader. Though his large following is certainly impressive–420k followers on Twitter alone–it’s his commitment to authentic connection that makes him stand out. His core values of love, gratitude, kindness, and respect are evident in everything he does, especially in listening to and amplifying other people’s voices so everyone can be heard.
 
-<img src="/uploads/2017/08/14/Group%204.png" alt="" class=" forestry--none forestry--none forestry--none" style="float: none;">
+<img src="/uploads/2017/08/14/Group%204.png" alt="" class=" forestry--none forestry--none forestry--none forestry--none" style="float: none;">
 
 Bobby focuses primarily on leadership, networking, personal branding, and social media, and he uses content–the creating of his own and the sharing of others–as the building blocks of his business strategy, one that constantly evolves as he does. Currently, he utilizes a semi-automated approach to reach his global audience so that even when he isn’t online, he can still provide valuable resources to those who are active. To balance this out, he is very quick to respond to nearly all activity that comes his way, allowing him to stay true to himself and create real relationships with his followers.
 
