@@ -1,7 +1,7 @@
 +++
 Categories = ["User Stories"]
 Description = "Motivational speaker and business coach Bobby Umar uses UpContent with an automated RSS feed to fuel his social media accounts and build his thought leadership."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["thought leadership", "content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
