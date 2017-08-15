@@ -8,7 +8,6 @@ author = "Marissa Burdett"
 author_image = "/uploads/2017/06/15/avatar_mb.png"
 category = ""
 date = "2017-08-08T10:51:45+00:00"
-draft = true
 hero_image = "/images/blog-header-default.jpg"
 pinterest = "/uploads/2017/08/14/vertical2.png"
 title = "The Curated Community: Meet Bobby Umar"
