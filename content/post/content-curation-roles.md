@@ -22,7 +22,7 @@ As the [need for active curation grows](https://upcontent.com/post/content-overl
 
 To illustrate, [Content Marketing Institute](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog) created this graph showcasing how, as brands move away from simple aggregation tactics and toward more real-time active curation, there is an increase in the need for more content management and a structured workflow.
 
-<a href="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"><img src="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"> </a>
+<a href ="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"><img src="/uploads/2017/08/28/degrees-of-content-curation.jpg"></a>
 
 Even if you don’t have the team or technology in place to operate from the highest level of active curation just yet, implementing any sort of strategic workflow will still help create efficiencies and allow for batch tasking.
 
