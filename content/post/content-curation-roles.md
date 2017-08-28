@@ -1,6 +1,6 @@
 +++
 Categories = ["Marketing"]
-Description = ""
+Description = "Use this framework of curation roles and responsibilities and free workbook to help you find your workflow, with specific action steps your team can follow."
 Draft = true
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
