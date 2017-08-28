@@ -1,5 +1,5 @@
 +++
-Categories = []
+Categories = ["Marketing"]
 Description = ""
 Draft = true
 Hero_image = ""
@@ -20,7 +20,7 @@ In order for content curation to be truly effective, it should be treated like a
 
 Whether you are a Team of One responsible for developing and implementing a new content curation strategy in addition to your other duties or if you have multiple teammates assigned to tackle the job together, it can be helpful to outline an ideal process and set of responsibilities to make the most of your curation efforts.
 
-As the [need for active curation grows](https://upcontent.com/post/content-overload-remedy/)), it is becoming increasingly critical to create a plan for what content should be curated, from where it should be sourced, and how often and where it should be shared on social media, email newsletters, or on a website. With an agreed upon “curation blueprint” in place, it becomes easier to test and optimize the content curation workflow for more meaningful engagement and, therefore, a stronger return on investment.
+As the [need for active curation grows](https://upcontent.com/post/content-overload-remedy/), it is becoming increasingly critical to create a plan for what content should be curated, from where it should be sourced, and how often and where it should be shared on social media, email newsletters, or on a website. With an agreed upon “curation blueprint” in place, it becomes easier to test and optimize the content curation workflow for more meaningful engagement and, therefore, a stronger return on investment.
 
 To illustrate, [Content Marketing Institute](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog) created this graph showcasing how, as brands move away from simple aggregation tactics and toward more real-time active curation, there is an increase in the need for more content management and a structured workflow.
 
