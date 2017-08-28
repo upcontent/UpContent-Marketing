@@ -101,12 +101,12 @@ Want to make sure every member of your curation squad knows what they are respon
   
 <div class="ck_form ck_vertical_subscription_form">
   <div class="ck_form_content">
-    <h3 class="ck_form_title">Find Your Workflow: A Guide for Content Curation Teams</h3>
+    <h3 class="ck_form_title">Download Find Your Workflow: A Guide for Content Curation Teams</h3>
     <div class="ck_description">
       <span class="ck_image">
         
       </span>
-      <p><img src="https://convertkit.s3.amazonaws.com/assets/pictures/7263/738089/content_ebook2x2.png" "=""></p><p style="text-align: center;">Download your free copy of the workbook to get started on your content curation strategy and workflow.</p>
+      <p><img src="https://convertkit.s3.amazonaws.com/assets/pictures/7263/738089/content_ebook2x2.png" "=""></p>
     </div>
   </div>
 
