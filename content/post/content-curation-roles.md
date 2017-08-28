@@ -14,8 +14,6 @@ pinterest = "/images/2-ways-to-curate-without-being-dull.png"
 title = "5 Content Curation Roles for a Streamlined and Effective Workflow"
 
 +++
-
-
 In order for content curation to be truly effective, it should be treated like any other major aspect of your content marketing strategy: purposefully, with designated roles and tasks for those involved. However, given that curation as a strategic pillar is still in its relatively early stages of adoption for many brands, this structure and personnel support has not been widely discussed.
 
 Whether you are a Team of One responsible for developing and implementing a new content curation strategy in addition to your other duties or if you have multiple teammates assigned to tackle the job together, it can be helpful to outline an ideal process and set of responsibilities to make the most of your curation efforts.
@@ -24,7 +22,7 @@ As the [need for active curation grows](https://upcontent.com/post/content-overl
 
 To illustrate, [Content Marketing Institute](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog) created this graph showcasing how, as brands move away from simple aggregation tactics and toward more real-time active curation, there is an increase in the need for more content management and a structured workflow.
 
-[](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog)[](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog)
+<a href="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"><img src="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"> </a>
 
 Even if you don’t have the team or technology in place to operate from the highest level of active curation just yet, implementing any sort of strategic workflow will still help create efficiencies and allow for batch tasking.
 
