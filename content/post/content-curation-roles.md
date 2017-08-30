@@ -1,7 +1,7 @@
 +++
 Categories = ["Marketing"]
 Description = "Use this framework of curation roles and responsibilities and free workbook to help you find your workflow, with specific action steps your team can follow."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
