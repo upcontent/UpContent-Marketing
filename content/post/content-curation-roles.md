@@ -52,7 +52,7 @@ With a solid foundation in place, it’s time to carry out that plan! Below, you
 
 **Bonus:** Scroll down to access our free workbook to help your content curation team establish an effective workflow
 
-<img src="/uploads/2017/08/28/Group.png" class=" forestry--none forestry--none" style="float: none;">
+<img src="/uploads/2017/08/28/Group.png" style="display: block; margin: auto;">
 
 ## Content Strategist
 
@@ -60,7 +60,7 @@ This individual, usually at the director or manager level, takes a more macro ap
 
 As [Ann Handley writes](http://www.annhandley.com/2013/10/06/a-simple-content-marketing-org-chart/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog), it’s “worth noting that this person doesn’t touch any content. They don’t create or produce much content at all. But, that said, please hire a content strategist who nevertheless does create content on a regular basis. Producing content might not be a part of his or her current job description, but content creation is still so much in their DNA that they can’t help themselves.” In this same fashion, this individual may not be *required* to curate regularly, but given their involvement in the process, they may just as well cast their own vote about what third-party content should be curated here and there. It’s too tempting not to.
 
-<img src="/uploads/2017/08/28/Content%20Scout.png" class=" forestry--none" style="float: none;">
+<img src="/uploads/2017/08/28/Content%20Scout.png" style="display: block; margin: auto;">
 
 ## Content Scout
 
@@ -68,13 +68,13 @@ The Content Scout handles the logistics of identifying where to source content f
 
 This person is always listening for information and resources that might better serve the intended audience.
 
-<img src="/uploads/2017/08/28/Curator.png" class=" forestry--none" style="float: none;">
+<img src="/uploads/2017/08/28/Curator.png" style="display: block; margin: auto;">
 
 ## Curator
 
 Often not a separate role, but rather one part of the other roles above and below, the Curator (or Curators!) accesses the sources the Content Scout has identified, skims headlines, and narrows the content to a list of potential options. He or she then reads the content and determines whether or not it meets the criteria required for sharing, as set by the entire curation team. If the piece of content passes the test, the Curator makes note or flags it for use by the Distributor.
 
-<img src="/uploads/2017/08/28/Distributor.png" class=" forestry--none" style="float: none;">
+<img src="/uploads/2017/08/28/Distributor.png" style="display: block; margin: auto;">
 
 ## Distributor
 
@@ -82,7 +82,7 @@ This individual, also sometimes referred to as a Syndicator, reviews the content
 
 Again, this role is typically a part of other responsibilities.
 
-<img src="/uploads/2017/08/28/Community%20Manager.png" class=" forestry--none" style="float: none;">
+<img src="/uploads/2017/08/28/Community%20Manager.png" style="display: block; margin: auto;">
 
 ## Community Manager
 
@@ -95,5 +95,3 @@ As with any group who is in the [early stages of development](https://project-ma
 If you are a Team of One, take heart! You are likely doing all of these responsibilities already, but organizing your workflow around these roles helps to see where you can continue to improve or expand. Now you can streamline your process even further and take note of what areas you tend to excel in for consideration in bringing on future teammates.
 
 Want to make sure every member of your curation squad knows what they are responsible for and get a jump start on the foundation to your strategy? Download our free workbook that includes a checklist for each role with exercises your team can complete together to develop an effective workflow.
-
-<script async id="_ck_257933" src="https://forms.convertkit.com/257933?v=6"></script>
