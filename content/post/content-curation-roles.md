@@ -8,7 +8,6 @@ author = "Marissa Burdett"
 author_image = "/uploads/2017/06/15/avatar_mb.png"
 category = ""
 date = "2017-08-30T06:00:00-04:00"
-draft = true
 hero_image = "/images/blog-header-default.jpg"
 pinterest = "/uploads/2017/08/29/Pinterest.png"
 title = "5 Content Curation Roles for a Streamlined and Effective Workflow"
