@@ -21,7 +21,7 @@ As the [need for active curation grows](https://upcontent.com/post/content-overl
 
 To illustrate, [Content Marketing Institute](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog) created this graph showcasing how, as brands move away from simple aggregation tactics and toward more real-time active curation, there is an increase in the need for more content management and a structured workflow.
 
-[](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog)[](http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog)
+<a href ="http://contentmarketinginstitute.com/2014/07/hiring-new-content-role/?utm_source=upcontent-blog&utm_medium=upcontent-blog-readers&utm_campaign=curation-roles-blog"><img src="/uploads/2017/08/28/degrees-of-content-curation.jpg" style="display: block; margin: auto;"></a>
 
 Even if you don’t have the team or technology in place to operate from the highest level of active curation just yet, implementing any sort of strategic workflow will still help create efficiencies and allow for batch tasking.
 
@@ -94,3 +94,5 @@ As with any group who is in the [early stages of development](https://project-ma
 If you are a Team of One, take heart! You are likely doing all of these responsibilities already, but organizing your workflow around these roles helps to see where you can continue to improve or expand. Now you can streamline your process even further and take note of what areas you tend to excel in for consideration in bringing on future teammates.
 
 Want to make sure every member of your curation squad knows what they are responsible for and get a jump start on the foundation to your strategy? Download our free workbook that includes a checklist for each role with exercises your team can complete together to develop an effective workflow.
+
+<script async id="_ck_257933" src="https://forms.convertkit.com/257933?v=6"></script>
