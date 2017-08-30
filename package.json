@@ -6,7 +6,7 @@
     "gulp-autoprefixer": "^3.1.1",
     "gulp-load-plugins": "^1.4.0",
     "gulp-sass": "^3.0.0",
-    "node-sass": "^4.1.1",
+    "node-sass": "^4.5.3",
     "through2": "^2.0.0",
     "vinyl-s3": "^0.3.0"
   },
