@@ -1,0 +1,71 @@
+---
+hide_body: false
+fields:
+- name: Categories
+  default: []
+  label: Categories
+  type: list
+  hidden: false
+- name: Description
+  default: ''
+  label: Description
+  type: text
+  hidden: false
+- name: Tags
+  default:
+  - content curation
+  - content marketing
+  - content discovery
+  label: Tags
+  type: list
+  hidden: false
+- name: date
+  default: 2015-08-03 21:03:30 -0400
+  label: Date
+  type: datetime
+  hidden: false
+- name: title
+  default: 2 Ways to Curate Without Being Dull
+  label: Title
+  type: textarea
+  hidden: false
+- name: hero_image
+  default: "/images/blog-header-default.jpg"
+  label: Hero image
+  type: file
+  hidden: false
+- name: author
+  default: ''
+  label: Author
+  type: text
+  hidden: false
+- name: author_image
+  default: ''
+  label: Author image
+  type: file
+  hidden: false
+- name: category
+  default: ''
+  label: Category
+  type: text
+  hidden: false
+- name: pinterest
+  default: "/images/2-ways-to-curate-without-being-dull.png"
+  label: Pinterest
+  type: file
+  hidden: false
+- name: type
+  default: post
+  label: Type
+  type: text
+  hidden: false
+- name: Hero_image
+  default: ''
+  label: Hero image
+  type: text
+  hidden: false
+- name: Draft
+  default: false
+  label: Draft
+  type: boolean
+  hidden: false

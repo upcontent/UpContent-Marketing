@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- name: Description
+  default: ''
+  label: Description
+  type: text
+  hidden: false
+- name: Draft
+  default: true
+  label: Draft
+  type: boolean
+  hidden: false
