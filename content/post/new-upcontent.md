@@ -48,7 +48,7 @@ We also recognize the need to get feedback and approval on curated content from 
 
 With the addition of notes, team members can comment on specific suggestions or on the general topic and view who shared specific suggestions all from the new Activity Log.
 
-![](/uploads/2017/09/19/in-app%20collaboration.png)
+![](/uploads/2017/09/19/in-app%20collaboration-1.png)
 
 **Related:** [5 Content Curation Roles for a Streamlined and Effective Workflow](https://upcontent.com/post/content-curation-roles/) (plus free workbook for teams)
 
