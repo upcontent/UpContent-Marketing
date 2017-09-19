@@ -26,6 +26,8 @@ Before we share what’s new, let’s briefly talk about what you can expect wil
 
 * the same personalized support from our team.
 
+![](/uploads/2017/09/19/main%20screen.png)
+
 Now let’s talk about the exciting new stuff you’ll enjoy with the fresh new UpContent:
 
 ## Collaboration with a Team
@@ -36,6 +38,8 @@ This is by far our biggest addition in this release and we could not be more exc
 
 Our new Teams plan allows you to manage multiple topics under one organization. You can add new members to the same plan and assign permissions based on their role.
 
+![](/uploads/2017/09/19/simple%20account%20management.png)
+
 ### Free Reviewer Access
 
 We also recognize the need to get feedback and approval on curated content from clients and colleagues, so you’ll also be able to grant them reviewer access to make this process much smoother.
@@ -43,6 +47,8 @@ We also recognize the need to get feedback and approval on curated content from 
 ### In-App Collaboration
 
 With the addition of notes, team members can comment on specific suggestions or on the general topic and view who shared specific suggestions all from the new Activity Log.
+
+![](/uploads/2017/09/19/in-app%20collaboration.png)
 
 **Related:** [5 Content Curation Roles for a Streamlined and Effective Workflow](https://upcontent.com/post/content-curation-roles/) (plus free workbook for teams)
 
@@ -58,11 +64,17 @@ You’ll notice that our cards are more streamlined. We’ve made headlines and 
 
 Reading the full article or blog post right within the platform is even easier. Take action on the content you see directly in this view by sharing or opening the original source or, if you are a Professional or Teams user, you can even add a note directly below the full-text. This helps to organize and streamline your curation workflow.
 
+![](/uploads/2017/09/19/full%20text%20view.png)
+
 We’ve also added a handy new feature that notifies you when we’ve found new suggestions for you, so you can quickly identify the latest content for each topic.
+
+![](/uploads/2017/09/19/new%20suggestions.png)
 
 ## Streamlined Topic Management
 
 We can hear the hallelujah chorus now! For our Professional and Teams users, you now have the ability to organize your topics by folders. Whether you work with multiple clients or just like to group your interests by categories, this is a huge time-saver. No more scrolling through all of your topics to find the one you want.
+
+![](/uploads/2017/09/19/topic%20selection.png)
 
 You can also transfer topics to any Team you are a part of and vice versa, so transitioning to a Teams plan is easier than ever.
 
@@ -72,10 +84,13 @@ This may seem trivial, but to many of our seasoned users, we have great news: yo
 
 Your Settings have been updated to make it even easier to keep track of your account information, including billing history, receipts, team management, and more.
 
+![](/uploads/2017/09/19/settings.png)
+
 ## Pricing and Support
 
-We’ve continued to honor our commitment to keeping our pricing simple and straightforward, even with the addition of a new plan. You can visit our more detailed Pricing Page here to find the plan that fits your needs best.
+We’ve continued to honor our commitment to keeping our pricing simple and straightforward, even with the addition of a new plan. You can visit our more detailed Pricing Page [here](https://upcontent.com/pricing) to find the plan that fits your needs best.
 
 As mentioned above, we pride ourselves on providing quality customer service, even with a small, scrappy team. For our Professional and Teams users, we offer proactive topic review and one-on-one training for new users to ensure that you are finding the content you need and receiving the level of support that serves you best. Let us know how we can help you!
 
 Whew. I think that’s it! We’ve listed the biggest highlights of our release, but it’s even better to experience it yourself. Whether you use UpContent as a content source in Hootsuite or in our standalone application, you’ll get to experience these new updates. So go ahead, hop on in, and let us know what you think!
+
