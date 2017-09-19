@@ -1,5 +1,5 @@
 +++
-Categories = []
+Categories = ["Behind-the-Scenes"]
 Description = ""
 Draft = true
 Hero_image = ""
@@ -10,7 +10,7 @@ category = ""
 date = "2017-09-26T00:00:00-04:00"
 draft = true
 hero_image = "/images/blog-header-default.jpg"
-pinterest = "/images/2-ways-to-curate-without-being-dull.png"
+pinterest = "/uploads/2017/09/19/Pinterest (1).png"
 title = "Introducing the Brand New UpContent"
 
 +++
