@@ -26,7 +26,7 @@ Before we share what’s new, let’s briefly talk about what you can expect wil
 
 * the same personalized support from our team.
 
-![](/uploads/2017/09/19/main%20screen.png)
+![](/uploads/2017/09/21/newmainscreen.png)
 
 Now let’s talk about the exciting new stuff you’ll enjoy with the fresh new UpContent:
 
