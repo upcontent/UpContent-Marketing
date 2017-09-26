@@ -14,8 +14,6 @@ pinterest = "/uploads/2017/09/19/Pinterest (1).png"
 title = "Introducing the Brand New UpContent"
 
 +++
-
-
 Today is the day! The brand new UpContent is live and ready for you to enjoy. We’ve [come a long way in our journey](https://upcontent.com/post/hootsuite-integration/) and it’s releases like these that allow us to take a step back and reflect on how far we’ve come. Thank you for being a part of it and for continuing to support us as we work hard to provide the best content discovery tool we can.
 
 Before we share what’s new, let’s briefly talk about what you can expect will stay the same. We’re still committed to:
@@ -26,7 +24,7 @@ Before we share what’s new, let’s briefly talk about what you can expect wil
 
 * the same personalized support from our team.
 
-![](/uploads/2017/09/21/newmainscreen.png)
+<img src="/uploads/2017/09/21/newmainscreen.png" style="display: block; margin: auto;">
 
 Now let’s talk about the exciting new stuff you’ll enjoy with the fresh new UpContent:
 
@@ -95,4 +93,3 @@ We’ve continued to honor our commitment to keeping our pricing simple and stra
 As mentioned above, we pride ourselves on providing quality customer service, even with a small, scrappy team. For our Professional and Teams users, we offer proactive topic review and one-on-one training for new users to ensure that you are finding the content you need and receiving the level of support that serves you best. Let us know how we can help you!
 
 Whew. I think that’s it! We’ve listed the biggest highlights of our release, but it’s even better to experience it yourself. Whether you use UpContent as a content source in Hootsuite or in our standalone application, you’ll get to experience these new updates. So go ahead, hop on in, and let us know what you think!
-
