@@ -36,7 +36,7 @@ This is by far our biggest addition in this release and we could not be more exc
 
 Our new Teams plan allows you to manage multiple topics under one organization. You can add new members to the same plan and assign permissions based on their role.
 
-![](/uploads/2017/09/25/Simple%20Account%20Management.png)
+<img src="/uploads/2017/09/25/Simple%20Account%20Management.png" style="display: block; margin: auto;">
 
 ### Free Reviewer Access
 
@@ -46,7 +46,7 @@ We also recognize the need to get feedback and approval on curated content from 
 
 With the addition of notes, team members can comment on specific suggestions or on the general topic and view who shared specific suggestions all from the new Activity Log.
 
-![](/uploads/2017/09/25/In-App%20Collaboration%20(1).png)
+<img src="/uploads/2017/09/25/In-App%20Collaboration%20(1).png" style="display: block; margin: auto;">
 
 **Related:** [5 Content Curation Roles for a Streamlined and Effective Workflow](https://upcontent.com/post/content-curation-roles/) (plus free workbook for teams)
 
@@ -58,23 +58,23 @@ You may have noticed that UpContent got a fresh new coat of paint! We’ve compl
 
 You’ll notice that our cards are more streamlined. We’ve made headlines and images the main focus, removed the snippet summary, rearranged the [ArtClass](https://upcontent.com/post/machine-learning-for-curation/) classification, and updated our action buttons. Now you can open the original source right from the main view, rather than just when you open the full-text.
 
-![](/uploads/2017/09/25/Card%20Layout.png)
+<img src="/uploads/2017/09/25/Card%20Layout.png" style="display: block; margin: auto;">
 
 ### Full-Text View
 
 Reading the full article or blog post right within the platform is even easier. Take action on the content you see directly in this view by sharing or opening the original source or, if you are a Professional or Teams user, you can even add a note directly below the full-text. This helps to organize and streamline your curation workflow.
 
-![](/uploads/2017/09/25/Full-Text%20View.png)
+<img src="/uploads/2017/09/25/Full-Text%20View.png" style="display: block; margin: auto;">
 
 We’ve also added a handy new feature that notifies you when we’ve found new suggestions for you, so you can quickly identify the latest content for each topic.
 
-<img src="/uploads/2017/09/25/new%20suggestions%20(1).png" class=" forestry--none" style="float: none;">
+<img src="/uploads/2017/09/25/new%20suggestions%20(1).png" style="display: block; margin: auto;">
 
 ## Streamlined Topic Management
 
 We can hear the hallelujah chorus now! For our Professional and Teams users, you now have the ability to organize your topics by folders. Whether you work with multiple clients or just like to group your interests by categories, this is a huge time-saver. No more scrolling through all of your topics to find the one you want.
 
-![](/uploads/2017/09/26/Topic%20Management.png)
+<img src="/uploads/2017/09/26/Topic%20Management.png.png" style="display: block; margin: auto;">
 
 You can also transfer topics to any Team you are a part of and vice versa, so transitioning to a Teams plan is easier than ever.
 
@@ -84,7 +84,7 @@ This may seem trivial, but to many of our seasoned users, we have great news: yo
 
 Your Settings have been updated to make it even easier to keep track of your account information, including billing history, receipts, team management, and more.
 
-![](/uploads/2017/09/25/Settings_png.png)
+<img src="/uploads/2017/09/25/Settings_png.png" style="display: block; margin: auto;">
 
 ## Pricing and Support
 
