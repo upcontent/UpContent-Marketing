@@ -58,7 +58,7 @@ You may have noticed that UpContent got a fresh new coat of paint! We’ve compl
 
 You’ll notice that our cards are more streamlined. We’ve made headlines and images the main focus, removed the snippet summary, rearranged the [ArtClass](https://upcontent.com/post/machine-learning-for-curation/) classification, and updated our action buttons. Now you can open the original source right from the main view, rather than just when you open the full-text.
 
-<img src="/uploads/2017/09/25/Card%20Layout.png" style="display: block; margin: center;">
+<img src="/uploads/2017/09/25/Card%20Layout.png" style="display: block; margin: auto;">
 
 ### Full-Text View
 
