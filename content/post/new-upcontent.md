@@ -32,7 +32,7 @@ Now let’s talk about the exciting new stuff you’ll enjoy with the fresh new 
 
 ## Collaboration with a Team
 
-This is by far our biggest addition in this release and we could not be more excited about it. As the need for active curation grows, so does the need for [more efficient workflows and the ability to collaborate with others](https://upcontent.com/post/content-curation-roles/) on the process. We wanted to be able to support marketing teams of any size, so we added our Teams plan to round out our offerings. Now, whether you are a single user who curates for one brand, a professional user who curates for multiple brands or interests, or a team who works on multiple clients and needs the ability to comment, share, and organize all in one place, there is a plan for you.
+This is by far our biggest addition and we could not be more excited about it. As the need for active curation grows, so does the need for [more efficient workflows and the ability to collaborate with others](https://upcontent.com/post/content-curation-roles/) on the process. We wanted to be able to support marketing teams of any size, so we added our Teams plan to round out our offerings. Now, whether you are a single user who curates for one brand, a professional user who curates for multiple brands or interests, or a team who works on multiple clients and needs the ability to comment, share, and organize all in one place, there is a plan for you.
 
 ### Simple Account Management
 
