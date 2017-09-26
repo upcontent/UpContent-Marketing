@@ -76,6 +76,8 @@ We’ve also added a handy new feature that notifies you when we’ve found new 
 
 We can hear the hallelujah chorus now! For our Professional and Teams users, you now have the ability to organize your topics by folders. Whether you work with multiple clients or just like to group your interests by categories, this is a huge time-saver. No more scrolling through all of your topics to find the one you want.
 
+![](/uploads/2017/09/26/Topic%20Management.png)
+
 You can also transfer topics to any Team you are a part of and vice versa, so transitioning to a Teams plan is easier than ever.
 
 This may seem trivial, but to many of our seasoned users, we have great news: you can now batch delete topics! If you have numerous topics you would like to delete at once–perhaps if you transition away from a client or like to share seasonal content–you can select all or as many as you’d like at once and delete them, rather than having to delete each one manually.
