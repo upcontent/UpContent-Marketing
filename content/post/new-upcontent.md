@@ -14,6 +14,8 @@ pinterest = "/uploads/2017/09/19/Pinterest (1).png"
 title = "Introducing the Brand New UpContent"
 
 +++
+
+
 Today is the day! The brand new UpContent is live and ready for you to enjoy. We’ve [come a long way in our journey](https://upcontent.com/post/hootsuite-integration/) and it’s releases like these that allow us to take a step back and reflect on how far we’ve come. Thank you for being a part of it and for continuing to support us as we work hard to provide the best content discovery tool we can.
 
 Before we share what’s new, let’s briefly talk about what you can expect will stay the same. We’re still committed to:
@@ -58,7 +60,7 @@ You may have noticed that UpContent got a fresh new coat of paint! We’ve compl
 
 You’ll notice that our cards are more streamlined. We’ve made headlines and images the main focus, removed the snippet summary, rearranged the [ArtClass](https://upcontent.com/post/machine-learning-for-curation/) classification, and updated our action buttons. Now you can open the original source right from the main view, rather than just when you open the full-text.
 
-<img src="/uploads/2017/09/25/Card%20Layout.png" style="display: block; margin: auto;">
+<img src="/uploads/2017/09/25/Card%20Layout.png" style="display: block; margin: auto; float: none;" class=" forestry--none">
 
 ### Full-Text View
 
