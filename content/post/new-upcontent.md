@@ -95,4 +95,3 @@ We’ve continued to honor our commitment to keeping our pricing simple and stra
 As mentioned above, we pride ourselves on providing quality customer service, even with a small, scrappy team. For our Professional and Teams users, we offer proactive topic review and one-on-one training for new users to ensure that you are finding the content you need and receiving the level of support that serves you best. Let us know how we can help you!
 
 Whew. I think that’s it! We’ve listed the biggest highlights of our release, but it’s even better to experience it yourself. Whether you use UpContent as a content source in Hootsuite or in our standalone application, you’ll get to experience these new updates. So go ahead, hop on in, and let us know what you think!
-
