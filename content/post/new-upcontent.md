@@ -1,7 +1,7 @@
 +++
 Categories = ["Behind-the-Scenes"]
 Description = "The new UpContent features a fresh interface, simple topic management, and collaboration features to make working on curation streamlined and effective."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"

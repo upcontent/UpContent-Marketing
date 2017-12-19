@@ -8,7 +8,7 @@
 </div>
 
 <div class="blog_listing">
-  {{ range first 100 .Data.Pages.ByPublishDate }}
+  {{ range first 100 .Data.Pages.ByPublishDate.Reverse }}
     {{ if eq .Type "post"}}
     <div class="blog_post">
      <!--  <img src="{{ .Params.pinterest | absURL }}" alt="{{ .Title }}" style="max-width: 100%;"/> -->
