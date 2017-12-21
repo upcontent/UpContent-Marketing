@@ -16,7 +16,7 @@ title = "Content Curation’s Role is Shifting: Our 2018 Predictions"
 +++
 We do a lot of listening at UpContent. It is a core element of who we are. 
 
-Listening to [our customers](https://www.g2crowd.com/products/upcontent/reviews), listening to our partners \[link to partner page if we can get tech partners there as well\], and listening to the conversations occurring around us. This listening has resulted in a great deal of internal conversation, and culminated in a reflection of how we approach the task of curating content. 
+Listening to [our customers](https://www.g2crowd.com/products/upcontent/reviews), listening to our partners, and listening to the conversations occurring around us. This listening has resulted in a great deal of internal conversation, and culminated in a reflection of how we approach the task of curating content. 
 
 One of our proudest accomplishments as we have worked to provide you a solution that evidences our listening, is our interaction with you, the community of UpContent users. We hope that this sharing our our internal reflections will spark a desire to share your perspective as well. 
 
