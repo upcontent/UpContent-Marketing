@@ -20,7 +20,7 @@ Listening to [our customers](https://www.g2crowd.com/products/upcontent/reviews)
 
 One of our proudest accomplishments as we have worked to provide you a solution that evidences our listening, is our interaction with you, the community of UpContent users. We hope that this sharing our our internal reflections will spark a desire to share your perspective as well.
 
-![](/uploads/2017/12/21/2018blog_4.png)
+<img src="/uploads/2017/12/21/2018blog_4.png" alt="2018 Content Curation Predictions" style="margin:auto; display:block; max-width:600px;">
 
 ## Curation is Given a “Seat at the Table”
 
