@@ -1,7 +1,7 @@
 +++
 Categories = ["Marketing"]
 Description = "Our content curation predictions for 2018 include more strategic automation, collaboration, and specialization as part of the larger marketing strategy."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Scott Rogerson"
