@@ -5,12 +5,12 @@ Draft = true
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
-author_image = ""
+author_image = "/uploads/2017/06/15/avatar_mb.png"
 category = ""
 date = "2018-01-23T05:50:00-05:00"
 draft = true
 hero_image = "/images/blog-header-default.jpg"
-pinterest = "/images/2-ways-to-curate-without-being-dull.png"
+pinterest = "/uploads/2018/01/23/curatedcommunity_gianfraco_pinterest.png"
 title = "The Curated Community: Meet Gianfranco Capozzi"
 
 +++
