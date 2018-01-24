@@ -10,5 +10,7 @@
     "through2": "^2.0.0",
     "vinyl-s3": "^0.3.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "concurrent-transform": "^1.0.0"
+  }
 }

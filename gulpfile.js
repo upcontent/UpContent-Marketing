@@ -3,6 +3,7 @@ var gulp = require('gulp'),
     s3 = require('vinyl-s3'),
     through2 = require('through2'),
     sass = require('gulp-sass'),
+    parallelize = require('concurrent-transform'),
     autoprefixer = require('gulp-autoprefixer');
 
 credentials = new AWS.SharedIniFileCredentials({profile: 'upcontent'});
@@ -16,7 +17,7 @@ gulp.task('stage', function() {
             this.push(file);
             done();
         }))
-        .pipe(
+        .pipe(parallelize(
             s3.dest('', {
                 s3: s3obj,
                 awsOptions: {
@@ -24,7 +25,7 @@ gulp.task('stage', function() {
                   CacheControl: 'max-age=300, must-revalidate'
                 }
             })
-        );
+        ), 10);
 });
 
 gulp.task('publish', function() {
@@ -34,7 +35,7 @@ gulp.task('publish', function() {
             this.push(file);
             done();
         }))
-        .pipe(
+        .pipe(parallelize(
             s3.dest('', {
                 s3: s3obj,
                 awsOptions: {
@@ -42,7 +43,7 @@ gulp.task('publish', function() {
                   CacheControl: 'max-age=3600, must-revalidate'
                 }
             })
-        );
+        ), 10);
 });
 
 var sassPaths = [
