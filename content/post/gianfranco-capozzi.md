@@ -18,7 +18,7 @@ For Gianfranco Capozzi, Head of [Esports](http://esports.net/?utm_source=upconte
 
 Whether someone is an esports enthusiast or an occasional viewer or gamer, the Esports community aims to connect people to important information and resources on how to get involved. With a primary focus on millennial gamers who grew up in the “golden age” of old-school video games, it was critical that Esports fuel the channels these individuals were already using with content they would actually care about in order to garner interest and facilitate discussion.  
 
-<img src="/uploads/2018/01/23/curatedcommunity_gianfranco.png" alt="Not supplied" style="margin:auto; display:block; width: 100%; max-width:700px;">
+<img src="/uploads/2018/01/23/curatedcommunity_gianfranco.png" alt="UpContent’s Curated Community featuring Gianfranco Capozzi" style="margin:auto; display:block; width: 100%; max-width:700px;">
 
 ## Exploring Content Curation to Build an Active Community
 
