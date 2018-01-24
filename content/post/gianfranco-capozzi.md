@@ -1,14 +1,14 @@
 +++
 Categories = ["Curated Community"]
 Description = "Head of Esports, Gianfranco Capozzi, shares how using UpContent for content curation has helped grow the Esports social media community by an average of 40%."
-Draft = true
+Draft = false
 Hero_image = ""
 Tags = ["content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
 author_image = "/uploads/2017/06/15/avatar_mb.png"
 category = ""
 date = "2018-01-23T05:50:00-05:00"
-draft = true
+draft = false
 hero_image = "/images/blog-header-default.jpg"
 pinterest = "/uploads/2018/01/23/curatedcommunity_gianfraco_pinterest.png"
 title = "The Curated Community: Meet Gianfranco Capozzi"
@@ -17,7 +17,8 @@ title = "The Curated Community: Meet Gianfranco Capozzi"
 For Gianfranco Capozzi, Head of [Esports](http://esports.net/?utm_source=upcontent-blog&utm_medium=blog&utm_campaign=curated-community "Esports.net"), curating content is not just a “nice-to-have” tactic for his marketing strategy, it’s a critical component. In order to promote his online community and raise awareness around the ever-growing arena of esports, social media and content marketing have become necessary in helping his brand stand out in a competitive industry.
 
 Whether someone is an esports enthusiast or an occasional viewer or gamer, the Esports community aims to connect people to important information and resources on how to get involved. With a primary focus on millennial gamers who grew up in the “golden age” of old-school video games, it was critical that Esports fuel the channels these individuals were already using with content they would actually care about in order to garner interest and facilitate discussion.  
-![](/uploads/2018/01/23/curatedcommunity_gianfranco.png)
+
+<img src="/uploads/2018/01/23/curatedcommunity_gianfranco.png" alt="Not supplied" style="margin:auto; display:block; width: 100%; max-width:700px;">
 
 ## Exploring Content Curation to Build an Active Community
 
