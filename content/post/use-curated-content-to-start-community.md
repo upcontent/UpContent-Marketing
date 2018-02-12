@@ -1,7 +1,6 @@
 +++
 Categories = []
 Description = "Curated content can help fuel a new online community by encouraging buy-in, educating members, and building credibility."
-Draft = true
 Hero_image = ""
 Tags = ["community", "content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
