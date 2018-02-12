@@ -80,4 +80,6 @@ It seems a little backwards to be sending traffic away from your site, but in ac
 
 Now that these misconceptions have been thoroughly debunked, are you ready to get started with your own content curation strategy? We’ve got you covered. Check out our free eBook that will help you develop your own strategy from start to finish:
 
-<script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=6"></script>
+<div data-segment-action="CurationEbookDownloaded">
+    <script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=6"></script>
+</div>
