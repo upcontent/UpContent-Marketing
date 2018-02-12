@@ -24,7 +24,7 @@ Using curated content to fuel an emerging community helps to reduce the constant
 
 _Download our free eBook:_ [_9 Secrets to Keeping Your Community Content Fresh_](https://landing.upcontent.com/vanilla-ebook-download/ "9 Secrets to Keeping Your Community Content Fresh eBook")
 
-![](/uploads/2018/02/09/blogimage_curatedcontent.png)
+![Curated content helps to fuel new online communities](/uploads/2018/02/09/blogimage_curatedcontent.png "3 Ways to Use Curated Content to Start a New Online Community")
 
 ## Why Curated Content Helps Build New Communities in the Inception Stage
 
@@ -46,7 +46,7 @@ Showcasing content from a credible influencer in your space will help encourage 
 
 On their [Instagram](https://www.instagram.com/shopwearwell/ "Wearwell Instagram") account, they curate quotes and third-party content from other brands and individuals who are already doing great things in the ethical shopping space. They discuss related topics, such as consciousness, to build awareness, form connections with those who already support those brands and educate newcomers on why their mission is important and what they hope to accomplish together.
 
-![](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.30.04 PM.png)
+![Wearwell uses curated quotes on sustainable fashion to support new online community on Instagram](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.30.04 PM.png "Wearwell Instagram Post")
 
 ### Relevant News
 
@@ -60,7 +60,7 @@ This doesn’t always have to look like news articles, either. A unique example 
 
 Oculus makes use of news by posting release notes, formatted and repositioned based on which audience they are speaking to. Remember, these audiences care deeply about new updates to products, so this is both timely and highly relevant.
 
-![](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.41.07 PM.png)
+![Oculus shares relevant news and release notes to their community to encourage discussion](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.41.07 PM.png "Oculus Forums")
 
 ### Periodical Recaps
 
