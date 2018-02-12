@@ -75,7 +75,4 @@ A great example of this is the [Breast Cancer Network of Australia](https://www.
 
 By utilizing curated content effectively, your new online community is sure to gain traction and lay the foundation for growth. To learn the ways to use curated content in the other stages of the online community lifecycle, download our free eBook: [9 Secrets to Keeping Your Community Content Fresh](https://landing.upcontent.com/vanilla-ebook-download/ "9 Secrets to Keeping Your Community Content Fresh"), co-authored by our friends at Vanilla.
 
-
-<div data-segment-action="VanillaEbookDownloaded">
-    <script async id="_ck_338119" src="https://forms.convertkit.com/338119?v=6"></script>
-</div>
+<script async id="_ck_338119" src="https://forms.convertkit.com/338119?v=6"></script>
