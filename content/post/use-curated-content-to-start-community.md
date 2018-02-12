@@ -24,7 +24,7 @@ Using curated content to fuel an emerging community helps to reduce the constant
 
 _Download our free eBook:_ [_9 Secrets to Keeping Your Community Content Fresh_](https://landing.upcontent.com/vanilla-ebook-download/ "9 Secrets to Keeping Your Community Content Fresh eBook")
 
-<img src="uploads/2018/02/09/blogimage_curatedcontent.png" alt="3 Ways to Use Curated Content to Start a New Online Community" style="margin:auto; display:block; width: 100%; max-width:700px;">
+![](/uploads/2018/02/09/blogimage_curatedcontent.png)
 
 ## Why Curated Content Helps Build New Communities in the Inception Stage
 
@@ -46,7 +46,7 @@ Showcasing content from a credible influencer in your space will help encourage 
 
 On their [Instagram](https://www.instagram.com/shopwearwell/ "Wearwell Instagram") account, they curate quotes and third-party content from other brands and individuals who are already doing great things in the ethical shopping space. They discuss related topics, such as consciousness, to build awareness, form connections with those who already support those brands and educate newcomers on why their mission is important and what they hope to accomplish together.
 
-<img src="uploads/2018/02/09/Screen Shot 2018-02-09 at 1.30.04 PM.png "Wearwell Instagram Post" alt="Wearwell uses curated quotes on sustainable fashion to support new online community on Instagram" style="margin:auto; display:block; width: 100%; max-width:700px;">
+![](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.30.04 PM.png)
 
 ### Relevant News
 
@@ -60,7 +60,7 @@ This doesn’t always have to look like news articles, either. A unique example 
 
 Oculus makes use of news by posting release notes, formatted and repositioned based on which audience they are speaking to. Remember, these audiences care deeply about new updates to products, so this is both timely and highly relevant.
 
-<img src="uploads/2018/02/09/Screen Shot 2018-02-09 at 1.41.07 PM.png "Oculus Forums" alt="Oculus shares relevant news and release notes to their community to encourage discussion" style="margin:auto; display:block; width: 100%; max-width:700px;">
+![](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.41.07 PM.png)
 
 ### Periodical Recaps
 
@@ -71,8 +71,6 @@ By building value consistently, your members will view your community and its re
 A great example of this is the [Breast Cancer Network of Australia](https://www.bcna.org.au/ "Breast Cancer Network of Australia"). Through their groups, they offer content specifically niched to the audience, like Young Women, fighting breast cancer. On the other end, they do a weekly Friday update, where they round up and highlight all community discussions, upcoming local events and relevant news.
 
 ![Breast Cancer Network of Australia uses curated content periodical recaps for their online community](/uploads/2018/02/09/Screen Shot 2018-02-09 at 1.44.27 PM.png "Breast Cancer Network of Australia Friday Update")
-
-<img src="uploads/2018/02/09/Screen Shot 2018-02-09 at 1.44.27 PM.png "Breast Cancer Network of Australia Friday Update" alt="Breast Cancer Network of Australia uses curated content periodical recaps for their online community" style="margin:auto; display:block; width: 100%; max-width:700px;">
 
 ## Learn More About Using Curated Content in Every Stage of Your Community's Lifecycle
 
