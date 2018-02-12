@@ -1,16 +1,16 @@
 +++
 Categories = []
-Description = ""
+Description = "Curated content can help fuel a new online community by encouraging buy-in, educating members, and building credibility."
 Draft = true
 Hero_image = ""
 Tags = ["community", "content curation", "content marketing", "content discovery"]
 author = "Marissa Burdett"
-author_image = ""
-category = ""
+author_image = "/uploads/2017/06/15/avatar_mb.png"
+category = "Marketing"
 date = "2018-02-12T18:00:00-05:00"
 draft = true
 hero_image = "/images/blog-header-default.jpg"
-pinterest = "/images/2-ways-to-curate-without-being-dull.png"
+pinterest = "/uploads/2018/02/12/pinterest_curatedcontent .png"
 title = "3 Ways to Use Curated Content to Start a New Online Community"
 
 +++
