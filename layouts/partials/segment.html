@@ -3,4 +3,10 @@
 analytics.load("tLIoS4MNDxHokUJGcoO8lopGuwhGVW22");
 analytics.page();
 }}();
+
+$(document).on('click', '.subscribe_button', function (event) {
+    event.preventDefault();
+    let action = $(this).closest('[data-segment-action]').attr('data-segment-action');
+    analytics.track(action);
+});
 </script>
