@@ -95,4 +95,6 @@ If you are a Team of One, take heart! You are likely doing all of these responsi
 
 Want to make sure every member of your curation squad knows what they are responsible for and get a jump start on the foundation to your strategy? Download our free workbook that includes a checklist for each role with exercises your team can complete together to develop an effective workflow.
 
-<script async id="_ck_257933" src="https://forms.convertkit.com/257933?v=6"></script>
+<div data-segment-action="WorkflowEbookDownloaded">
+    <script async id="_ck_257933" src="https://forms.convertkit.com/257933?v=6"></script>
+</div>

@@ -91,4 +91,6 @@ By actively participating in your own curation, you remain just as strong of a p
 
 Want to learn more about how you can build your own content curation strategy? Download our free eBook:
 
-<script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=5"></script>
+<div data-segment-action="CurationEbookDownloaded">
+    <script async id="_ck_57782" src="https://forms.convertkit.com/57782?v=6"></script>
+</div>
